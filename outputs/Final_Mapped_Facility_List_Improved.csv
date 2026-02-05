@@ -1,0 +1,214 @@
+Province,District,Facility Name,Source,MRF TX_CURR,DATIM TX_CURR,Mapped_MRF_Name,Mapped_DATIM_Name,Match_Confidence,Match_Method
+Bulawayo,Bulawayo,Cowdry Park Health Centre,DPL,2252.0,1854.0,Cowdray Park,Cowdray Park - 100348 - Clinic,High,Fuzzy Match (0.96)
+Bulawayo,Bulawayo,E.F. Watson - 100429 - Clinic,DPL,1919.0,0.0,EF Watson,E.F. Watson - 100429 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Emakhandeni - 100443 - Clinic,DPL,4404.0,2743.0,Emakhandeni,Emakhandeni - 100443 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Entumbane - 100449 - Clinic,DPL,2340.0,2097.0,Entumbane,Entumbane - 100449 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Khami - 100733 - Clinic,DPL,0.0,2215.0,No Match Found,Khami - 100733 - Clinic,Medium,Direct ID Match
+Bulawayo,Bulawayo,Luveve - 100786 - Clinic,DPL,5079.0,3859.0,Luveve,Luveve - 100786 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Magwegwe - 100824 - Clinic,DPL,3085.0,2477.0,Magwegwe,Magwegwe - 100824 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Maqhawe - 100893 - Clinic,DPL,3008.0,2575.0,Maqhawe,Maqhawe - 100893 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Mzilikazi - 101202 - Clinic,DPL,4361.0,4047.0,Mzilikazi,Mzilikazi - 101202 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Nkulumane - 101278 - Clinic,DPL,4249.0,3760.0,Nkulumane,Nkulumane - 101278 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Northern Suburbs - 101290 - Clinic,DPL,3408.0,3117.0,Northern Suburbs,Northern Suburbs - 101290 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Princess Margaret - 101429 - Clinic,DPL,2582.0,2657.0,Princess Margaret,Princess Margaret - 101429 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Pumula - 101432 - Clinic,DPL,3046.0,0.0,Pumula,Pumula - 101432 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Pumula South - 101434 - Clinic,DPL,2182.0,2169.0,Pumula South,Pumula South - 101434 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,United Bulawayo Hospital - 101723,DPL,5457.0,0.0,United Bulawayo,United Bulawayo Hospital - 101723 - Central Hospital,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Cesshar,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Bulawayo,Bulawayo,Cowdray Park - 100348 - Clinic,Mobile,2252.0,1854.0,Cowdray Park,Cowdray Park - 100348 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Dr. Shennan - 100418 - Clinic,Mobile,861.0,845.0,Dr Shennan,Dr. Shennan - 100418 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Emganwini Clinic,Mobile,0.0,17.0,No Match Found,Emganwini Clinic,Low,Direct Name Match
+Bulawayo,Bulawayo,Ingutsheni - 100638 - Central Hospital,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Bulawayo,Bulawayo,Mahatshula Clinic,Mobile,0.0,193.0,No Match Found,Mahatshula Clinic,Low,Direct Name Match
+Bulawayo,Bulawayo,Mpilo - 101041 - Central Hospital,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Bulawayo,Bulawayo,Njube - 101273 - Clinic,Mobile,2399.0,2357.0,Njube,Njube - 101273 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Nketa - 101276 - Clinic,Mobile,4001.0,4049.0,Nketa,Nketa - 101276 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Pelandaba - 101412 - Clinic,Mobile,3255.0,2742.0,Pelandaba,Pelandaba - 101412 - Clinic,High,Exact Match (Mapping File)
+Bulawayo,Bulawayo,Thorngrove,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Bulawayo,Bulawayo,Tshabalala - 101710 - Clinic,Mobile,2028.0,1768.0,Tshabalala,Tshabalala - 101710 - Clinic,High,Exact Match (Mapping File)
+Harare,Chitungwiza,Seke North - 101533 - Clinic,DPL,6824.0,0.0,Seke North,Seke North - 101533 - Clinic,High,Exact Match (Mapping File)
+Harare,Chitungwiza,Zengeza Clinic - 100305 - Council Clinic,DPL,6252.0,6062.0,Zengeza,Zengeza Clinic - 100305 - Council Clinic,High,Exact Match (Mapping File)
+Harare,Chitungwiza,Seke South - 101534 - Clinic,Mobile,6432.0,5131.0,Seke South,Seke South - 101534 - Clinic,High,Exact Match (Mapping File)
+Harare,Chitungwiza,St. Mary's - 101633 - Clinic,Mobile,6925.0,6695.0,St Mary's,St. Mary's - 101633 - Clinic,High,Exact Match (Mapping File)
+Harare,Epworth,Epworth - 100451 - Poly Clinic,DPL,2940.0,1429.0,Epworth Mission,Epworth - 100452 - Mission Clinic,High,Exact Match (Mapping File)
+Harare,Epworth,Epworth - 100452 - Mission Clinic,Mobile,2940.0,1429.0,Epworth Mission,Epworth - 100452 - Mission Clinic,High,Exact Match (Mapping File)
+Harare,Epworth,Overspill - 101399 - Satellite Clinic,Mobile,8190.0,6908.0,Overspill,Overspill - 101399 - Satellite Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Belvedere - 100055 - Poly clinic,DPL,1840.0,400.0,Belvedere Satellite,Belvedere - 100055 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Braeside - 100091 - Clinic,DPL,509.0,286.0,Braeside FHS,Braeside - 100091 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Budiriro - 100098 - Poly Clinic,DPL,5331.0,40.0,Budiriro Poly,Budiriro - 100098 - Poly Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Glen Norah - 100506 - Satellite clinic,DPL,2349.0,316.0,Glen Norah Satellite,Glen Norah - 100506 - Satellite clinic,High,Exact Match (Mapping File)
+Harare,Harare,Glen View - 100507 - Poly clinic,DPL,5625.0,0.0,Glen View Poly,Glen View - 100507 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Hatfield - 100585 - Clinic,DPL,2717.0,323.0,Hatfield,Hatfield - 100585 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Highfield - 100593 - Poly Clinic,DPL,4682.0,0.0,Highfield Poly,Highfield - 100593 - Poly Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Kambuzuma - 100695 - Poly clinic,DPL,3065.0,0.0,Kambuzuma,Kambuzuma - 100695 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Kuwadzana - 100751 - Poly Clinic,DPL,5353.0,4838.0,Kuwadzana PolyClinic,Kuwadzana - 100751 - Poly Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Kuwadzana Phase 4 -101851- Clinic,DPL,1962.0,866.0,Kuwadzana Phase 4,Kuwadzana Phase 4 -101851- Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Mabelreign - 100791 - satellite clinic,DPL,2253.0,879.0,Mabelreign Satellite,Mabelreign - 100791 - satellite clinic,High,Exact Match (Mapping File)
+Harare,Harare,Mabvuku - 100797 - Poly Clinic,DPL,4730.0,4811.0,Mabvuku Poly,Mabvuku - 100797 - Poly Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Malborough - 100860 - Council Clinic,DPL,1979.0,1985.0,Marlborough Satellite,Malborough - 100860 - Council Clinic,High,Fuzzy Match (0.95)
+Harare,Harare,Matapi - 100944 - Clinic,DPL,1636.0,818.0,Matapi,Matapi - 100944 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Mbare - 100987 - Poly clinic,DPL,6856.0,0.0,Mbare PolyClinic,Mbare - 100987 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Mbare Hostels - 100988 - Clinic,DPL,2110.0,1349.0,Mbare Hostels,Mbare Hostels - 100988 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Parirenyatwa Primary Care - 101852,DPL,0.0,1251.0,Parirenyatwa,Parirenyatwa Primary Care - 101852 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Rutsanana - 101491 - Clinic,DPL,4057.0,3900.0,Rutsanana Poly,Rutsanana - 101491 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Tafara - 101669 - Clinic,DPL,1268.0,761.0,Tafara FHS,Tafara - 101669 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Warren Park - 101760 - Poly clinic,DPL,3448.0,3212.0,Warren Park PolyClinic,Warren Park - 101760 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Arcadia - 100015 - Clinic,Mobile,973.0,603.0,Arcadia,Arcadia - 100015 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Avondale - 100030 - Clinic,Mobile,1314.0,1274.0,Avondale,Avondale - 100030 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Beatrice Infectious - 100050 - Hospital,Mobile,3032.0,1233.0,Beatrice Road,Beatrice Infectious - 100050 - Hospital,Medium,Fuzzy Match (0.76)
+Harare,Harare,Borrowdale - 100086 - Clinic,Mobile,1268.0,1199.0,Borrowdale,Borrowdale - 100086 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Budiriro - 101889 - Satelite Clinic,Mobile,0.0,107.0,No Match Found,Budiriro - 101889 - Satelite Clinic,Medium,Direct ID Match
+Harare,Harare,Cesshar Mbare,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Harare,Harare,Eastly - 100433 - Clinic,Mobile,0.0,21.0,No Match Found,Eastly - 100433 - Clinic,Medium,Direct ID Match
+Harare,Harare,Glen View - 100508 - Satellite clinic,Mobile,5625.0,0.0,Glen View Poly,Glen View - 100507 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Greendale - 100535 - Clinic,Mobile,0.0,223.0,No Match Found,Greendale - 100535 - Clinic,Medium,Direct ID Match
+Harare,Harare,Hatcliffe - 100584 - Poly clinic,Mobile,5236.0,3494.0,Hatcliffe Poly,Hatcliffe - 100584 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Highlands - 100596 - Clinic,Mobile,112.0,267.0,Highlands Primary Care,Highlands PCC,High,Exact Match (Mapping File)
+Harare,Harare,Highlands PCC,Mobile,112.0,267.0,Highlands Primary Care,Highlands PCC,Medium,Fuzzy Match (0.82)
+Harare,Harare,Hopley - 100608 - Clinic,Mobile,4687.0,2754.0,Hopley,Hopley - 100608 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Mabvuku - 100796 - Clinic,Mobile,4730.0,4811.0,Mabvuku Poly,Mabvuku - 100797 - Poly Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Mt. Pleasant - 101062 - Clinic,Mobile,1267.0,171.0,Mount Pleasant,Mt. Pleasant - 101062 - Clinic,High,Fuzzy Match (0.88)
+Harare,Harare,Mufakose - 101085 - Poly clinic,Mobile,365.0,3775.0,Mufakose Poly,Mufakose - 101085 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Mufakose FHS,Mobile,365.0,3775.0,Mufakose Poly,Mufakose - 101085 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Rujeko - 101469 - Poly clinic,Mobile,4787.0,0.0,Rujeko Poly,Rujeko  - 101469 - Poly clinic,High,Exact Match (Mapping File)
+Harare,Harare,Southerton - 101619 - Clinic,Mobile,579.0,0.0,Southerton,Southerton - 101619 - Clinic,High,Exact Match (Mapping File)
+Harare,Harare,Stoneridge,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Harare,Harare,Wilkins Infectious Disease Hospital,Mobile,3758.0,3382.0,Wilkins Infectious Diseases,Wilkins Infectious Disease Hospital - 101775 - Infectious Disease Hospital,High,Fuzzy Match (0.88)
+Harare,Ruwa,Ruwa - 101493 - Rural Health Centre,DPL,734.0,39.0,Ruwa PolyClinic,Ruwa - 101493 - Rural Health Centre,High,Exact Match (Mapping File)
+Harare,Ruwa,Ruwa Rehabilitation - 101495,Mobile,734.0,39.0,Ruwa PolyClinic,Ruwa - 101493 - Rural Health Centre,High,Exact Match (Mapping File)
+Manicaland,Mutare,Zimunya - 101805 - Clinic,DPL,999.0,304.0,Zimunya,Zimunya - 101805 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Guruve,Bakasa - 100035 - Clinic,Mobile,479.0,500.0,Bakasa,Bakasa - 100035 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Guruve,Bepura - 100058 - Clinic,Mobile,1056.0,718.0,Bepura,Bepura - 100058 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Guruve,Guruve - 100553 - District Hospital,Mobile,1353.0,0.0,Guruve,Guruve - 100553 - District Hospital,High,Exact Match (Mapping File)
+Mash. Central,Guruve,Guruve - 100554 - Clinic,Mobile,1353.0,0.0,Guruve,Guruve - 100553 - District Hospital,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Bare - 100046 - Clinic,Mobile,962.0,0.0,Bare,Bare - 100046 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Concession - 100345 - District Hospital,Mobile,2414.0,0.0,Concession,Concession  - 100345 - District Hospital,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Dambo - 100361 - Clinic,Mobile,820.0,0.0,Dambo,Dambo - 100361 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Donje - 100409 - Clinic,Mobile,698.0,0.0,Donje,Donje - 100409 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Henderson Research - 100590 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mash. Central,Mazowe,Howard - 100611 - Mission Hospital,Mobile,2153.0,48.0,Howard,Howard - 100611 - Mission Hospital,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Mvurwi - 101192 - Hospital,Mobile,2560.0,0.0,Mvurwi,Mvurwi - 101192 - Hospital,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Nzvimbo - 101391 - Clinic,Mobile,1068.0,0.0,Nzvimbo,Nzvimbo - 101391 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Rosa - 101459 - Rural Hospital,Mobile,2002.0,0.0,Rosa Rural,Rosa - 101459 - Rural Hospital,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Suoguru Clinic,Mobile,1210.0,0.0,Suoguru,Suoguru Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mazowe,Tsungubvi - 101717 - Clinic,Mobile,2576.0,0.0,Tsungubvi,Tsungubvi - 101717 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mbire,Angwa - 100010 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mash. Central,Mbire,Chitsungo - 100303 - District Hospital,Mobile,507.0,0.0,Chitsungo,Chitsungo - 100303 - District Hospital,High,Exact Match (Mapping File)
+Mash. Central,Mbire,Mahuwe - 100830 - Clinic,Mobile,535.0,448.0,Mahuwe,Mahuwe - 100830 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mbire,Mushumbi - 101148 - Clinic,Mobile,706.0,103.0,Mushumbi RHC,Mushumbi - 101148 - Clinic,Medium,Fuzzy Match (0.80)
+Mash. Central,Mt Darwin,Karanda - 100709 - Mission Hospital,DPL,813.0,813.0,Karanda,Karanda - 100709 - Mission Hospital,High,Exact Match (Mapping File)
+Mash. Central,Mt Darwin,Matope - 100958 - Clinic,DPL,552.0,0.0,Matope,Matope - 100958 - Clinic,High,Exact Match (Mapping File)
+Mash. Central,Mt Darwin,Mt. Darwin - 101058 - District Hospital,Mobile,3689.0,0.0,Mount Darwin,Mt. Darwin - 101058 - District Hospital,High,Fuzzy Match (0.86)
+Mash. Central,Mt Darwin,Pfunyanguwo - 101414 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mash. Central,Mt Darwin,Tsakare - 101708 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mash. East,Goromonzi,Caledonia - 100115 - Clinic,DPL,3012.0,0.0,Caledonia,Caledonia - 100115 - Clinic,High,Exact Match (Mapping File)
+Mash. East,Marondera,Kushinga Phikelela - 100749 - Clinic,DPL,971.0,801.0,Kushinga Phikhelela Rural Health Centre,Kushinga Phikelela - 100749 - Clinic,High,Fuzzy Match (0.97)
+Mash. East,Murehwa,Murewa - 101129 - District Hospital,DPL,1814.0,1534.0,Murewa Gvt,Murewa - 101128 - Poly Clinic,Medium,Fuzzy Match (0.75)
+Mash. East,UMP,Mutawatawa - 101170 - District Hosptal,DPL,761.0,0.0,Mutawatawa,Mutawatawa - 101170 - District Hosptal,Medium,Fuzzy Match (0.71)
+Mash. East,Goromonzi,Bromley - 100093 - Rural Health Centre,Mobile,899.0,0.0,Bromley,Bromley - 100093 - Rural Health Centre,High,Exact Match (Mapping File)
+Mash. East,Goromonzi,Chinyika - 100242 - Clinic,Mobile,232.0,1297.0,Chinyika,Chinyika - 100242 - Clinic,High,Exact Match (Mapping File)
+Mash. East,Goromonzi,John Reimer - 100668 - Clinic,Mobile,669.0,443.0,Henry John Reimer,John Reimer - 100668 - Clinic,Medium,Fuzzy Match (0.79)
+Mash. East,Goromonzi,Kowoyo - 100742 - Clinic,Mobile,1309.0,1041.0,Kowoyo,Kowoyo - 100742 - Clinic,High,Exact Match (Mapping File)
+Mash. East,Goromonzi,Kubatsirana - 100744 - Clinic,Mobile,892.0,0.0,Kubatsirana,Kubatsirana - 100744 - Clinic,High,Exact Match (Mapping File)
+Mash. East,Goromonzi,Makumbe - 100853 - District Hospital,Mobile,3180.0,2501.0,Makumbe,Makumbe - 100853 - District Hospital,High,Exact Match (Mapping File)
+Mash. East,Goromonzi,Mwanza - 101195 - Rural Health Centre,Mobile,1097.0,1098.0,Mwanza Rural Health Centre,Mwanza - 101195 - Rural Health Centre,High,Exact Match (Mapping File)
+Mash. East,Goromonzi,Rusike - 101479 - Clinic,Mobile,834.0,199.0,Rusike,Rusike - 101479 - Clinic,High,Exact Match (Mapping File)
+Mash. East,Goromonzi,St. Joseph's - 101631 - Rural Health,Mobile,2639.0,1093.0,St Joseph's,St. Joseph's - 101631 - Rural Health centre,High,Exact Match (Mapping File)
+Mash. East,Murehwa,Kadzere - 100686 - Clinic,Mobile,894.0,842.0,Kadzere Rural Health Centre,Kadzere - 100686 - Clinic,High,Exact Match (Mapping File)
+Mash. East,Murehwa,St. Paul's Musami - 101638 - Mission,Mobile,2504.0,2552.0,St Paul's Musami,St. Paul's Musami - 101638 - Mission Hospital,High,Exact Match (Mapping File)
+Mash. East,Seke,Beatrice - 100049 - Rural Hospital,Mobile,2685.0,1233.0,Beatrice Rural,Beatrice - 100049 - Rural Hospital,High,Exact Match (Mapping File)
+Mash. East,Seke,Jonasi - 100673 - Clinic,Mobile,1424.0,0.0,Jonasi,Jonasi - 100673 - Clinic,High,Exact Match (Mapping File)
+Mash. East,Seke,Kunaka - 100746 - Rural Hospital,Mobile,2705.0,0.0,Kunaka,Kunaka - 100746 - Rural Hospital,High,Exact Match (Mapping File)
+Mash. East,UMP,Mashambanhaka - 100924 - Clinic,Mobile,597.0,618.0,Mashambanhaka,Mashambanhaka - 100924 - Clinic,High,Exact Match (Mapping File)
+Mash. East,UMP,Tsokodeka clinic,Mobile,0.0,86.0,No Match Found,Tsokodeka clinic,Low,Direct Name Match
+Mash. West,Chegutu,Padre Pio Poly Clinic,DPL,1259.0,1282.0,Padre Pio Poly,Padre Pio Poly Clinic,High,Exact Match (Mapping File)
+Mash. West,Zvimba,Darwendale - 100368 - Rural Hospital,DPL,1266.0,0.0,Darwendale Rural,Darwendale - 100368 - Rural Hospital,High,Exact Match (Mapping File)
+Mash. West,Mhondoro,Battlefields,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Masvingo,Chiredzi,Chiredzi - 100264 - Hospital,Mobile,4707.0,67.0,Chiredzi,Chiredzi - 100264 - Hospital,High,Exact Match (Mapping File)
+Masvingo,Chiredzi,Chizvirizvi - 100329 - Clinic,Mobile,0.0,241.0,No Match Found,Chizvirizvi - 100329 - Clinic,Medium,Direct ID Match
+Masvingo,Chiredzi,Rapanguwana - 101442 - Clinic,Mobile,690.0,648.0,Rupangwana,Rapanguwana - 101442 - Clinic,High,Fuzzy Match (0.86)
+Masvingo,Chiredzi,Tsovani - 101715 - Clinic,Mobile,2491.0,1677.0,Tshovani,Tsovani - 101715 - Clinic,High,Fuzzy Match (0.93)
+Masvingo,Chivi,Chivi - 100319 - Rural Hospital,Mobile,2347.0,82.0,Chivi,Chivi - 100317 - District Hospital,High,Exact Match (Mapping File)
+Masvingo,Chivi,Mhandamabwe - 101011 - RHC,Mobile,1170.0,1113.0,Mandamabwe Rural Health Centre,Mhandamabwe - 101011 - Rural Health Centre,Medium,Fuzzy Match (0.80)
+Masvingo,Chivi,Nyahombe - 101316 - Clinic,Mobile,1321.0,1070.0,Nyahombe Rural Health Centre,Nyahombe - 101316 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Chivi,Zivuku - 101812 - Clinic,Mobile,751.0,687.0,Zivuku,Zivuku - 101812 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Gutu,Chinyika - 100243 - Rural Health Centre,Mobile,232.0,520.0,Chinyika Rural,Chinyika - 100243 - Rural Health Centre,High,Exact Match (Mapping File)
+Masvingo,Gutu,Gutu - 100557 - Mission Hospital,Mobile,1360.0,412.0,Gutu,Gutu - 100557 - Mission Hospital,High,Exact Match (Mapping File)
+Masvingo,Gutu,Majada - 100833 - Rural Health Centre,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Masvingo,Gutu,Nemashakwe - 101224 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Masvingo,Gutu,Zvavahera - 101824 - Clinic,Mobile,489.0,304.0,Zvavahera Rural Health Centre,Zvavahera - 101824 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Bondolfi - 100082 - Rural Hospital,Mobile,586.0,584.0,Bondolfi,Bondolfi - 100082 - Rural Hospital,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Charumbira - 100141 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Masvingo,Masvingo,Guwa - 100559 - Clinic,Mobile,510.0,0.0,Guwa Rural Health Centre,Guwa - 100559 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Mapanzure - 100884 - Clinic,Mobile,648.0,0.0,Mapanzure,Mapanzure - 100884 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Mogenester - 101030 - Mission Hospital,Mobile,1351.0,2.0,Morgenster,Mogenester - 101030 - Mission Hospital,High,Fuzzy Match (0.90)
+Masvingo,Masvingo,Mucheke - 101077 - Clinic,Mobile,2483.0,490.0,Mucheke,Mucheke - 101077 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Mushandike - 101142 - Clinic,Mobile,834.0,0.0,Mushandike Rural Health Centre,Mushandike - 101142 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Musvovi - 101158 - Clinic,Mobile,820.0,305.0,Musvovi Rural Health Centre,Musvovi - 101158 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Nemwanwa - 101228 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Masvingo,Masvingo,Ngomahuru - 101253 - RHC,Mobile,0.0,212.0,No Match Found,Ngomahuru - 101253 - Rural Health Centre,Medium,Direct ID Match
+Masvingo,Masvingo,Nyajena - 101321 - Rural Hospital,Mobile,764.0,91.0,Nyajena Rural,Nyajena - 101321 - Rural Hospital,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Nyikavanhu - 101386 - RHC,Mobile,1019.0,319.0,Nyikavanhu Rural Health Centre,Nyikavanhu - 101386 - Rural Health Centre,Medium,Fuzzy Match (0.83)
+Masvingo,Masvingo,Renco - 101449 - Mine Clinic,Mobile,0.0,0.0,No Match Found,Renco - 101449 - Mine Clinic,Medium,Direct ID Match
+Masvingo,Masvingo,Rujeko - 101468 - Clinic,Mobile,4787.0,0.0,Rujeko,Rujeko - 101468 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Rukovo - 101470 - Clinic,Mobile,515.0,63.0,Rukovo,Rukovo - 101470 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Runyararo NW Council Clinic,Mobile,21.0,1343.0,Runyararo,Runyararo - 101473 - Clinic,High,Fuzzy Match (0.86)
+Masvingo,Masvingo,Shonganiso - 101566 - Clinic,Mobile,0.0,389.0,No Match Found,Shonganiso - 101566 - Clinic,Medium,Direct ID Match
+Masvingo,Masvingo,Shumba - 101569 - Clinic,Mobile,275.0,1.0,Shumba,Shumba - 101569 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Masvingo,Zimuto BC-101885-Clinic,Mobile,0.0,42.0,No Match Found,Zimuto BC-101885-Clinic,Medium,Direct ID Match
+Masvingo,Mwenezi,Chimbudzi - 100211 - Clinic,Mobile,410.0,0.0,Chimbudzi Rural Health Centre,Chimbudzi - 100211 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Mwenezi,Neshuro - 101232 - District Hospital,Mobile,1521.0,0.0,Neshuro,Neshuro - 101232 - District Hospital,High,Exact Match (Mapping File)
+Masvingo,Zaka,Bvukururu - 100110 - Clinic,Mobile,783.0,780.0,Bvukururu,Bvukururu - 100110 - Clinic,High,Exact Match (Mapping File)
+Masvingo,Zaka,Jerera - 100659 - Satelite Clinic,Mobile,0.0,2.0,No Match Found,Jerera - 100659 - Satelite Clinic,Medium,Direct ID Match
+Masvingo,Zaka,Musiso - 101153 - Mission Hospital,Mobile,1691.0,8.0,Musiso,Musiso - 101153 - Mission Hospital,High,Exact Match (Mapping File)
+Masvingo,Zaka,Ndanga - 101210 - Hospital,Mobile,2815.0,263.0,Ndanga,Ndanga - 101210 - Hospital,High,Exact Match (Mapping File)
+Masvingo,Zaka,Svuvure - 101665 - Rural Health Hospital,Mobile,529.0,428.0,Svuure Rural Health Centre,Svuvure - 101665 - Rural Health Hospital,High,Fuzzy Match (0.92)
+Mat. North,Bubi,Mbembeswana - 100990 - RHC,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mat. North,Lupane,Lupane - 100781 - Rural Health Centre,Mobile,1904.0,1937.0,Lupane Rural Health Centre,Lupane - 100781 - Rural Health Centre,High,Exact Match (Mapping File)
+Mat. North,Nkayi,Dakamela - 100357 - Rural Hospital,Mobile,875.0,512.0,Dakamela Rural,Dakamela - 100357 - Rural Hospital,High,Exact Match (Mapping File)
+Mat. North,Nkayi,Nkayi - 101275 - District Hospital,Mobile,1530.0,0.0,Nkayi,Nkayi - 101275 - District Hospital,High,Exact Match (Mapping File)
+Mat. North,Umguza,Mbembesi - 100989 - Rural Health Centre,Mobile,1076.0,0.0,Mbembesi Rural health Centre,Mbembesi - 100989 - Rural Health Centre,High,Exact Match (Mapping File)
+Mat. North,Umguza,Nyamandlovu - 101332 - Hospital,Mobile,1111.0,0.0,Nyamandlovu,Nyamandlovu - 101332 - Hospital,High,Exact Match (Mapping File)
+Mat. North,Umguza,Redwood - 101447 - Clinic,Mobile,651.0,0.0,Redwood,Redwood - 101447 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Beitbridge,Dulibadzimu - 100423 - Clinic,Mobile,1722.0,0.0,Dulibadzimu,Dulibadzimu - 100423 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Beitbridge,Mtetengwe - 101069 - Clinic,Mobile,853.0,0.0,Mtetengwe,Mtetengwe - 101069 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Beitbridge,Zezane - 101787 - Clinic,Mobile,1202.0,981.0,Zezani,Zezane - 101787 - Clinic,Medium,Fuzzy Match (0.83)
+Mat. South,Bulilima,Lady Barring - 100755 - Mission Hospital,Mobile,765.0,757.0,Lady Barring Rural,Lady Barring - 100755 - Mission Hospital,High,Exact Match (Mapping File)
+Mat. South,Bulilima,Ndiweni - 101211 - Clinic,Mobile,785.0,797.0,Ndiweni,Ndiweni - 101211 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Bulilima,Sikhatini - 101585 - Clinic,Mobile,811.0,793.0,Sikhathini,Sikhatini - 101585 - Clinic,High,Fuzzy Match (0.95)
+Mat. South,Gwanda,Manama - 100867 - Mission Hospital,Mobile,1001.0,0.0,Manama,Manama - 100867 - Mission Hospital,High,Exact Match (Mapping File)
+Mat. South,Gwanda,Selonga - 101536 - Rural Health Centre,Mobile,946.0,815.0,Selonga,Selonga - 101536 - Rural Health Centre,High,Exact Match (Mapping File)
+Mat. South,Insiza,Nkankezi - 101274 - Rural Health Centre,Mobile,1200.0,1302.0,Nkankezi Rural Health Centre,Nkankezi - 101274 - Rural Health Centre,High,Exact Match (Mapping File)
+Mat. South,Insiza,Shangani - 101557 - Rural Hospital,Mobile,219.0,211.0,Shangani Rural,Shangani - 101556 - Mine Clinic,High,Exact Match (Mapping File)
+Mat. South,Insiza,Singwango - 101603 - Clinic,Mobile,953.0,913.0,Singwango,Singwango - 101603 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Insiza,Zhulube - 101793 - Clinic,Mobile,1153.0,825.0,Zhulube,Zhulube - 101793 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Mangwe,Bango - 100042 - Clinic,Mobile,601.0,595.0,Bango Rural Health Centre,Bango - 100042 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Mangwe,Dingumuzi - 100394 - Clinic,Mobile,677.0,600.0,Dingumuzi,Dingumuzi - 100394 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Mangwe,Ingwizi - 100639 - Clinic,Mobile,1311.0,1145.0,Ingwizi Rural Health Centre,Ingwizi - 100639 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Mangwe,SANZUKWI - 101529 - Clinic,Mobile,691.0,644.0,Sanzukwi,SANZUKWI - 101529 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Mangwe,St. Annes Brunapeg - 101642 - Mission,Mobile,943.0,722.0,St Annes Mission Hospital (Brunapeg),St. Annes Brunapeg - 101642 - Mission Hospital,High,Exact Match (Mapping File)
+Mat. South,Mangwe,Tshitshi - 101712 - Clinic,Mobile,940.0,875.0,Tshitshi,Tshitshi - 101712 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Matobo,Kezi - 100732 - Rural Hospital,Mobile,1145.0,0.0,Kezi Rural,Kezi - 100732 - Rural Hospital,High,Exact Match (Mapping File)
+Mat. South,Matobo,Matobo Rural - 100957 - Rural Hospital,Mobile,762.0,660.0,Mayobodo Rural Health Centre,Mayobodo - 100972 - Rural Health Centre,Medium,Fuzzy Match (0.71)
+Mat. South,Matobo,Natisa - 101208 - Rural Health Centre,Mobile,780.0,757.0,Natisa Rural Health Centre,Natisa - 101208 - Rural Health Centre,High,Exact Match (Mapping File)
+Mat. South,Matobo,St. Joseph's - 101644 - Rural Hospital,Mobile,2639.0,1093.0,St Joseph's,St. Joseph's - 101644 - Rural Hospital,High,Exact Match (Mapping File)
+Mat. South,Matobo,Tshelanyemba - 101711 - Mission Hospital,Mobile,1605.0,0.0,Tshelanyemba,Tshelanyemba - 101711 - Mission Hospital,High,Exact Match (Mapping File)
+Mat. South,Umzingwane,Habani - 100578 - Clinic,Mobile,543.0,0.0,Habane,Habani - 100578 - Clinic,Medium,Fuzzy Match (0.83)
+Mat. South,Umzingwane,How Mine - 100610 - Mine Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mat. South,Umzingwane,Mawabeni - 100969 - Clinic,Mobile,1004.0,824.0,Mawabeni,Mawabeni - 100969 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Umzingwane,Nhlangano - 101269 - Clinic,Mobile,720.0,0.0,Nhlangano,Nhlangano - 101269 - Clinic,High,Exact Match (Mapping File)
+Mat. South,Umzingwane,Ntshamathe - 101304 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mat. South,Umzingwane,Umzingwane - 101725 - Clinic,Mobile,0.0,0.0,No Match Found,No Match Found,Low,None
+Mat. South,Umzingwane,Zimbili - 101911 - Clinic,Mobile,0.0,216.0,No Match Found,Zimbili Clinic,Low,Direct Name Match
+Midlands,Gweru,Somabula - 101613 - Clinic,Mobile,0.0,380.0,No Match Found,Somabula - 101613 - Clinic,Medium,Direct ID Match
+Midlands,Kwekwe,Sherwood - 101561 - Clinic,Mobile,773.0,531.0,Sherwood,Sherwood - 101561 - Clinic,High,Exact Match (Mapping File)
+,,,,,,,,,
+,,=== SUMMARY STATISTICS ===,,,,,,,
+,,High Confidence Matches: 158,,,,,,,
+,,Medium Confidence Matches: 22,,,,,,,
+,,Low/No Matches: 23,,,,,,,
+,,,,,,,,,
+,,=== TOTALS ===,,,,,,,
+,,TOTAL (204 Sites),,336078.0,179100.0,,,,
+,,NATIONAL TOTAL,,1230098.0,326954.0,,,,
+,,PROPORTION (%),,27.32,54.78,,,,

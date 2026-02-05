@@ -1,0 +1,522 @@
+﻿MRF_Province,MRF_District,MRF_Facility,EHR_Province,EHR_District,DATIM_Site_Name,EHR_FacilityName,Facility ID,E-HR Status
+Mashonaland Central,Mazowe,Adura,MASHONALAND CENTRAL,Mazowe,Ardura - 100025 - Rural Health Centre,ARDURA,ZW020408,ACTIVE
+Midlands,Kwekwe,Al Davies,MIDLANDS,Kwekwe,Al Davies - 100004 - Clinic,Al Davies Clinic,ZW070586,ACTIVE
+Mashonaland West,Makonde,Alaska Munic,MASHONALAND WEST,Makonde,Alaska - 100005 - Clinic,Alaska Munic Clinic,ZW040463,ACTIVE
+Midlands,Kwekwe,Amaveni,MIDLANDS,Kwekwe,Amaveni - 100008 - Clinic,Amaveni Clinic,ZW070561,ACTIVE
+Matabeleland South,Insiza,Amazon,MATEBELELAND SOUTH,Insiza,Amazon Clinic,Amazon Clinic,ZW060430,ACTIVE
+Harare Metropolitan,Harare City,Arcadia,HARARE,Harare,Arcadia - 100015 - Clinic,ha Arcadia Clinic,ZW000A02,ACTIVE
+Harare Metropolitan,Harare City,Avondale,HARARE,Harare,Avondale - 100030 - Clinic,ha Avondale Clinic,ZW000A01,ACTIVE
+Mashonaland Central,Guruve,Bakasa,MASHONALAND CENTRAL,Guruve,Bakasa - 100035 - Clinic,mc Bakasa Clinic,ZW020326,ACTIVE
+Mashonaland Central,Mount Darwin,Bandimba,MASHONALAND CENTRAL,Mt Darwin,Bandimba - 100040 - Rural Health Centre,BANDIMBA,ZW020533,ACTIVE
+Matabeleland South,Mangwe,Bango Rural Health Centre,MATEBELELAND SOUTH,Mangwe,Bango - 100042 - Clinic,Bango Rural Health Centre,ZW060709,ACTIVE
+Mashonaland West,Zvimba,Banket District Hospital OPD,MASHONALAND WEST,Zvimba,Banket - 100044 - District Hospital,Banket District Hospital,ZW04070A,ACTIVE
+Mashonaland Central,Mazowe,Bare,MASHONALAND CENTRAL,Mazowe,Bare - 100046 - Clinic,BARE,ZW020425,ACTIVE
+Harare Metropolitan,Harare City,Beatrice Road,HARARE,Harare,Beatrice Infectious - 100050 - Hospital,Beatrice Road Infectious Diseases Hosp,ZW000A0C,ACTIVE
+Mashonaland East,Seke,Beatrice Rural,MASHONALAND EAST,Seke,Beatrice - 100049 - Rural Hospital,Beatrice Rural Hospital,ZW03090A,ACTIVE
+Mashonaland West,Chegutu,Beersheba Mission,MASHONALAND WEST,Chegutu,Beersheba - 100051 - Clinic,Beersheba  Clinic,ZW040187,ACTIVE
+Mashonaland Central,Mazowe,Belgownie,MASHONALAND CENTRAL,Mazowe,Belgone Clinic - 100054 - Clinic,BELGOWNIE,ZW020445,ACTIVE
+Harare Metropolitan,Harare City,Belvedere Satellite,HARARE,Harare,Belvedere - 100055 - Poly clinic,Belvedere Poly clinic,ZW000A05,ACTIVE
+Mashonaland Central,Guruve,Bepura,MASHONALAND CENTRAL,Guruve,Bepura - 100058 - Clinic,mc Bepura Clinic,ZW020327,ACTIVE
+Masvingo,Masvingo,Bere,MASVINGO,Masvingo,Bere - 100059 - Clinic,Bere Clinic,ZW080530,ACTIVE
+Masvingo,Chivi,Berejena,MASVINGO,Chivi,Berejena - 100060 - Mission Clinic,Berejena Mission Hospital,ZW08030C,ACTIVE
+Matabeleland South,Bulilima,Bezu,MATEBELELAND SOUTH,Bulilima,Bezu - 100066 - Clinic,Bezu Clinic ,ZW060234,ACTIVE
+Manicaland,Buhera,Birchenough Bridge,MANICALAND,Buhera,Birchenough - 100075 - Rural Hospital,Birchenough,ZW01010B,ACTIVE
+Manicaland,Mutasa,Bonda,MANICALAND,Mutasa,Bonda - 100080 - Mission Hospital,Bonda Mission Hospital,ZW01060B,ACTIVE
+Masvingo,Masvingo,Bondolfi,MASVINGO,Masvingo,Bondolfi - 100082 - Rural Hospital,Bondolfi Clinic,ZW080591,ACTIVE
+Mashonaland East,Marondera,Border Church Rural Health Centre,MASHONALAND EAST,Goromonzi,Border Church - 100083 - Rural Health Centre,Border Church Rural Health Centre,ZW030501,ACTIVE
+Harare Metropolitan,Harare City,Borrowdale,HARARE,Harare,Borrowdale - 100086 - Clinic,ha Borrowdale Clinic,ZW000A07,ACTIVE
+Masvingo,Zaka,Bota,MASVINGO,Zaka,Bota - 100088 - Clinic,Bota Clinic,ZW080725,ACTIVE
+Masvingo,Mwenezi,Boterere,MASVINGO,Mwenezi,Boterere - 100089 - Rural Health Centre,Boterere Clinic,ZW080631,ACTIVE
+Harare Metropolitan,Harare City,Braeside FHS,HARARE,Harare,Braeside - 100091 - Clinic,ha Braeside FHS Clinic,ZW000A08,ACTIVE
+Mashonaland East,Goromonzi,Bromley,MASHONALAND EAST,Goromonzi,Bromley - 100093 - Rural Health Centre,Bromley Clinic,ZW030245,ACTIVE
+Mashonaland West,Chegutu,Brunswick,MASHONALAND WEST,Chegutu,Brunswick - 100094 - Clinic,Brunswick Clinic,ZW040180,ACTIVE
+Matabeleland North,Tsholotsho,Bubude,MATEBELELAND NORTH,Tsholotsho,Bubude - 100096 - Clinic,Bubude Clinic,ZW050625,ACTIVE
+Harare Metropolitan,Harare City,Budiriro Poly,HARARE,Harare,Budiriro - 100098 - Poly Clinic,ha Budiriro PolyClinic,ZW000A09,ACTIVE
+Harare Metropolitan,Harare City,Budiriro Satellite,HARARE,Harare,Budiriro - 101889 - Satelite Clinic,ha Budiriro Satellite Clinic,ZW000A69,ACTIVE
+Manicaland,Buhera,Buhera Rural,MANICALAND,Buhera,Buhera - 100099 - Rural Hospital,Buhera Rural Clinic,ZW01010A,ACTIVE
+Manicaland,Mutare,Burma Valley,MANICALAND,Mutare,Burma Valley - 100103 - Clinic,Burma Valley Clinic,ZW010545,ACTIVE
+Matabeleland South,Gwanda,Buvuma,MATEBELELAND SOUTH,Gwanda,Buvuma - 100107 - Clinic,Buvuma Clinic,ZW060325,ACTIVE
+Masvingo,Zaka,Bvukururu,MASVINGO,Zaka,Bvukururu - 100110 - Clinic,Bvukururu Clinic,ZW080726,ACTIVE
+Mashonaland East,Goromonzi,Caledonia,MASHONALAND EAST,Goromonzi,Caledonia - 100115 - Clinic,Caledonia Clinic,ZW000A57,ACTIVE
+Mashonaland West,Sanyati,Chakari Mine,MASHONALAND WEST,Sanyati,Chakari - 100125 - Mine Clinic,Chakari Mine Clinic,ZW040689,ACTIVE
+Matabeleland South,Beitbridge,Chamnangana,MATEBELELAND SOUTH,Beitbridge,Chamunangana - 100132 - Clinic,Chamnangana Clinic,ZW060177,ACTIVE
+Manicaland,Buhera,Chapanduka,MANICALAND,Buhera,Chapanduka - 100134 - Clinic,Chapanduka,ZW010127,ACTIVE
+Matabeleland South,Beitbridge,Chaswingo,MATEBELELAND SOUTH,Beitbridge,Chasvingo - 100143 - Clinic,Chaswingo Clinic,ZW060125,ACTIVE
+Mashonaland Central,Mount Darwin,Chawanda,MASHONALAND CENTRAL,Mt Darwin,Chawanda - 100146 - Clinic,CHAWANDA,ZW020525,ACTIVE
+Mashonaland West,Chegutu,Chegutu District Hospital OPD,MASHONALAND WEST,Chegutu,Chegutu - 100153 - District Hospital,Chegutu District Hospital,ZW04010A,ACTIVE
+Midlands,Gokwe South,Chemahororo,MIDLANDS,Gokwe South,Chemahororo - 100156 - Clinic,Chemahororo Clinic,ZW070325,ACTIVE
+Masvingo,Gutu,Cheshuro,MASVINGO,Gutu,Cheshuro - 100161 - Clinic,Cheshuro Clinic,ZW080425,ACTIVE
+Midlands,Gokwe South,Cheziya,MIDLANDS,Gokwe South,Cheziya - 100162 - Clinic,Cheziya Clinic,ZW070313,ACTIVE
+Manicaland,Chipinge,Chibuwe,MANICALAND,Chipinge,Chibuwe - 100167 - Clinic,Chibuwe Clinic,ZW010325,ACTIVE
+Mashonaland West,Hurungwe,Chidamoyo,MASHONALAND WEST,Hurungwe,Chidamoyo - 100169 - Mission Hospital,Chidamoyo Mission Hospital,ZW04020D,ACTIVE
+Midlands,Mberengwa,Chidembeko,MIDLANDS,Mberengwa,Chedembeko - 100151 - Clinic,Chidembeko Clinic,ZW070627,ACTIVE
+Midlands,Mberengwa,Chiedza,MIDLANDS,Mberengwa,Chiedza - 100176 - Clinic,Chiedza Clinic,ZW070640,ACTIVE
+Manicaland,Mutare,Chikanga,MANICALAND,Mutare,Chikanga - 100182 - Clinic,Chikanga Clinic,ZW010562,ACTIVE
+Masvingo,Chiredzi,Chikombedzi,MASVINGO,Chiredzi,Chikombedzi - 100188 - Hospital,Chikombedzi Mission Hospital,ZW08020B,ACTIVE
+Mashonaland West,Makonde,Chikonohono Munic,MASHONALAND WEST,Makonde,Chikonohono - 100190 - Clinic,Chikonohono Munic Clinic,ZW040462,ACTIVE
+Manicaland,Chipinge,Chikore,MANICALAND,Chipinge,Chikore - 100191 - Mission Hospital,Chikore Mission Hospital,ZW01030B,ACTIVE
+Mashonaland East,Goromonzi,Chikwaka Rural,MASHONALAND EAST,Goromonzi,Chikwaka - 100198 - Rural Hospital,Chikwaka Rural Hospital,ZW03020D,ACTIVE
+Midlands,Gweru,Child Welfare,MIDLANDS,Gweru,Child Welfare - 100205 - Clinic,Child Welfare Clinic,ZW070469,ACTIVE
+Masvingo,Chiredzi,Chilonga Rural Health Centre,MASVINGO,Chiredzi,Chilonga - 100206 - Clinic,Chilonga Rural Health Centre,ZW080202,ACTIVE
+Masvingo,Mwenezi,Chimbudzi Rural Health Centre,MASVINGO,Mwenezi,Chimbudzi - 100211 - Clinic,Chimbudzi Rural Health Centre,ZW080601,ACTIVE
+Masvingo,Gutu,Chimombe Rural,MASVINGO,Gutu,Chimombe - 100215 - Rural Hospital,Chimombe Rural Hospital,ZW08040B,ACTIVE
+Mashonaland East,Goromonzi,Chinamhora,MASHONALAND EAST,Goromonzi,Chinamhora - 100219 - Clinic,Chinamhora Clinic,ZW030225,ACTIVE
+Mashonaland West,Chegutu,Chinengundu,MASHONALAND WEST,Chegutu,Chinengundu - 100225 - Clinic,Chinengundu Clinic,ZW040162,ACTIVE
+Midlands,Mberengwa,Chingezi,MIDLANDS,Mberengwa,Chingezi - 100228 - Clinic,Chingezi Clinic,ZW070628,ACTIVE
+Mashonaland West,Mhondoro,Chingondo RDC,MASHONALAND WEST,Mhondoro,Chingondo - 100229 - Clinic,Chingondo RDC Clinic,ZW040518,ACTIVE
+Masvingo,Mwenezi,Chingwizi,MASVINGO,Mwenezi,Chingwizi - 100230 - Satelite Clinic,Chingwizi Clinic,ZW080608,ACTIVE
+Mashonaland West,Hurungwe,Chinhere,MASHONALAND WEST,Hurungwe,Chinhere - 100232 - Council Clinic,Chinhere Clinic,ZW040225,ACTIVE
+Mashonaland West,Makonde,Chinhoyi Munic,MASHONALAND WEST,Makonde,Chinhoyi Clinic - 100233 - Clinic,Chinhoyi Munic Clinic,ZW040461,ACTIVE
+Mashonaland West,Makonde,Chinhoyi Provincial Hospital OPD,MASHONALAND WEST,Makonde,Chinhoyi  - 100235 - Provincial Hospital,Chinhoyi Provincial Hospital,ZW04040A,ACTIVE
+Mashonaland East,Goromonzi,Chinyika,MASHONALAND EAST,Goromonzi,Chinyika - 100242 - Clinic,Chinyika Clinic,ZW030226,ACTIVE
+Masvingo,Gutu,Chinyika Rural,MASVINGO,Gutu,Chinyika - 100243 - Rural Health Centre,Chinyika Rural Hospital,ZW08040D,ACTIVE
+Mashonaland East,Marondera,Chiota Rural,MASHONALAND EAST,Marondera,Chiota - 100247 - Rural Hospital,Chiota Rural Hospital,ZW03050B,ACTIVE
+Mashonaland East,Marondera,Chipararwe Council,MASHONALAND EAST,Marondera,Chiparawe - 100250 - Clinic,Chipararwe Council Clinic,ZW030529,ACTIVE
+Manicaland,Chipinge,Chipinge,MANICALAND,Chipinge,Chipinge Town - 100257 - Clinic,Chipinge Town Clinic,ZW010349,ACTIVE
+Masvingo,Chiredzi,Chipiwa,MASVINGO,Chiredzi,Chipiwa - 100259 - Clinic,Chipiwa Clinic,ZW080226,ACTIVE
+Masvingo,Zaka,Chiredzana,MASVINGO,Zaka,Chiredzana - 100263 - Clinic,Chiredzana Clinic,ZW080729,ACTIVE
+Masvingo,Chiredzi,Chiredzi,MASVINGO,Chiredzi,Chiredzi - 100264 - Hospital,Chiredzi District Hospital,ZW08020A,ACTIVE
+Masvingo,Mwenezi,Chirindi Rural Health Centre,MASVINGO,Mwenezi,Chirindi - 100268 - Clinic,Chirindi Rural Health Centre,ZW080602,ACTIVE
+Manicaland,Mutare,Chitakatira,MANICALAND,Mutare,Chitakatira - 100285 - Clinic,Chitakatira Clinic,ZW010529,ACTIVE
+Masvingo,Gutu,Chitando Rural Health Centre,MASVINGO,Gutu,Chitando - 100287 - Rural Health Centre,Chitando Rural Health Centre,ZW080408,ACTIVE
+Mashonaland East,Murewa,Chitate Rural Health Centre,MASHONALAND EAST,Murehwa,Chitate - 100290 - Rural Health Centre,Chitate Rural Health Centre,ZW030701,ACTIVE
+Mashonaland Central,Mount Darwin,Chitse,MASHONALAND CENTRAL,Mt Darwin,Chitse - 100302 - Clinic,CHITSE,ZW020534,ACTIVE
+Mashonaland Central,Mbire,Chitsungo,MASHONALAND CENTRAL,Mbire,Chitsungo - 100303 - District Hospital,Chitsungo Mission Hospital,ZW02080B,ACTIVE
+Mashonaland West,Hurungwe,Chivende Rural Health Centre,MASHONALAND WEST,Hurungwe,Chivende - 100311 - Clinic,Chivende Rural Health Centre,ZW040202,ACTIVE
+Mashonaland West,Chegutu,Chivero,MASHONALAND WEST,Chegutu,Chivero - 100312 - Council Clinic,Chivero Clinic,ZW040126,ACTIVE
+Masvingo,Chivi,Chivi,MASVINGO,Chivi,Chivi - 100317 - District Hospital,Chivi District Hospital,ZW08030A,ACTIVE
+Midlands,Gweru,Chiwundura,MIDLANDS,Gweru,Chiundura - 100309 - Clinic,Chiwundura Clinic,ZW070425,ACTIVE
+Mashonaland Central,Mazowe,Christon Bank,MASHONALAND CENTRAL,Mazowe,Christon Bank - 100332 - Clinic,Christon Bank,ZW020430,ACTIVE
+Mashonaland West,Hurungwe,Chundu,MASHONALAND WEST,Hurungwe,Chundu - 100334 - Council Clinic,Chundu Clinic,ZW040226,ACTIVE
+Mashonaland Central,Mazowe,Concession,MASHONALAND CENTRAL,Mazowe,Concession  - 100345 - District Hospital,CONCESSION,ZW02040A,ACTIVE
+Bulawayo Metropolitan,Emakhandeni,Cowdray Park,Bulawayo,Bulawayo,Cowdray Park - 100348 - Clinic,Cowdray Park Clinic,ZW090A27,ACTIVE
+Mashonaland Central,Mazowe,Cranham,MASHONALAND CENTRAL,Mazowe,Cranham - 100351 - Clinic,CRANHAM,ZW020491,ACTIVE
+Matabeleland North,Nkayi,Dakamela Rural,MATEBELELAND NORTH,Nkayi,Dakamela - 100357 - Rural Hospital,Dakamela Rural Hospital,ZW05050B,ACTIVE
+Mashonaland Central,Mazowe,Dambo,MASHONALAND CENTRAL,Mazowe,Dambo - 100361 - Clinic,DAMBO,ZW020484,ACTIVE
+Midlands,Kwekwe,Dambridge,MIDLANDS,Kwekwe,Dambridge - 100362 - Clinic,Dambridge Clinic,ZW070588,ACTIVE
+Mashonaland Central,Mazowe,Dandamera,MASHONALAND CENTRAL,Mazowe,Dandamera Clinic,Dandamera Clinic,148,ACTIVE
+Matabeleland North,Lupane,Dandanda Rural Health Centre,MATEBELELAND NORTH,Lupane,Dandanda - 100364 - Clinic,Dandanda Rural Health Centre,ZW050402,ACTIVE
+Manicaland,Mutare,Dangamvura,MANICALAND,Mutare,Dangamvura - 100366 - Clinic,Dangamvura Clinic,ZW010563,ACTIVE
+Mashonaland West,Zvimba,Darwendale Rural,MASHONALAND WEST,Zvimba,Darwendale - 100368 - Rural Hospital,Darwendale Rural Hospital,ZW04070C,ACTIVE
+Mashonaland Central,Mazowe,Davaar,MASHONALAND CENTRAL,Mazowe,Davaar - 100369 - Clinic,DAVAAR,ZW020410,ACTIVE
+Masvingo,Gutu,Dewure,MASVINGO,Gutu,Devure - 100387 - Mission Clinic,Dewure Clinic,ZW080427,ACTIVE
+Mashonaland East,Marondera,Dimbiti Rural Health Centre,MASHONALAND EAST,Marondera,Dimbiti - 100390 - Rural Health Centre,Dimbiti Rural Health Centre,ZW030503,ACTIVE
+Matabeleland South,Mangwe,Dingumuzi,MATEBELELAND SOUTH,Mangwe,Dingumuzi - 100394 - Clinic,Dingumuzi Clinic,ZW060745,ACTIVE
+Matabeleland North,Tsholotsho,Dlamini,MATEBELELAND NORTH,Tsholotsho,Dlamini - 100396 - Council Clinic,Dlamini Clinic,ZW050626,ACTIVE
+Mashonaland West,Makonde,Doma RDC,MASHONALAND WEST,Makonde,Doma - 100397 - Clinic,Doma RDC Clinic,ZW040445,ACTIVE
+Mashonaland East,Goromonzi,Domboshava Rural Health Centre,MASHONALAND EAST,Goromonzi,Domboshava - 100400 - Clinic,Domboshava - 100400 - Clinic,165,ACTIVE
+Mashonaland East,Marondera,Dombotombo Council,MASHONALAND EAST,Marondera,Dombotombo - 100401 - Clinic,Dombotombo Council Clinic,ZW030561,ACTIVE
+Mashonaland West,Mhondoro,Donain Rural Health Centre,MASHONALAND WEST,Mhondoro,Donain - 100405 - Rural Health Centre,Donain Rural Health Centre,ZW040502,ACTIVE
+Mashonaland Central,Mazowe,Donje,MASHONALAND CENTRAL,Mazowe,Donje - 100409 - Clinic,DONJE,ZW020406,ACTIVE
+Midlands,Kwekwe,Donjuan,MIDLANDS,Kwekwe,Don Juan - 100404 - Clinic,Donjuan Clinic,ZW070525,ACTIVE
+Manicaland,Mutare,Dora,MANICALAND,Mutare,Dora - 100411 - Clinic,Dora Clinic,ZW010541,ACTIVE
+Mashonaland West,Hurungwe,Doro,MASHONALAND WEST,Hurungwe,Doro - 100413 - Clinic,Doro Clinic,ZW040299,ACTIVE
+Mashonaland Central,Mount Darwin,Dotito Rural Health Centre,MASHONALAND CENTRAL,Mt Darwin,Dotito - 100416 - Clinic,DOTITO,ZW020501,ACTIVE
+Bulawayo Metropolitan,Nkulumane,Dr Shennan,Bulawayo,Bulawayo,Dr. Shennan - 100418 - Clinic,Dr Shennan Clinic,ZW090A14,ACTIVE
+Matabeleland South,Beitbridge,Dulibadzimu,MATEBELELAND SOUTH,Beitbridge,Dulibadzimu - 100423 - Clinic,Dulibadzimu Clinic,ZW060126,ACTIVE
+Mashonaland West,Zvimba,Dzivaresekwa gvt,MASHONALAND WEST,Zvimba,Dzivarasekwa Extension - 100428 - Clinic,Dzivaresekwa gvt Clinic,ZW040780,ACTIVE
+Bulawayo Metropolitan,Northern Suburbs,EF Watson,Bulawayo,Bulawayo,E.F. Watson - 100429 - Clinic,EF Watson Clinic,ZW090A03,ACTIVE
+Bulawayo Metropolitan,Emakhandeni,Emakhandeni,Bulawayo,Bulawayo,Emakhandeni - 100443 - Clinic,Emakhandeni Clinic,ZW090A01,ACTIVE
+Matabeleland South,Mangwe,Empandeni Mission,MATEBELELAND SOUTH,Mangwe,Empandeni - 100445 - Clinic,Empandeni Mission Clinic,ZW060792,ACTIVE
+Bulawayo Metropolitan,Northern Suburbs,Entumbane,Bulawayo,Bulawayo,Entumbane - 100449 - Clinic,Entumbane Clinic,ZW090A04,ACTIVE
+Harare Metropolitan,Epworth,Epworth Mission,HARARE,Epworth,Epworth - 100452 - Mission Clinic,Epworth Mission Clinic,ZW030990,ACTIVE
+Harare Metropolitan,Epworth,Epworth Polyclinic,HARARE,Epworth,Epworth - 100451 - Poly Clinic,Epworth Polyclinic,ZW030926,ACTIVE
+Matabeleland South,Umzingwane,Esibomvu,MATEBELELAND SOUTH,Umzingwane,Esibobvu - 100455 - Clinic,Esibomvu Clinic,ZW060625,ACTIVE
+Matabeleland South,Umzingwane,Esigodini,MATEBELELAND SOUTH,Umzingwane,Esigodini - 100456 - District Hospital,Esigodini District Hospital,ZW06060A,ACTIVE
+Mashonaland West,Zvimba,Father O'Hea,MASHONALAND WEST,Zvimba,Father O'Hea - 100463 - Mission Hospital,Father O'Hea Mission Hospital,ZW04070E,ACTIVE
+Mashonaland Central,Mazowe,Forrester,MASHONALAND CENTRAL,Mazowe,Forrester - 100476 - Clinic,FORRESTER,ZW020485,ACTIVE
+Midlands,Mberengwa,Gaha,MIDLANDS,Mberengwa,Gaha - 100482 - Clinic,Gaha Clinic,ZW070676,ACTIVE
+Matabeleland South,Gwanda,Garanyemba,MATEBELELAND SOUTH,Gwanda,Garanyemba - 100490 - Clinic,Garanyemba Clinic,ZW060331,ACTIVE
+Manicaland,Chipinge,Gaza,MANICALAND,Chipinge,Gaza - 100498 - Council Clinic,Gaza - 100498 - Council Clinic,206,ACTIVE
+Harare Metropolitan,Harare City,Glen Norah Satellite,HARARE,Harare,Glen Norah - 100506 - Satellite clinic,ha Glen Norah Satellite Clinic,ZW000A11,ACTIVE
+Harare Metropolitan,Harare City,Glen View Poly,HARARE,Harare,Glen View - 100507 - Poly clinic,ha Glen View PolyClinic,ZW000A13,ACTIVE
+Harare Metropolitan,Harare City,Glen View Satellite,HARARE,Harare,Glen View  - 100508 - Satellite clinic,ha Glen View Satellite Clinic,ZW000A14,ACTIVE
+Midlands,Gokwe South,Gokwe South,MIDLANDS,Gokwe South,Gokwe - 100513 - District Hospital,Gokwe South District Hospital,ZW07030A,ACTIVE
+Midlands,Kwekwe,Gomola,MIDLANDS,Kwekwe,Gomola - 100516 - Clinic,Gomola,ZW070583,ACTIVE
+Matabeleland North,Lupane,Gomoza Rural Health Centre,MATEBELELAND NORTH,Lupane,Gomoza - 100517 - Rural Health Centre,Gomoza Rural Health Centre,ZW050404,ACTIVE
+Midlands,Gweru,Gunde Rural Health Centre,MIDLANDS,Gweru,Gunde - 100545 - Clinic,Gunde Rural Health Centre,ZW070401,ACTIVE
+Matabeleland South,Gwanda,Gungwe RHC,MATEBELELAND SOUTH,Gwanda,Gungwe - 100548 - Rural Health Centre,Gungwe RHC,ZW060301,ACTIVE
+Masvingo,Masvingo,Gurajena Rural Health Centre,MASVINGO,Masvingo,Gurajena - 100551 - Hospital,Gurajena Rural Health Centre,ZW080541,ACTIVE
+Mashonaland Central,Guruve,Guruve,MASHONALAND CENTRAL,Guruve,Guruve - 100553 - District Hospital,mc Guruve District Hospital,ZW02030B,ACTIVE
+Masvingo,Gutu,Gutu,MASVINGO,Gutu,Gutu - 100557 - Mission Hospital,Gutu Mission Hospital,ZW08040E,ACTIVE
+Masvingo,Gutu,Gutu Rural,MASVINGO,Gutu,Gutu Rural - 100558 - Clinic,Gutu Rural Hospital,ZW08040A,ACTIVE
+Masvingo,Masvingo,Guwa Rural Health Centre,MASVINGO,Masvingo,Guwa - 100559 - Clinic,Guwa Rural Health Centre,ZW080540,ACTIVE
+Matabeleland North,Nkayi,Guwe,MATEBELELAND NORTH,Nkayi,Guwe - 100560 - Rural Health Centre,Guwe Clinic,ZW050532,ACTIVE
+Midlands,Gokwe South,Gwanyika Rural Health Centre,MIDLANDS,Gokwe South,Gwanyika - 100562 - Rural Health Centre,Gwanyika Rural Health Centre,ZW070301,ACTIVE
+Midlands,Mberengwa,Gwarawa Rural Health Centre,MIDLANDS,Mberengwa,Gwarava - 100565 - Rural Health Centre,Gwarawa Rural Health Centre,ZW070601,ACTIVE
+Matabeleland North,Nkayi,Gwelutshena,MATEBELELAND NORTH,Nkayi,Gwelutshena - 100569 - Rural Health Centre,Gwelutshena Clinic,ZW050533,ACTIVE
+Manicaland,Chipinge,Gwenzi,MANICALAND,Chipinge,Gwenzi - 100570 - Clinic,Gwenzi Clinic,ZW010390,ACTIVE
+Midlands,Gweru,Gweru,MIDLANDS,Gweru,Gweru - 100572 - Provincial Hospital,Gweru Provincial Hospital,ZW07040A,ACTIVE
+Matabeleland South,Umzingwane,Habane,MATEBELELAND SOUTH,Umzingwane,Habani - 100578 - Clinic,Habane Clinic,ZW060626,ACTIVE
+Masvingo,Zaka,Harava Rural Health Centre,MASVINGO,Zaka,Harava - 100583 - Rural Health Centre,Harava Rural Health Centre,ZW080702,ACTIVE
+Harare Metropolitan,Harare City,Hatcliffe Poly,HARARE,Harare,Hatcliffe - 100584 - Poly clinic,ha Hatcliffe PolyClinic,ZW000A17,ACTIVE
+Harare Metropolitan,Harare City,Hatfield,HARARE,Harare,Hatfield - 100585 - Clinic,ha Hatfield Clinic,ZW000A44,ACTIVE
+Manicaland,Mutasa,Hauna,MANICALAND,Mutasa,Hauna - 100586 - District Hospital,Hauna District Hospital,ZW01060F,ACTIVE
+Manicaland,Makoni,Headlands,MANICALAND,Makoni,Headlands - 100587 - Clinic,Headlands Clinic,ZW010440,ACTIVE
+Mashonaland West,Hurungwe,Helwin,MASHONALAND WEST,Hurungwe,Hewiyai - 100592 - Council Clinic,Helwin Clinic,ZW040245,ACTIVE
+Mashonaland Central,Mazowe,Henderson,MASHONALAND CENTRAL,Mazowe,Henderson Research - 100590 - Clinic,HENDERSON,ZW020475,ACTIVE
+Mashonaland East,Goromonzi,Henry John Reimer,MASHONALAND EAST,Goromonzi,John Reimer - 100668 - Clinic,Henry John Reimer Clinic,ZW030247,ACTIVE
+Mashonaland West,Zvimba,Herbert Chitepo,MASHONALAND WEST,Zvimba,Herbert Chitepo,Herbert Chitepo,ZW040794,ACTIVE
+Mashonaland West,Hurungwe,Hesketh,MASHONALAND WEST,Hurungwe,Hesketh - 100591 - Council Clinic,Hesketh Clinic,ZW040246,ACTIVE
+Harare Metropolitan,Harare City,Highfield Poly,HARARE,Harare,Highfield - 100593 - Poly Clinic,ha Highfield PolyClinic,ZW000A18,ACTIVE
+Harare Metropolitan,Harare City,Highlands Primary Care,HARARE,Harare,Highlands PCC,ha Highlands Primary Care Clinic,ZW000A46,ACTIVE
+Matabeleland South,Bulilima,Hingwe Rural Health Centre,MATEBELELAND SOUTH,Bulilima,Hingwe - 100598 - Clinic,Hingwe Rural Health Centre,ZW060220,ACTIVE
+Manicaland,Mutare,Hob House,MANICALAND,Mutare,Hob House - 100601 - Clinic,Hobhouse Clinic,ZW010560,ACTIVE
+Matabeleland South,Matobo,Homestead Rural Health Centre,MATEBELELAND SOUTH,Matobo,Homestead - 100606 - Rural Health Centre,Homestead Rural Health Centre,ZW060503,ACTIVE
+Harare Metropolitan,Harare City,Hopley,HARARE,Harare,Hopley - 100608 - Clinic,ha Hopley Clinic,ZW000A53,ACTIVE
+Mashonaland Central,Mazowe,Howard,MASHONALAND CENTRAL,Mazowe,Howard - 100611 - Mission Hospital,HOWARD,ZW02040C,ACTIVE
+Mashonaland West,Hurungwe,Hurungwe Rural,MASHONALAND WEST,Hurungwe,Hurungwe - 100619 - Rural Hospital,Hurungwe Rural Hospital,ZW04020B,ACTIVE
+Matabeleland South,Bulilima,Huwana,MATEBELELAND SOUTH,Bulilima,Huwana - 100620 - Clinic,Huwana Clinic,ZW060202,ACTIVE
+Mashonaland East,Marondera,Igava Council,MASHONALAND EAST,Marondera,Igava - 100627 - Clinic,Igava Council Clinic,ZW030545,ACTIVE
+Matabeleland North,Umguza,Igusi Rural Health Centre,MATEBELELAND NORTH,Umguza,Igusi - 100628 - Clinic,Igusi Rural Health Centre,ZW050703,ACTIVE
+Matabeleland South,Mangwe,Ingwizi Rural Health Centre,MATEBELELAND SOUTH,Mangwe,Ingwizi - 100639 - Clinic,Ingwizi Rural Health Centre,ZW060703,ACTIVE
+Matabeleland South,Insiza,Insiza Rural Health Centre,MATEBELELAND SOUTH,Insiza,Insiza PBS - 100640 - Clinic,Insiza Rural Health Centre,ZW060403,ACTIVE
+Matabeleland North,Bubi,Inyathi,MATEBELELAND NORTH,Bubi,Inyathi - 100642 - District Hospital,Inyathi District Hospital,ZW05020A,ACTIVE
+Midlands,Mberengwa,Jeka Rural,MIDLANDS,Mberengwa,Jeka - 100656 - Rural Hospital,Jeka Rural Hospital,ZW07060B,ACTIVE
+Masvingo,Zaka,Jerera Satellite,MASVINGO,Zaka,Jerera - 100659 - Satelite Clinic,Jerera Satellite Clinic,ZW080739,ACTIVE
+Matabeleland North,Tsholotsho,Jimila,MATEBELELAND NORTH,Tsholotsho,Jimila - 100663 - Clinic,Jimila Clinic,ZW050628,ACTIVE
+Mashonaland Central,Mazowe,Jingamvura,MASHONALAND CENTRAL,Mazowe,Jingamvura - 100664 - Clinic,JINGAMVURA,ZW020427,ACTIVE
+Mashonaland East,Seke,Jonasi,MASHONALAND EAST,Seke,Jonasi - 100673 - Clinic,Jonasi Clinic,ZW030922,ACTIVE
+Matabeleland North,Lupane,Jotsholo,MATEBELELAND NORTH,Lupane,Jotsholo - 100675 - Clinic,Jotsholo Clinic,ZW050426,ACTIVE
+Manicaland,Chipinge,Junction Gate,MANICALAND,Chipinge,Junction Gate - 100676 - Clinic,Junction Gate Clinic,ZW010348,ACTIVE
+Mashonaland Central,Guruve,Kachuta,MASHONALAND CENTRAL,Guruve,Kachuta - 100679 - Clinic,mc Kachuta Clinic,ZW020331,ACTIVE
+Mashonaland East,Murewa,Kadenge Rural Health Centre,MASHONALAND EAST,Murehwa,Kadenge - 100680 - Rural Health Centre,Kadenge Rural Health Centre,ZW030704,ACTIVE
+Mashonaland West,Sanyati,Kadoma General Hospital (OPD),MASHONALAND WEST,Sanyati,Kadoma - 100681 - District Hosp,Kadoma General Hospital,ZW04060A,ACTIVE
+Mashonaland East,Murewa,Kadzere Rural Health Centre,MASHONALAND EAST,Murehwa,Kadzere - 100686 - Clinic,Kadzere Rural Health Centre,ZW030727,ACTIVE
+Matabeleland South,Gwanda,Kafusi,MATEBELELAND SOUTH,Gwanda,Kafusi - 100689 - Clinic,Kafusi Clinic,ZW060326,ACTIVE
+Mashonaland Central,Mount Darwin,Kaitano,MASHONALAND CENTRAL,Mt Darwin,Kaitano - 100691 - Clinic,KAITANO,ZW020526,ACTIVE
+Harare Metropolitan,Harare City,Kambuzuma,HARARE,Harare,Kambuzuma - 100695 - Poly clinic,ha Kambuzuma PolyClinic,ZW000A19,ACTIVE
+Mashonaland Central,Mount Darwin,Kamutsenzere Rural Health Centre,MASHONALAND CENTRAL,Mt Darwin,Kamutsenzere - 100698 - Clinic,KAMUTSENZERE,ZW020502,ACTIVE
+Midlands,Gokwe South,Kana,MIDLANDS,Gokwe South,Kana - 100699 - Mission Hospitals,Kana Mission Hospital,ZW07030C,ACTIVE
+Mashonaland West,Makonde,Kanyaga RDC,MASHONALAND WEST,Makonde,Kanyanga - 100702 - Clinic,Kanyaga RDC Clinic,ZW040488,ACTIVE
+Mashonaland West,Hurungwe,Kapfunde,MASHONALAND WEST,Hurungwe,Kapfunde - 100706 - Council Clinic,Kapfunde Clinic,ZW040291,ACTIVE
+Mashonaland Central,Mount Darwin,Karanda,MASHONALAND CENTRAL,Mt Darwin,Karanda - 100709 - Mission Hospital,KARANDA HOSPITAL,ZW02050B,ACTIVE
+Mashonaland West,Hurungwe,Karoi,MASHONALAND WEST,Hurungwe,Karoi - 100715 - District Hospital,Karoi District Hospital,ZW04020A,ACTIVE
+Mashonaland West,Hurungwe,Kasimure RHC,MASHONALAND WEST,Hurungwe,Kasimube - 100717 - Rural Health Centre,Kasimure RHC,ZW040294,ACTIVE
+Mashonaland West,Chegutu,Katanga Utano,MASHONALAND WEST,Chegutu,Katanga utano - 100719 - Municipality,Katanga Utano Clinic,ZW040147,ACTIVE
+Mashonaland West,Hurungwe,Kazangarare,MASHONALAND WEST,Hurungwe,Kazangarare - 100727 - Gvt Council,Kazangarare Clinic,ZW040227,ACTIVE
+Mashonaland West,Makonde,Kenzamba Rural Health Centre,MASHONALAND WEST,Makonde,Kenzamba - 100731 - Clinic,Kenzamba Rural Health Centre,ZW040406,ACTIVE
+Matabeleland South,Matobo,Kezi Rural,MATEBELELAND SOUTH,Matobo,Kezi - 100732 - Rural Hospital,Kezi Rural Hospital,ZW06050B,ACTIVE
+Bulawayo Metropolitan,Northern Suburbs,Khami Road,Bulawayo,Bulawayo,Khami - 100733 - Clinic,Khami Road Clinic,ZW090A05,ACTIVE
+Manicaland,Chipinge,Kondo,MANICALAND,Chipinge,Kondo - 100735 - Clinic,Kondo Clinic,ZW010328,ACTIVE
+Mashonaland East,Goromonzi,Kowoyo,MASHONALAND EAST,Goromonzi,Kowoyo - 100742 - Clinic,Kowoyo Clinic,ZW030227,ACTIVE
+Midlands,Gokwe South,Krima,MIDLANDS,Gokwe South,Krima - 100743 - Clinic,Krima Clinic,ZW070330,ACTIVE
+Mashonaland East,Goromonzi,Kubatsirana,MASHONALAND EAST,Goromonzi,Kubatsirana - 100744 - Clinic,Kubatsirana Clinic,ZW030248,ACTIVE
+Mashonaland East,Seke,Kunaka,MASHONALAND EAST,Seke,Kunaka - 100746 - Rural Hospital,Kunaka Hospital,ZW03090B,ACTIVE
+Mashonaland East,Marondera,Kushinga Phikhelela Rural Health Centre,MASHONALAND EAST,Marondera,Kushinga Phikelela - 100749 - Clinic,Kushinga Phikhelela Rural Health Centre,ZW030504,ACTIVE
+Mashonaland West,Zvimba,Kutama RDC,MASHONALAND WEST,Zvimba,Kutama - 100750 - Council Clinic,Kutama RDC Clinic,ZW040743,ACTIVE
+Harare Metropolitan,Harare City,Kuwadzana Phase 4,HARARE,Harare,Kuwadzana Phase 4 -101851- Clinic,Kuwadzana Phase 4 -101851- Clinic,ZW000A68,ACTIVE
+Harare Metropolitan,Harare City,Kuwadzana PolyClinic,HARARE,Harare,Kuwadzana - 100751 - Poly Clinic,ha Kuwadzana PolyClinic,ZW000A20,ACTIVE
+Mashonaland West,Zvimba,Kuwadzana RDC,MASHONALAND WEST,Zvimba,Kuwadzana - 100752 - Council Clinic,Kuwadzana RDC Clinic,ZW040744,ACTIVE
+Midlands,Kwekwe,Kwekwe,MIDLANDS,Kwekwe,Kwekwe - 100754 - District Hospital,Kwekwe General Hospital,ZW07050A,ACTIVE
+Matabeleland South,Bulilima,Lady Barring Rural,MATEBELELAND SOUTH,Bulilima,Lady Barring - 100755 - Mission Hospital,Lady Barring Rural Hospital,ZW06020B,ACTIVE
+Matabeleland South,Bulilima,Lady Stanley Rural,MATEBELELAND SOUTH,Bulilima,Lady Stanley - 100756 - Mission Hospital,Lady Stanley Rural Hospital,ZW06020C,ACTIVE
+Matabeleland North,Lupane,Lake-Alice,MATEBELELAND NORTH,Lupane,Lake Alice - 101888 - Clinic,Lake-Alice Clinic,ZW050428,ACTIVE
+Midlands,Gweru,Lower Gweru,MIDLANDS,Gweru,Lower Gweru - 100772 - Mission Clinic,Lower Gweru clinic,ZW070491,ACTIVE
+Masvingo,Mwenezi,Lundi,MASVINGO,Mwenezi,Lundi - 100778 - Clinic,Lundi Clinic,ZW080692,ACTIVE
+Matabeleland North,Lupane,Lupaka,MATEBELELAND NORTH,Lupane,Lupaka - 100780 - Clinic,Lupaka Clinic,ZW050407,ACTIVE
+Matabeleland North,Lupane,Lupane Rural Health Centre,MATEBELELAND NORTH,Lupane,Lupane - 100781 - Rural Health Centre,Lupane Rural Health Centre,ZW050406,ACTIVE
+Matabeleland South,Gwanda,Lushongwe,MATEBELELAND SOUTH,Gwanda,Lushongwe - 100783 - Clinic,Lushongwe Clinic,ZW060333,ACTIVE
+Mashonaland East,Marondera,Lustleigh Council,MASHONALAND EAST,Marondera,Lustliegh - 100784 - Clinic,Lustleigh Council Clinic,ZW030564,ACTIVE
+Bulawayo Metropolitan,Emakhandeni,Luveve,Bulawayo,Bulawayo,Luveve - 100786 - Clinic,Luveve Clinic,ZW090A06,ACTIVE
+Harare Metropolitan,Harare City,Mabelreign Satellite,HARARE,Harare,Mabelreign - 100791 - satellite clinic,ha Mabelreign Satellite Clinic,ZW000A21,ACTIVE
+Midlands,Gweru,Maboleni,MIDLANDS,Gweru,Maboleni - 100793 - Clinic,Maboleni - 100793 - Clinic,332,ACTIVE
+Harare Metropolitan,Harare City,Mabvuku Poly,HARARE,Harare,Mabvuku - 100797 - Poly Clinic,ha Mabvuku PolyClinic,ZW000A23,ACTIVE
+Harare Metropolitan,Harare City,Mabvuku Satellite,HARARE,Harare,Mabvuku - 100796 - Clinic,ha Mabvuku Satellite,ZW000A47,ACTIVE
+Mashonaland East,Murewa,Macheke,MASHONALAND EAST,Murehwa,Macheke - 100799 - Clinic,Macheke Clinic,ZW030745,ACTIVE
+Matabeleland South,Mangwe,Madabe,MATEBELELAND SOUTH,Mangwe,Madabe - 100800 - Clinic,Madabe Clinic,ZW060727,ACTIVE
+Midlands,Gweru,Madikani,MIDLANDS,Gweru,Madhikani - 100804 - Clinic,Madikani Clinic,ZW070427,ACTIVE
+Matabeleland South,Bulilima,Madlambudzi,MATEBELELAND SOUTH,Bulilima,Madlambuzi - 100807 - Clinic,Madlambudzi Clinic,ZW060228,ACTIVE
+Matabeleland North,Tsholotsho,Madlangombe,MATEBELELAND NORTH,Tsholotsho,Madlangombe  - 100809 - Clinic,Madlangombe  - 100809 - Clinic,340,ACTIVE
+Manicaland,Buhera,Madzimbashuro Rural Health Centre,MANICALAND,Buhera,Madzimbashuro - 100810 - Rural Health Centre,Madzimbashuro,ZW010103,ACTIVE
+Mashonaland West,Zvimba,Madzorera RDC,MASHONALAND WEST,Zvimba,Madzorera - 100817 - Clinic,Madzorera RDC Clinic,ZW040728,ACTIVE
+Bulawayo Metropolitan,Emakhandeni,Magwegwe,Bulawayo,Bulawayo,Magwegwe - 100824 - Clinic,Magwegwe Clinic,ZW090A07,ACTIVE
+Mashonaland East,Marondera,Mahusekwa,MASHONALAND EAST,Marondera,Mahusekwa - 100829 - Hospital,Mahusekwa District Hospital,ZW03050C,ACTIVE
+Mashonaland Central,Mbire,Mahuwe,MASHONALAND CENTRAL,Mbire,Mahuwe - 100830 - Clinic,Mahuwe Clinic,ZW020833,ACTIVE
+Matabeleland North,Bubi,Majiji,MATEBELELAND NORTH,Bubi,Majiji - 100834 - Clinic,Majiji Clinic,ZW050228,ACTIVE
+Matabeleland South,Beitbridge,Majini Rural Health Centre,MATEBELELAND SOUTH,Beitbridge,Majini - 100835 - Rural Health Centre,Majini Rural Health Centre,ZW060104,ACTIVE
+Midlands,Gweru,Makepesi,MIDLANDS,Gweru,Makepesi - 100844 - Clinic,Makepesi Clinic,ZW070428,ACTIVE
+Matabeleland North,Tsholotsho,Makhaza Rural Health Centre,MATEBELELAND NORTH,Tsholotsho,Makaza - 100843 - Rural Health Centre,Makhaza Rural Health Centre,ZW050603,ACTIVE
+Matabeleland South,Bulilima,Makhulela Rural Health Centre,MATEBELELAND SOUTH,Bulilima,Makhuleka - 100846 - Clinic,Makhulela Rural Health Centre,ZW060204,ACTIVE
+Mashonaland West,Makonde,Makonde Christ Hosp,MASHONALAND WEST,Makonde,Makonde Christian - 100848 - Mission Hospital,Makonde Christ Hosp,ZW04040D,ACTIVE
+Manicaland,Makoni,Makoni Rural,MANICALAND,Makoni,Makoni - 100849 - Rural Hospital,Makoni Rural Hospital,ZW01040C,ACTIVE
+Mashonaland Central,Mazowe,Makope,MASHONALAND CENTRAL,Mazowe,Makope - 100850 - Clinic,MAKOPE,ZW020428,ACTIVE
+Mashonaland East,Goromonzi,Makumbe,MASHONALAND EAST,Goromonzi,Makumbe - 100853 - District Hospital,Makumbe District Hospital,ZW03020A,ACTIVE
+Matabeleland South,Gwanda,Makwe RHC,MATEBELELAND SOUTH,Gwanda,Makwe - 100859 - Rural Health Centre,Makwe RHC,ZW060302,ACTIVE
+Midlands,Kwekwe,Malisa Joshepha,MIDLANDS,Kwekwe,Malisa Josefa - 100863 - Clinic,Malisa Joshepha Clinic,ZW070527,ACTIVE
+Midlands,Kwekwe,Malisa Zhombe,MIDLANDS,Kwekwe,Melisa Zhombe - 101009 - Clinic,Melisa Zhombe - 101009 - Clinic,408,ACTIVE
+Matabeleland South,Mangwe,Mambale,MATEBELELAND SOUTH,Mangwe,Mambale - 100864 - Clinic,Mambale Clinic,ZW060729,ACTIVE
+Matabeleland South,Gwanda,Manama,MATEBELELAND SOUTH,Gwanda,Manama - 100867 - Mission Hospital,Manama Mission Hospital,ZW06030B,ACTIVE
+Masvingo,Chivi,Mandamabwe Rural Health Centre,MASVINGO,Chivi,Mhandamabwe - 101011 - Rural Health Centre,Mandamabwe Rural Health Centre,ZW080303,ACTIVE
+Matabeleland South,Mangwe,Maninji,MATEBELELAND SOUTH,Mangwe,Maninji - 101914 - Clinic,Maninji Clinic,ZW060734,ACTIVE
+Midlands,Gokwe South,Manoti,MIDLANDS,Gokwe South,Manoti - 100874 - Clinic,Manoti Clinic,ZW070333,ACTIVE
+Midlands,Gokwe South,Manyoni,MIDLANDS,Gokwe South,Manyoni - 100880 - Clinic,Manyoni Clinic,ZW070393,ACTIVE
+Masvingo,Masvingo,Mapanzure,MASVINGO,Masvingo,Mapanzure - 100884 - Clinic,Mapanzure Clinic,ZW080528,ACTIVE
+Matabeleland South,Matobo,Maphisa,MATEBELELAND SOUTH,Matobo,Maphisa - 100890 - District Hospital,Maphisa District Hospital,ZW06050A,ACTIVE
+Mashonaland West,Zvimba,Mapinga RDC,MASHONALAND WEST,Zvimba,Mapinga  - 100891 - Clinic,Mapinga RDC Clinic,ZW040783,ACTIVE
+Bulawayo Metropolitan,Nkulumane,Maqhawe,Bulawayo,Bulawayo,Maqhawe - 100893 - Clinic,Maqhawe Clinic,ZW090A33,ACTIVE
+Masvingo,Mwenezi,Maranda Sub Rural Health Centre,MASVINGO,Mwenezi,Maranda -101865 -Sub-Clinic,Maranda Sub Rural Health Centre,ZW080604,ACTIVE
+Manicaland,Mutare,Marange Rural,MANICALAND,Mutare,Marange - 100896 - Rural Hospital,Marange Rural Hospital,ZW01050E,ACTIVE
+Mashonaland East,Seke,Marirangwe,MASHONALAND EAST,Seke,Marirangwe - 100899 - Clinic,Marirangwe Clinic,ZW030924,ACTIVE
+Harare Metropolitan,Harare City,Marlborough Satellite,HARARE,Harare,Malborough - 100860 - Council Clinic,ha Marlborough Satellite Clinic,ZW000A45,ACTIVE
+Mashonaland East,Marondera,Marondera,MASHONALAND EAST,Marondera,Marondera - 100902 - Rural Clinic,Marondera Rural Council Clinic,ZW030528,ACTIVE
+Mashonaland West,Hurungwe,Masanga Rural Health Centre,MASHONALAND WEST,Hurungwe,Masanga - 100913 - Gvt Clinic,Masanga Rural Health Centre,ZW040205,ACTIVE
+Midlands,Mberengwa,Masase,MIDLANDS,Mberengwa,Masase - 100918 - Mission Hospital,Masase Mission Hospital,ZW07060D,ACTIVE
+Matabeleland South,Bulilima,Masendu,MATEBELELAND SOUTH,Bulilima,Masendu - 100921 - Clinic,Masendu Clinic,ZW060235,ACTIVE
+Mashonaland East,Uzumba Maramba Pfungwe,Mashambanhaka,MASHONALAND EAST,UMP,Mashambanhaka - 100924 - Clinic,Mashambanhaka Clinic,ZW030332,ACTIVE
+Mashonaland East,Marondera,Masikana Council,MASHONALAND EAST,Marondera,Masikana - 100929 - Clinic,Masikana Council Clinic,ZW030525,ACTIVE
+Midlands,Mberengwa,Mataga Rural Health Centre,MIDLANDS,Mberengwa,Mataga - 100942 - Rural Health Centre,Mataga Rural Health Centre,ZW070602,ACTIVE
+Harare Metropolitan,Harare City,Matapi,HARARE,Harare,Matapi - 100944 - Clinic,ha Matapi Clinic,ZW000A25,ACTIVE
+Midlands,Mberengwa,Matedzi,MIDLANDS,Mberengwa,Matedzi - 100947 - Clinic,Matedzi,ZW070630,ACTIVE
+Matabeleland North,Nkayi,Mateme Rural Health Centre,MATEBELELAND NORTH,Nkayi,Mateme - 100949 - Rural Health Centre,Mateme Rural Health Centre,ZW050502,ACTIVE
+Midlands,Gokwe South,Mateta Rural Health Centre,MIDLANDS,Gokwe South,Mateta - 100951 - Rural Health Centre,Mateta Rural Health Centre,ZW070306,ACTIVE
+Masvingo,Mwenezi,Matibi,MASVINGO,Mwenezi,Matibi - 100952 - Mission Hospital,Matibi Mission Hospital,ZW08060B,ACTIVE
+Masvingo,Gutu,Matizha Rural Health Centre,MASVINGO,Gutu,Matizha - 100954 - Clinic,Matizha Rural Health Centre,ZW080403,ACTIVE
+Matabeleland South,Bulilima,Matjinge Rural Health Centre,MATEBELELAND SOUTH,Bulilima,Matjinge - 100955 - Rural Health Centre,Matjinge Rural Health Centre,ZW060206,ACTIVE
+Mashonaland Central,Mount Darwin,Matope,MASHONALAND CENTRAL,Mt Darwin,Matope - 100958 - Clinic,MATOPE,ZW020532,ACTIVE
+Midlands,Mberengwa,Mavorovondo Rural Health Centre,MIDLANDS,Mberengwa,Mavorovondo - 100968 - Rural Health Centre,Mavorovondo Rural Health Centre,ZW070603,ACTIVE
+Matabeleland South,Umzingwane,Mawabeni,MATEBELELAND SOUTH,Umzingwane,Mawabeni - 100969 - Clinic,Mawabeni Clinic,ZW060627,ACTIVE
+Matabeleland South,Mangwe,Mayobodo Rural Health Centre,MATEBELELAND SOUTH,Mangwe,Mayobodo - 100972 - Rural Health Centre,Mayobodo Rural Health Centre,ZW060707,ACTIVE
+Mashonaland Central,Mazowe,Mazowe Mine,MASHONALAND CENTRAL,Mazowe,Mazowe - 100982 - Mine Clinic,MAZ MINE,ZW020477,ACTIVE
+Masvingo,Gutu,Mazuru,MASVINGO,Gutu,Mazuru - 100985 - Clinic,Mazuru Clinic,ZW080429,ACTIVE
+Harare Metropolitan,Harare City,Mbare Hostels,HARARE,Harare,Mbare Hostels - 100988 - Clinic,ha Mbare Hostels Clinic,ZW000A26,ACTIVE
+Harare Metropolitan,Harare City,Mbare PolyClinic,HARARE,Harare,Mbare - 100987 - Poly clinic,ha Mbare PolyClinic,ZW000A27,ACTIVE
+Matabeleland North,Umguza,Mbembesi Rural health Centre,MATEBELELAND NORTH,Umguza,Mbembesi - 100989 - Rural Health Centre,Mbembesi Rural health Centre,ZW050733,ACTIVE
+Matabeleland South,Matobo,Mbembeswane,MATEBELELAND SOUTH,Matobo,Mbembeswana - 100991 - Rural Health Centre,Mbembeswana - 100991 - Rural Health Centre,399,ACTIVE
+Midlands,Mberengwa,Mberengwa,MIDLANDS,Mberengwa,Mberengwa -101874 - District Hospital,Mberengwa District Hospital,ZW07060A,ACTIVE
+Midlands,Kwekwe,Mbizo I,MIDLANDS,Kwekwe,Mbizo 1 - 100996 - Clinic,Mbizo I Clinic,ZW070562,ACTIVE
+Midlands,Kwekwe,Mbizo II,MIDLANDS,Kwekwe,Mbizo 2 - 100997 - Clinic,Mbizo II Clinic,ZW070563,ACTIVE
+Matabeleland North,Nkayi,Mbuma,MATEBELELAND NORTH,Nkayi,Mbuma - 100998 - Mission Hospital,Mbuma Mission Hospital,ZW05050C,ACTIVE
+Mashonaland West,Chegutu,Mhondoro Rural,MASHONALAND WEST,Chegutu,Mhondoro - 101015 - Rural Hospital,Mhondoro Rural Hospital,ZW04010B,ACTIVE
+Midlands,Gweru,Mkoba I,MIDLANDS,Gweru,Mkoba 1 - 101022 - Clinic,Mkoba I Clinic,ZW070462,ACTIVE
+Midlands,Gweru,Mkoba PolyClinic,MIDLANDS,Gweru,Mkoba Poly - 101023 - Clinic,Mkoba PolyClinic,ZW070463,ACTIVE
+Masvingo,Mwenezi,Mlelezi,MASVINGO,Mwenezi,Mulelezi - 101104 - Clinic,Mulelezi - 101104 - Clinic,ZW080630,ACTIVE
+Midlands,Mberengwa,Mnene,MIDLANDS,Mberengwa,Mnene - 101029 - Mission Hospital,Mnene Mission Hospital,ZW07060C,ACTIVE
+Manicaland,Buhera,Mombeyarara Rural Health Centre,MANICALAND,Buhera,Mombeyarara - 101032 - Rural Health Centre,Mombeyarara,ZW010104,ACTIVE
+Mashonaland West,Chegutu,Monera Rural Health Centre,MASHONALAND WEST,Chegutu,Monera - 101033 - Council Clinic,Monera Rural Health Centre,ZW040104,ACTIVE
+Midlands,Gweru,Monomutapa,MIDLANDS,Gweru,Monomutapa - 101034 - Clinic,Monomutapa Clinic,ZW070464,ACTIVE
+Masvingo,Masvingo,Morgenster,MASVINGO,Masvingo,Mogenester - 101030 - Mission Hospital,Morgenster Mission Hospital,ZW08050D,ACTIVE
+Mashonaland Central,Mount Darwin,Mount Darwin,MASHONALAND CENTRAL,Mt Darwin,Mt. Darwin - 101058 - District Hospital,DARWIN HOSPITAL,ZW02050A,ACTIVE
+Mashonaland West,Zvimba,Mount Hampden RDC,MASHONALAND WEST,Zvimba,Mt. Hampden - 101059 - Clinic,Mount Hampden RDC Clinic,ZW040745,ACTIVE
+Harare Metropolitan,Harare City,Mount Pleasant,HARARE,Harare,Mt. Pleasant - 101062 - Clinic,ha Mount Pleasant Clinic,ZW000A28,ACTIVE
+Manicaland,Chipinge,Mount Selinda,MANICALAND,Chipinge,Mt. Selinda - 101065 - Mission Hospital,Mount Selinda Mission Hospital,ZW01030C,ACTIVE
+Mashonaland West,Hurungwe,Moy RDC,MASHONALAND WEST,Hurungwe,Moy RDC Clinic,Moy RDC Clinic,ZW040235,ACTIVE
+Matabeleland North,Tsholotsho,Mpanedziba,MATEBELELAND NORTH,Tsholotsho,Mpanedziba - 101040 - Clinic,Mpanedziba Clinic,ZW050697,ACTIVE
+Matabeleland South,Umzingwane,Mpisini RHC,MATEBELELAND SOUTH,Umzingwane,Mpisini - 101044 - Clinic,Mpisini RHC,ZW060605,ACTIVE
+Midlands,Mberengwa,Mposi,MIDLANDS,Mberengwa,Mposi - 101048 - Clinic,Mposi Clinic,ZW070639,ACTIVE
+Midlands,Kwekwe,Msilahobe Rural Health Centre,MIDLANDS,Kwekwe,Msilahove - 101055 - Rural Hospital,Msilahobe Rural Health Centre,ZW070504,ACTIVE
+Matabeleland South,Beitbridge,Mtetengwe,MATEBELELAND SOUTH,Beitbridge,Mtetengwe - 101069 - Clinic,Mtetengwe Clinic,ZW060179,ACTIVE
+Matabeleland South,Gwanda,Mtshabezi,MATEBELELAND SOUTH,Gwanda,Mtshabezi - 101073 - Mission Hospital,Mtshabezi Mission Hospital,ZW06030C,ACTIVE
+Masvingo,Masvingo,Mucheke,MASVINGO,Masvingo,Mucheke - 101077 - Clinic,Mucheke Clinic,ZW080535,ACTIVE
+Manicaland,Buhera,Mudanda,MANICALAND,Buhera,Mudanda - 101081 - Clinic,Mudanda,ZW010124,ACTIVE
+Mashonaland East,Marondera,Mudzimurema Rural Health Centre,MASHONALAND EAST,Marondera,Mudzimuirema - 101084 - Rural Health Centre,Mudzimurema Rural Health Centre,ZW030505,ACTIVE
+Harare Metropolitan,Harare City,Mufakose Poly,HARARE,Harare,Mufakose - 101085 - Poly clinic,ha Mufakose PolyClinic,ZW000A29,ACTIVE
+Manicaland,Makoni,Mufusire,MANICALAND,Makoni,Mufusire - 101087 - Clinic,Mufusire Clinic,ZW010439,ACTIVE
+Masvingo,Gutu,Mukaro,MASVINGO,Gutu,Mukaro - 101093 - Mission Clinic,Mukaro - 101093 - Mission Clinic,ZW080493,ACTIVE
+Mashonaland Central,Mount Darwin,Mukumbura,MASHONALAND CENTRAL,Mt Darwin,Mukumbura - 101101 - Clinic,MUKUMBURA,ZW020503,ACTIVE
+Mashonaland East,Murewa,Munamba Rural Health Centre,MASHONALAND EAST,Murehwa,Munamba - 101105 - Rural Health Centre,Munamba Rural Health Centre,ZW030706,ACTIVE
+Manicaland,Buhera,Munyanyi,MANICALAND,Buhera,Munyanyi - 101110 - Clinic,Munyanyi Clinic,ZW010119,ACTIVE
+Manicaland,Buhera,Murambinda,MANICALAND,Buhera,Murambinda - 101124 - District Hospital,Murambinda,ZW01010C,ACTIVE
+Mashonaland West,Mhondoro,Murambwa RDC,MASHONALAND WEST,Mhondoro,Murambwa - 101125 - Council clinic,Murambwa RDC Clinic,ZW040523,ACTIVE
+Mashonaland West,Makonde,Murereka Rural Health Centre,MASHONALAND WEST,Makonde,Murereka - 101127 - Clinic,Murereka Rural Health Centre,ZW040407,ACTIVE
+Mashonaland East,Murewa,Murewa Gvt,MASHONALAND EAST,Murehwa,Murewa - 101128 - Poly Clinic,Murewa Polyclinic,ZW030722,ACTIVE
+Masvingo,Masvingo,Mushandike Rural Health Centre,MASVINGO,Masvingo,Mushandike - 101142 - Clinic,Mushandike Rural Health Centre,ZW080503,ACTIVE
+Mashonaland Central,Mbire,Mushumbi RHC,MASHONALAND CENTRAL,Mbire,Mushumbi - 101148 - Clinic,Mushumbi RHC,ZW020803,ACTIVE
+Mashonaland West,Chegutu,Musinami Rural Health Centre,MASHONALAND WEST,Chegutu,Musinami - 101151 - Rural Health Centre,Musinami Rural Health Centre,ZW040106,ACTIVE
+Masvingo,Zaka,Musiso,MASVINGO,Zaka,Musiso - 101153 - Mission Hospital,Musiso Mission Hospital,ZW08070C,ACTIVE
+Midlands,Gokwe South,Musita,MIDLANDS,Gokwe South,Musita - 101154 - Clinic,Musita Clinic,ZW070336,ACTIVE
+Midlands,Mberengwa,Musume,MIDLANDS,Mberengwa,Musume - 101157 - Mission Hospital,Musume Mission Hospital,ZW07060E,ACTIVE
+Masvingo,Masvingo,Musvovi Rural Health Centre,MASVINGO,Masvingo,Musvovi - 101158 - Clinic,Musvovi Rural Health Centre,ZW080504,ACTIVE
+Manicaland,Mutasa,Mutasa,MASHONALAND CENTRAL,Mt Darwin,Mutasa - 101168 - Clinic,MUTASA,ZW020508,ACTIVE
+Mashonaland East,Uzumba Maramba Pfungwe,Mutawatawa,MASHONALAND EAST,UMP,Mutawatawa - 101170 - District Hosptal,Mutawatawa District Hospital,ZW03030A,ACTIVE
+Mashonaland West,Zvimba,Mutorashanga RDC,MASHONALAND WEST,Zvimba,Mtorashanga - 101072 - Hospital,Mutorashanga RDC Hospital,ZW04060F,ACTIVE
+Manicaland,Buhera,Muzokomba,MANICALAND,Buhera,Muzokomba - 101190 - Clinic,Muzokomba,ZW010136,ACTIVE
+Mashonaland Central,Mazowe,Mvurwi,MASHONALAND CENTRAL,Mazowe,Mvurwi - 101192 - Hospital,MVURWI,ZW02040E,ACTIVE
+Mashonaland West,Hurungwe,Mwami Rural,MASHONALAND WEST,Hurungwe,Mwami - 101194 - Hospital,Mwami Rural Hospital,ZW04020C,ACTIVE
+Midlands,Mberengwa,Mwanezi Rural Health Centre,MIDLANDS,Mberengwa,Mwenezi - 101198 - Rural Health Centre,Mwanezi Rural Health Centre,ZW070605,ACTIVE
+Mashonaland East,Goromonzi,Mwanza Rural Health Centre,MASHONALAND EAST,Goromonzi,Mwanza - 101195 - Rural Health Centre,Mwanza Rural Health Centre,ZW030203,ACTIVE
+Masvingo,Mwenezi,Mwenezi,MASVINGO,Mwenezi,Mwenezi - 101000 - Council Clinic,Mwenezi Clinic,ZW080628,ACTIVE
+Bulawayo Metropolitan,Northern Suburbs,Mzilikazi,Bulawayo,Bulawayo,Mzilikazi - 101202 - Clinic,Mzilikazi Clinic,ZW090A08,ACTIVE
+Matabeleland South,Gwanda,Mzimuni,MATEBELELAND SOUTH,Gwanda,Mzimuni - 101203 - Clinic,Mzimuni Clinic,ZW060328,ACTIVE
+Matabeleland South,Matobo,Natisa Rural Health Centre,MATEBELELAND SOUTH,Matobo,Natisa - 101208 - Rural Health Centre,Natisa Rural Health Centre,ZW060501,ACTIVE
+Masvingo,Zaka,Ndanga,MASVINGO,Zaka,Ndanga - 101210 - Hospital,Ndanga District Hospital,ZW08070A,ACTIVE
+Matabeleland South,Bulilima,Ndiweni,MATEBELELAND SOUTH,Bulilima,Ndiweni - 101211 - Clinic,Ndiweni Clinic,ZW060230,ACTIVE
+Manicaland,Makoni,Nedewedzo Rural,MANICALAND,Makoni,Nedevedzo - 101216 - Rural Hospital,Nedewedzo Rural Hospital,ZW01040D,ACTIVE
+Midlands,Mberengwa,Negove,MIDLANDS,Mberengwa,Negobe - 101219 - Clinic,Negove Clinic,ZW070634,ACTIVE
+Masvingo,Mwenezi,Nehanda Rural Health Centre,MASVINGO,Mwenezi,Nehanda - 101222 - Clinic,Nehanda Rural Health Centre,ZW080605,ACTIVE
+Masvingo,Masvingo,Nemamwa Rural Health Centre,MASVINGO,Masvingo,Nemwanwa - 101228 - Clinic,Nemamwa Rural Health Centre,ZW080506,ACTIVE
+Manicaland,Buhera,Nerutanga,MANICALAND,Buhera,Nerutanga - 101231 - Clinic,Nerutanga,ZW010137,ACTIVE
+Masvingo,Mwenezi,Neshuro,MASVINGO,Mwenezi,Neshuro - 101232 - District Hospital,Neshuro District Hospital,ZW08060A,ACTIVE
+Matabeleland North,Nkayi,Nesigwe,MATEBELELAND NORTH,Nkayi,Nesigwe - 101233 - Rural Health Centre,Nesigwe Clinic,ZW050526,ACTIVE
+Midlands,Mberengwa,Neta,MIDLANDS,Mberengwa,Neta Clinic,Neta Clinic,ZW070643,ACTIVE
+Mashonaland West,Mhondoro,Ngezi (mhondoro) Rural,MASHONALAND WEST,Mhondoro,Ngezi - 101251 - Rural Hosp,Ngezi (mhondoro) Rural Hospital,ZW04050A,ACTIVE
+Mashonaland West,Sanyati,Ngezi Municipal_Clinic,MASHONALAND WEST,Sanyati,Ingezi - 100636 - Municipality,Ingezi clinic,ZW040636,ACTIVE
+Masvingo,Chivi,Ngundu Rural Health Centre,MASVINGO,Chivi,Ngundu - 101258 - Rural Health Centre,Ngundu Rural Health Centre,ZW080304,ACTIVE
+Mashonaland East,Uzumba Maramba Pfungwe,Nhakiwa,MASHONALAND EAST,UMP,Nhakiwa - 101262 - Clinic,Nhakiwa Clinic,ZW030333,ACTIVE
+Matabeleland South,Umzingwane,Nhlangano,MATEBELELAND SOUTH,Umzingwane,Nhlangano - 101269 - Clinic,Nhlangano Clinic,ZW060629,ACTIVE
+Mashonaland East,Murewa,Nhowe,MASHONALAND EAST,Murehwa,Nhowe - 101270 - Mission Hospital,Nhowe Mission Hospital,ZW03070C,ACTIVE
+Matabeleland South,Gwanda,Nhwali RHC,MATEBELELAND SOUTH,Gwanda,Nhwali - 101271 - Rural Health Centre,Nhwali RHC,ZW060303,ACTIVE
+Midlands,Gokwe South,Njelele,MIDLANDS,Gokwe South,Njelele - 101272 - Clinic,Njelele clinic,ZW070318,ACTIVE
+Bulawayo Metropolitan,Emakhandeni,Njube,Bulawayo,Bulawayo,Njube - 101273 - Clinic,Njube Clinic,ZW090A09,ACTIVE
+Matabeleland South,Insiza,Nkankezi Rural Health Centre,MATEBELELAND SOUTH,Insiza,Nkankezi - 101274 - Rural Health Centre,Nkankezi Rural Health Centre,ZW060405,ACTIVE
+Matabeleland North,Nkayi,Nkayi,MATEBELELAND NORTH,Nkayi,Nkayi - 101275 - District Hospital,Nkayi District Hospital,ZW05050A,ACTIVE
+Bulawayo Metropolitan,Nkulumane,Nketa,Bulawayo,Bulawayo,Nketa - 101276 - Clinic,Nketa Clinic,ZW090A17,ACTIVE
+Bulawayo Metropolitan,Nkulumane,Nkulumane,Bulawayo,Bulawayo,Nkulumane - 101278 - Clinic,Nkulumane Clinic,ZW090A10,ACTIVE
+Matabeleland North,Tsholotsho,Nkunzi,MATEBELELAND NORTH,Tsholotsho,Nkunzi - 101280 - Rural Health Centre,Nkunzi Clinic,ZW050630,ACTIVE
+Bulawayo Metropolitan,Northern Suburbs,Northern Suburbs,Bulawayo,Bulawayo,Northern Suburbs - 101290 - Clinic,Northern Suburbs Clinic,ZW090A18,ACTIVE
+Mashonaland West,Chegutu,Norton,MASHONALAND WEST,Chegutu,Norton - 101291 - Hospital,Norton Hospital,ZW04010C,ACTIVE
+Matabeleland South,Umzingwane,Nswazi,MATEBELELAND SOUTH,Umzingwane,Nswazi - 101297 - Clinic,Nswazi Clinic,ZW060630,ACTIVE
+Midlands,Gweru,Ntabamhlope Rural Health Centre,MIDLANDS,Gweru,Ntabamhlope - 101299 - Rural Health Centre,Ntabamhlope Rural Health Centre,ZW070406,ACTIVE
+Matabeleland North,Umguza,Ntabazinduna,MATEBELELAND NORTH,Umguza,Ntabazinduna - 101300 - Clinic,Ntabazinduna Clinic,ZW050729,ACTIVE
+Matabeleland South,Gwanda,Ntalale,MATEBELELAND SOUTH,Gwanda,Ntalale - 101302 - Clinic,Ntalale Clinic,ZW060329,ACTIVE
+Masvingo,Chivi,Nyahombe Rural Health Centre,MASVINGO,Chivi,Nyahombe - 101316 - Clinic,Nyahombe Rural Health Centre,ZW080308,ACTIVE
+Masvingo,Masvingo,Nyajena Rural,MASVINGO,Masvingo,Nyajena - 101321 - Rural Hospital,Nyajena Rural Hospital,ZW08050C,ACTIVE
+Masvingo,Zaka,Nyakunhuwa,MASVINGO,Zaka,Nyakunhuwa - 101325 - Clinic,Nyakunhuwa Clinic,ZW080736,ACTIVE
+Midlands,Gweru,Nyama,MIDLANDS,Gweru,Nyama - 101326 - Clinic,Nyama Clinic,ZW070447,ACTIVE
+Mashonaland West,Hurungwe,Nyamakate,MASHONALAND WEST,Hurungwe,Nyamakaze - 101329 - Clinic,Nyamakate Clinic,ZW040228,ACTIVE
+Masvingo,Masvingo,Nyamande,MASVINGO,Masvingo,Nyamande - 101330 - Clinic,Nyamande Clinic,ZW080542,ACTIVE
+Matabeleland North,Umguza,Nyamandlovu,MATEBELELAND NORTH,Umguza,Nyamandlovu - 101332 - Hospital,Nyamandlovu District Hospital,ZW05070A,ACTIVE
+Mashonaland East,Marondera,Nyameni Council,MASHONALAND EAST,Marondera,Nyameni - 101344 - Clinic,Nyameni Council Clinic,ZW030562,ACTIVE
+Mashonaland Central,Guruve,Nyamhondoro Rural Health Centre,MASHONALAND CENTRAL,Guruve,Nyamhondoro - 101347 - Clinic,mc Nyamhondoro Rural Health Centre,ZW020306,ACTIVE
+Mashonaland West,Hurungwe,Nyamhunga Sengwe,MASHONALAND WEST,Hurungwe,Nyamhunga - 101348 - Council Clinic,Nyamhunga,ZW040229,ACTIVE
+Manicaland,Makoni,Nyamidzi,MANICALAND,Makoni,Nyamidzi - 101350 - Clinic,Nyamidzi Clinic,ZW010431,ACTIVE
+Mashonaland East,Murewa,Nyamutumbu Rural Health Centre,MASHONALAND EAST,Murehwa,Nyamutumbu - 101358 - Clinic,Nyamutumbu Rural Health Centre,ZW030728,ACTIVE
+Masvingo,Chiredzi,Nyangambe Rural Health Centre,MASVINGO,Chiredzi,Nyangambe - 101365 - Clinic,Nyangambe Rural Health Centre,ZW080210,ACTIVE
+Manicaland,Makoni,Nyazura,MANICALAND,Makoni,Nyazura - 101381 - Mission Clinic,Nyazura Mission Clinic,ZW010491,ACTIVE
+Mashonaland East,Marondera,Nyembanzvere Council,MASHONALAND EAST,Marondera,Nyembanzvere - 101383 - Clinic,Nyembanzvere Council Clinic,ZW030563,ACTIVE
+Masvingo,Masvingo,Nyikavanhu Rural Health Centre,MASVINGO,Masvingo,Nyikavanhu - 101386 - Rural Health Centre,Nyikavanhu Rural Health Centre,ZW080507,ACTIVE
+Midlands,Kwekwe,Nyoni Rural Health Centre,MIDLANDS,Kwekwe,Nyoni - 101387 - Rural Health Centre,Nyoni Rural Health Centre,ZW070505,ACTIVE
+Mashonaland Central,Mazowe,Nzvimbo,MASHONALAND CENTRAL,Mazowe,Nzvimbo - 101391 - Clinic,NZVIMBO,ZW020432,ACTIVE
+Manicaland,Mutare,Odzi,MANICALAND,Mutare,Odzi - 101395 - Rural Hospital,Odzi Clinic,ZW010538,ACTIVE
+Manicaland,Mutasa,Old Mutare,MANICALAND,Mutasa,Old Mutare - 101397 - Mission Hospital,Old Mutare Mission Hospital,ZW01060C,ACTIVE
+Mashonaland West,Sanyati,Ordoff RDC,MASHONALAND WEST,Sanyati,Ordoff - 101398 - Council Clinic,Ordoff RDC Clinic,ZW040623,ACTIVE
+Harare Metropolitan,Epworth,Overspill,HARARE,Epworth,Overspill - 101399 - Satellite Clinic,Overspill Clinic,ZW030927,ACTIVE
+Mashonaland Central,Mount Darwin,Pachanza,MASHONALAND CENTRAL,Mt Darwin,Pachanza - 101400 - Clinic,PACHANZA,ZW020528,ACTIVE
+Mashonaland West,Chegutu,Padre Pio Poly,MASHONALAND WEST,Chegutu,Padre Pio Poly Clinic,Padre Pio Poly Clinic,ZW040189,ACTIVE
+Manicaland,Chipinge,Paidamoyo Rural Health Centre,MANICALAND,Chipinge,Paidamoyo - 101402 - Clinic,Paidamoyo Rural Health Centre,ZW010312,ACTIVE
+Harare Metropolitan,Harare City,Parirenyatwa,HARARE,Harare,Parirenyatwa Primary Care - 101852 - Clinic,ha Parirenyatwa Clinic,ZW000A30,ACTIVE
+Mashonaland West,Sanyati,Patchway RDC,MASHONALAND WEST,Sanyati,Patchway - 101408 - Mine Clinic,Patchway RDC Clinic,ZW040624,ACTIVE
+Bulawayo Metropolitan,Nkulumane,Pelandaba,Bulawayo,Bulawayo,Pelandaba - 101412 - Clinic,Pelandaba Clinic,ZW090A11,ACTIVE
+Mashonaland West,Chegutu,Pfupajena Munic,MASHONALAND WEST,Chegutu,Pfupajena - 101416 - Council Clinic,Pfupajena Munic Clinic,ZW040161,ACTIVE
+Matabeleland South,Gwanda,Phakama,MATEBELELAND SOUTH,Gwanda,Pakama - 101403 - Clinic,Phakama Clinic,ZW060362,ACTIVE
+Matabeleland North,Tsholotsho,Phumula,MATEBELELAND NORTH,Tsholotsho,Pumula - 101433 - Mission Hospital,Phumula Mission Hospital,ZW05060C,ACTIVE
+Matabeleland South,Mangwe,Plumtree,MATEBELELAND SOUTH,Mangwe,Plumtree - 101417 - District Hospital,Plumtree District Hospital,ZW06070A,ACTIVE
+Bulawayo Metropolitan,Northern Suburbs,Princess Margaret,Bulawayo,Bulawayo,Princess Margaret - 101429 - Clinic,Princess Margaret Clinic,ZW090A12,ACTIVE
+Bulawayo Metropolitan,Emakhandeni,Pumula,Bulawayo,Bulawayo,Pumula - 101432 - Clinic,Pumula Clinic,ZW090A13,ACTIVE
+Bulawayo Metropolitan,Emakhandeni,Pumula South,Bulawayo,Bulawayo,Pumula South - 101434 - Clinic,Pumula South Clinic,ZW090A35,ACTIVE
+Mashonaland West,Zvimba,Raffingora Rural,MASHONALAND WEST,Zvimba,Raffingora - 101437 - Rural Hospital,Raffingora Rural Hospital,ZW04070D,ACTIVE
+Masvingo,Chivi,Razi Rural Health Centre,MASVINGO,Chivi,Razi - 101444 - Rural Health Centre,Razi Rural Health Centre,ZW080305,ACTIVE
+Midlands,Kwekwe,Redcliff,MIDLANDS,Kwekwe,Redcliff - 101446 - Clinic,Redcliff Clinic,ZW070559,ACTIVE
+Matabeleland North,Umguza,Redwood,MATEBELELAND NORTH,Umguza,Redwood - 101447 - Clinic,Redwood - 101447 - Clinic,599,ACTIVE
+Manicaland,Chipinge,Rimbi,MANICALAND,Chipinge,Rimbi - 101451 - Clinic,Rimbi Clinic,ZW010335,ACTIVE
+Mashonaland West,Sanyati,Rimuka Municipal,MASHONALAND WEST,Sanyati,Rimuka - 101452 - Clinic,Rimuka Municipal Clinic,ZW040361,ACTIVE
+Midlands,Kwekwe,Rio Tinto,MIDLANDS,Kwekwe,Rio Tinto - 101455 - Mine Clinic,Rio Tinto Clinic,ZW070552,ACTIVE
+Mashonaland Central,Mazowe,Rosa Rural,MASHONALAND CENTRAL,Mazowe,Rosa - 101459 - Rural Hospital,ROSA,ZW02040B,ACTIVE
+Masvingo,Masvingo,Rujeko,MASVINGO,Masvingo,Rujeko - 101468 - Clinic,Rujeko Clinic,ZW080582,ACTIVE
+Harare Metropolitan,Harare City,Rujeko Poly,HARARE,Harare,Rujeko  - 101469 - Poly clinic,ha Rujeko PolyClinic,ZW000A33,ACTIVE
+Masvingo,Masvingo,Rukovo,MASVINGO,Masvingo,Rukovo - 101470 - Clinic,Rukovo Clinic,ZW080532,ACTIVE
+Manicaland,Makoni,Rukweza,MANICALAND,Makoni,Rukweza - 101471 - Clinic,Rukweza Clinic,ZW010433,ACTIVE
+Masvingo,Masvingo,Runyararo,MASVINGO,Masvingo,Runyararo - 101473 - Clinic,Runyararo - 101473 - Clinic,612,ACTIVE
+Masvingo,Chiredzi,Rupangwana,MASVINGO,Chiredzi,Rapanguwana - 101442 - Clinic,Rupangwana Clinic,ZW080230,ACTIVE
+Manicaland,Makoni,Rusape,MANICALAND,Makoni,Rusape - 101477 - District Hospital,Rusape District Hospital,ZW01040A,ACTIVE
+Mashonaland East,Goromonzi,Rusike,MASHONALAND EAST,Goromonzi,Rusike - 101479 - Clinic,Rusike Clinic,ZW030249,ACTIVE
+Midlands,Kwekwe,Rutendo,MIDLANDS,Kwekwe,Rutendo - 101487 - Clinic,Rutendo Clinic,ZW070564,ACTIVE
+Masvingo,Mwenezi,Rutenga,MASVINGO,Mwenezi,Rutenga - 101488 - Clinic,Rutenga Clinic,ZW080606,ACTIVE
+Harare Metropolitan,Harare City,Rutsanana Poly,HARARE,Harare,Rutsanana - 101491 - Clinic,ha Rutsanana PolyClinic,ZW000A34,ACTIVE
+Harare Metropolitan,Ruwa,Ruwa PolyClinic,HARARE,Ruwa,Ruwa - 101493 - Rural Health Centre,Ruwa PolyClinic,ZW030273,ACTIVE
+Harare Metropolitan,Ruwa,Ruwa Rehabilitation,HARARE,Ruwa,Ruwa Rehabilitation  - 101495 - Hospital,Ruwa Rehab,ZW03020C,ACTIVE
+Mashonaland Central,Guruve,Ruyamuro,MASHONALAND CENTRAL,Guruve,Ruyamuro - 101497 - Clinic,mc Ruyamuro Clinic,ZW020343,ACTIVE
+Manicaland,Mutare,Sakubva,MANICALAND,Mutare,Sakubva - 101510 - District Hospital,Sakubva District Hospital,ZW01050C,ACTIVE
+Matabeleland South,Matobo,Sankonjane Rural Health Centre,MATEBELELAND SOUTH,Matobo,Sankonjana - 101525 - Rural Health Centre,Sankonjane Rural Health Centre,ZW060502,ACTIVE
+Mashonaland West,Sanyati,Sanyati,MASHONALAND WEST,Sanyati,Sanyati ARDA - 101861 - Clinic,Sanyati RDC Clinic,ZW040625,ACTIVE
+Matabeleland South,Mangwe,Sanzukwi,MATEBELELAND SOUTH,Mangwe,SANZUKWI - 101529 - Clinic,Sanzukwi Clinic,ZW060733,ACTIVE
+Harare Metropolitan,Chitungwiza,Seke North,HARARE,Chitungwiza,Seke North - 101533 - Clinic,Seke North Clinic,ZW000B02,ACTIVE
+Harare Metropolitan,Chitungwiza,Seke South,HARARE,Chitungwiza,Seke South - 101534 - Clinic,Seke South Clinic,ZW000B01,ACTIVE
+Matabeleland South,Gwanda,Selonga,MATEBELELAND SOUTH,Gwanda,Selonga - 101536 - Rural Health Centre,Selonga Clinic,ZW060363,ACTIVE
+Mashonaland West,Chegutu,Selous,MASHONALAND WEST,Chegutu,Selous - 101537 - Council Clinic,Selous Clinic,ZW040133,ACTIVE
+Midlands,Gweru,Senga,MIDLANDS,Gweru,Senga Poly - 101538 - Clinic,Senga Clinic,ZW070467,ACTIVE
+Midlands,Kwekwe,Senkwazi,MIDLANDS,Kwekwe,Senkwasi - 101541 - Clinic,Senkwazi Clinic,ZW070531,ACTIVE
+Masvingo,Gutu,Serima,MASVINGO,Gutu,Serima - 101542 - Mission Hospital,Serima Mission Hospital,ZW080491,ACTIVE
+Matabeleland North,Nkayi,Sesemba,MATEBELELAND NORTH,Nkayi,Sesemba - 101545 - Rural Health Centre,Sesemba Clinic,ZW050534,ACTIVE
+Midlands,Gokwe South,Sessami,MIDLANDS,Gokwe South,Sesame - 101543 - Clinic,Sessame Clinic,ZW070396,ACTIVE
+Matabeleland South,Beitbridge,Shabwe Rural Health Centre,MATEBELELAND SOUTH,Beitbridge,Shabwe - 101548 - Rural Health Centre,Shabwe Rural Health Centre,ZW060106,ACTIVE
+Matabeleland South,Insiza,Shangani Rural,MATEBELELAND SOUTH,Insiza,Shangani - 101556 - Mine Clinic,Shangani Clinic,ZW060477,ACTIVE
+Midlands,Kwekwe,Sherwood,MIDLANDS,Kwekwe,Sherwood - 101561 - Clinic,Sherwood Clinic,ZW070566,ACTIVE
+Masvingo,Chivi,Shindi Satellite,MASVINGO,Chivi,Shindi - 101562 - Clinic,Shindi Satellite Clinic,ZW080328,ACTIVE
+Mashonaland Central,Guruve,Shinje Rural Health Centre,MASHONALAND CENTRAL,Guruve,Shinje - 101565 - Clinic,mc Shinje Rural Health Centre,ZW020307,ACTIVE
+Masvingo,Masvingo,Shumba,MASVINGO,Masvingo,Shumba - 101569 - Clinic,Shumba Clinic,ZW080533,ACTIVE
+Mashonaland Central,Mazowe,Shutu Rural Health Centre,MASHONALAND CENTRAL,Mazowe,Shutu - 101571 - Clinic,SHUTU,ZW020403,ACTIVE
+Midlands,Kwekwe,Sidakeni,MIDLANDS,Kwekwe,Sidakeni - 101579 - Clinic,Sidakeni Clinic,ZW070532,ACTIVE
+Matabeleland North,Bubi,Siganda,MATEBELELAND NORTH,Bubi,Siganda - 101578 - Rural Health Centre,Siganda Clinic,ZW050226,ACTIVE
+Matabeleland North,Tsholotsho,Sikente,MATEBELELAND NORTH,Tsholotsho,Sikente - 101584 - Clinic,Sikente Clinic,ZW050698,ACTIVE
+Matabeleland South,Bulilima,Sikhathini,MATEBELELAND SOUTH,Bulilima,Sikhatini - 101585 - Clinic,Sikhathini Clinic,ZW060231,ACTIVE
+Matabeleland South,Gwanda,Silikwe,MATEBELELAND SOUTH,Gwanda,Silkwe - 101589 - Rural Health centre,Silikwe Clinic,ZW060368,ACTIVE
+Midlands,Kwekwe,Silobela,MIDLANDS,Kwekwe,Silobela - 101590 - District Hospital,Silobela District Hospital,ZW07050B,ACTIVE
+Midlands,Kwekwe,Simana,MIDLANDS,Kwekwe,Simana - 101595 - Clinic,Simana Clinic,ZW070534,ACTIVE
+Matabeleland South,Insiza,Singwango,MATEBELELAND SOUTH,Insiza,Singwango - 101603 - Clinic,Singwango Clinic,ZW060425,ACTIVE
+Matabeleland North,Tsholotsho,Siphepha Rural,MATEBELELAND NORTH,Tsholotsho,Sipepa - 101605 - Rural Hospital,Siphepha Rural Hospital,ZW05060B,ACTIVE
+Masvingo,Zaka,Siyawareva,MASVINGO,Zaka,Siyawareva - 101609 - Clinic,Siyawareva Clinic,ZW080737,ACTIVE
+Matabeleland South,Bulilima,Solusi Mission,MATEBELELAND SOUTH,Bulilima,Solusi - 101612 - Clinic,Solusi Mission Clinic,ZW060291,ACTIVE
+Harare Metropolitan,Harare City,Southerton,HARARE,Harare,Southerton - 101619 - Clinic,ha Southerton Clinic,ZW000A35,ACTIVE
+Matabeleland South,Mangwe,St Annes Mission Hospital (Brunapeg),MATEBELELAND SOUTH,Mangwe,St. Annes Brunapeg - 101642 - Mission Hospital,St Annes Mission Hospital (Brunapeg),ZW06070D,ACTIVE
+Manicaland,Mutasa,St Augustine's,MANICALAND,Mutasa,St. Augustine's - 101627 - Mission Clinic,St Augustine's Clinic,ZW010693,ACTIVE
+Manicaland,Mutare,St Josephs',MANICALAND,Mutare,St. Joseph's - 101632 - T.B Hospital,St Josephs Mission Hospital,ZW01050G,ACTIVE
+Mashonaland East,Goromonzi,St Joseph's,MASHONALAND EAST,Goromonzi,St. Joseph's - 101631 - Rural Health centre,St Joseph's Clinic,ZW030252,ACTIVE
+Matabeleland South,Matobo,St Joseph's,MATEBELELAND SOUTH,Matobo,St. Joseph's - 101644 - Rural Hospital,St Joseph's Mission Hospital,ZW06050E,ACTIVE
+Matabeleland North,Lupane,St Luke's,MATEBELELAND NORTH,Lupane,St. Lukes - 101645 - Mission Hospital,St Luke's Mission Hospital,ZW05040B,ACTIVE
+Harare Metropolitan,Chitungwiza,St Mary's,HARARE,Chitungwiza,St. Mary's - 101633 - Clinic,St Mary's Clinic,ZW000B03,ACTIVE
+Mashonaland West,Mhondoro,St Michael's,MASHONALAND WEST,Mhondoro,St. Michaels - 101646 - Mission Hospital,St Michael's Mission Hospital,ZW04050B,ACTIVE
+Matabeleland North,Lupane,St Paul's,MATEBELELAND NORTH,Lupane,St. Pauls - 101647 - Mission Hospital,St Paul's Mission Hospital,ZW05040A,ACTIVE
+Mashonaland East,Murewa,St Paul's Musami,MASHONALAND EAST,Murehwa,St. Paul's Musami - 101638 - Mission Hospital,St Paul's Musami Mission Hospital,ZW03070B,ACTIVE
+Manicaland,Chipinge,St Peters,MANICALAND,Chipinge,St. Peters - 101648 - Mission Hospital,St Peters Hospital,ZW01030D,ACTIVE
+Manicaland,Makoni,St Therese's,MANICALAND,Makoni,St. Theresa - 101640 - Mission Hospital,St Therese's Mission Hospital,ZW01040F,ACTIVE
+Harare Metropolitan,Harare City,Sunningdale,HARARE,Harare,Sunningdale - 101657 - Satellite Clinic,ha Sunningdale Clinic,ZW000A37,ACTIVE
+Mashonaland Central,Mazowe,Suoguru,MASHONALAND CENTRAL,Mazowe,Suoguru Clinic,SUOGURU,ZW020488,ACTIVE
+Mashonaland West,Zvimba,Sutton RDC,MASHONALAND WEST,Zvimba,Sutton - 101661 - Mine Clinic,Sutton RDC Clinic,ZW040777,ACTIVE
+Midlands,Gokwe South,Svisvi,MIDLANDS,Gokwe South,Svisvi - 101663 - Rural Health Centre,Svisvi Clinic,ZW070311,ACTIVE
+Masvingo,Zaka,Svuure Rural Health Centre,MASVINGO,Zaka,Svuvure - 101665 - Rural Health Hospital,Svuure Rural Health Centre,ZW080704,ACTIVE
+Harare Metropolitan,Harare City,Tafara FHS,HARARE,Harare,Tafara - 101669 - Clinic,ha Tafara FHS Clinic,ZW000A38,ACTIVE
+Manicaland,Makoni,Tandi,MANICALAND,Makoni,Tandi - 101678 - Clinic,Tandi Clinic,ZW010434,ACTIVE
+Mashonaland West,Hurungwe,Tengwe,MASHONALAND WEST,Hurungwe,Tengwe - 101886 - Clinic,Tengwe Clinic,ZW040249,ACTIVE
+Matabeleland South,Beitbridge,Tongwe,MATEBELELAND SOUTH,Beitbridge,Tongwe - 101696 - Clinic,Tongwe Clinic,ZW060130,ACTIVE
+Midlands,Gokwe South,Tongwe,MIDLANDS,Gokwe South,Tongwe - 101697 - Clinic,Tongwe Clinic,ZW070339,ACTIVE
+Midlands,Kwekwe,Torwood,MIDLANDS,Kwekwe,Torwood - 101700 - Hospital,Torwood Clinic,ZW070554,ACTIVE
+Mashonaland West,Zvimba,TRB RDC,MASHONALAND WEST,Zvimba,TRBC - 101703 - Council Clinic,TRB RDC Clinic,ZW040747,ACTIVE
+Mashonaland West,Zvimba,Trelawney RDC,MASHONALAND WEST,Zvimba,Trelawney - 101704 - Council Clinic,Trelawney RDC Clinic,ZW040748,ACTIVE
+Manicaland,Makoni,Tsanzaguru,MANICALAND,Makoni,Tsanzaguru - 101709 - Clinic,Tsanzaguru Clinic,ZW010436,ACTIVE
+Bulawayo Metropolitan,Nkulumane,Tshabalala,Bulawayo,Bulawayo,Tshabalala - 101710 - Clinic,Tshabalala Clinic,ZW090A02,ACTIVE
+Matabeleland South,Matobo,Tshelanyemba,MATEBELELAND SOUTH,Matobo,Tshelanyemba - 101711 - Mission Hospital,Tshelanyemba Mission Hospital,ZW06050D,ACTIVE
+Matabeleland South,Mangwe,Tshitshi,MATEBELELAND SOUTH,Mangwe,Tshitshi - 101712 - Clinic,Tshitshi Clinic,ZW060732,ACTIVE
+Matabeleland North,Tsholotsho,Tsholotsho,MATEBELELAND NORTH,Tsholotsho,Tsholotsho Urban - 101667 - Clinic,Tsholotsho Urban Clinic,ZW050631,ACTIVE
+Masvingo,Chiredzi,Tshovani,MASVINGO,Chiredzi,Tsovani - 101715 - Clinic,Tshovani Clinic,ZW080233,ACTIVE
+Manicaland,Mutasa,Tsonzo Rural,MANICALAND,Mutasa,Tsonzo - 101714 - Rural Hospital,Tsonzo Rural Hospital,ZW01060A,ACTIVE
+Mashonaland Central,Mazowe,Tsungubvi,MASHONALAND CENTRAL,Mazowe,Tsungubvi - 101717 - Clinic,TSUNGUBVI,ZW020447,ACTIVE
+Mashonaland West,Mhondoro,Turf Estate RDC,MASHONALAND WEST,Mhondoro,Turf - 101719 - Council Clinic,Turf Estate RDC Clinic,ZW040524,ACTIVE
+Mashonaland West,Makonde,Umboe RDC,MASHONALAND WEST,Makonde,Umboe - 101724 - Clinic,Umboe RDC Clinic,ZW040448,ACTIVE
+Matabeleland North,Umguza,Umguza Council,MATEBELELAND NORTH,Umguza,Umguza Council Clinic,Umguza Council Clinic ,ZW050750,ACTIVE
+Bulawayo Metropolitan,Bulawayo Central Hospitals,United Bulawayo,Bulawayo,Bulawayo,United Bulawayo Hospital - 101723 - Central Hospital,United Bulawayo Hospital - 101723 - Central Hospital,724,ACTIVE
+Manicaland,Makoni,Vengere,MANICALAND,Makoni,Vengere - 101733 - Clinic,Vengere Clinic,ZW010442,ACTIVE
+Mashonaland East,Murewa,Virginia,MASHONALAND EAST,Murehwa,Virginia Clinic - 101742 - Clinic,Virginia Clinic,ZW030746,ACTIVE
+Matabeleland South,Insiza,Wanezi,MATEBELELAND SOUTH,Insiza,Wanezi - 101757 - Rural Hospital,Wanezi - 101757 - Rural Hospital,735,ACTIVE
+Harare Metropolitan,Harare City,Warren Park PolyClinic,HARARE,Harare,Warren Park - 101760 - Poly clinic,ha Warren Park PolyClinic,ZW000A39,ACTIVE
+Harare Metropolitan,Harare City,Waterfalls,HARARE,Harare,Waterfalls - 101761 - Clinic,ha Waterfalls Clinic,ZW000A41,ACTIVE
+Mashonaland West,Sanyati,Waverly Municipal,MASHONALAND WEST,Sanyati,Waverly - 101764 - Clinic,Waverly Municipal Clinic,ZW040639,ACTIVE
+Matabeleland South,Gwanda,West Nicholson,MATEBELELAND SOUTH,Gwanda,West Nicolson - 101772 - Clinic,West Nicholson Clinic,ZW060382,ACTIVE
+Harare Metropolitan,Harare City,Western Triangle,HARARE,Harare,Western Triangle Clinic,Western Triangle Clinic,ZW000A42,ACTIVE
+Manicaland,Makoni,Weya Rural,MANICALAND,Makoni,Weya - 101774 - Rural Hospital,Weya Rural Hospital,ZW01040B,ACTIVE
+Harare Metropolitan,Harare City,Wilkins Infectious Diseases,HARARE,Harare,Wilkins Infectious Disease Hospital - 101775 - Infectious Disease Hospital,Wilkins Infectious Disease Hospital,ZW000A0D,ACTIVE
+Masvingo,Masvingo,Zano,MASVINGO,Masvingo,Zano - 101781 - Clinic,Zano Clinic,ZW080536,ACTIVE
+Harare Metropolitan,Chitungwiza,Zengeza,HARARE,Chitungwiza,Zengeza Clinic - 100305 - Council Clinic,Zengeza Clinic,ZW000B04,ACTIVE
+Matabeleland North,Nkayi,Zenka Rural Health Centre,MATEBELELAND NORTH,Nkayi,Zenka - 101785 - Rural Health Centre,Zenka Rural Health Centre,ZW050506,ACTIVE
+Matabeleland South,Beitbridge,Zezani,MATEBELELAND SOUTH,Beitbridge,Zezane - 101787 - Clinic,Zezani Clinic,ZW060131,ACTIVE
+Midlands,Kwekwe,Zhombe,MIDLANDS,Kwekwe,Zhombe - 101792 - Mission Clinic,Zhombe Mission Hospital,ZW07050C,ACTIVE
+Matabeleland South,Insiza,Zhulube,MATEBELELAND SOUTH,Insiza,Zhulube - 101793 - Clinic,Zhulube Clinic,ZW060426,ACTIVE
+Manicaland,Mutare,Zimunya,MANICALAND,Mutare,Zimunya - 101805 - Clinic,Zimunya Clinic,ZW010539,ACTIVE
+Manicaland,Mutasa,Zindi,MANICALAND,Mutasa,Zindi - 101807 - Clinic,Zindi Clinic,ZW010635,ACTIVE
+Matabeleland North,Nkayi,Zinyangeni,MATEBELELAND NORTH,Nkayi,Zinyangeni - 101810 - Rural Health Centre,Zinyangeni,ZW050529,ACTIVE
+Masvingo,Chivi,Zivuku,MASVINGO,Chivi,Zivuku - 101812 - Clinic,Zivuku Clinic,ZW080324,ACTIVE
+Midlands,Gweru,ZPS Whawha Prison,MIDLANDS,Gweru,Connemara - 100347 - Clinic,ZPS Connemara Prison Clinic,ZW070413,ACTIVE
+Masvingo,Gutu,Zvavahera Rural Health Centre,MASVINGO,Gutu,Zvavahera - 101824 - Clinic,Zvavahera Rural Health Centre,ZW080409,ACTIVE
+Mashonaland West,Zvimba,Zvimba Rural,MASHONALAND WEST,Zvimba,Zvimba - 101826 - Rural Hospital,Zvimba Rural Hospital,ZW04070G,ACTIVE
+Mashonaland West,Hurungwe,Zvipani Rural Health Centre,MASHONALAND WEST,Hurungwe,Zvipani - 101827 - Clinic,Zvipani Rural Health Centre,ZW040206,ACTIVE
+,,,,,,,,
