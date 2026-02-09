@@ -8,7 +8,7 @@ import numpy as np
 # Page configuration
 st.set_page_config(
     page_title="Health Facility TX_CURR Dashboard",
-    page_icon="🏥",
+    page_icon="🇿🇼",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -25,7 +25,6 @@ st.markdown("""
         border-radius: 10px;
         box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
     }
-    /* Make tabs more visible */
     .stTabs [data-baseweb="tab-list"] {
         gap: 8px;
         background-color: #f0f2f6;
@@ -51,16 +50,22 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('uploads/MRF_Datim.csv', encoding='utf-8-sig')
-    
+    # Ensure this path matches your actual file location
+    try:
+        df = pd.read_csv('uploads/MRF_Datim.csv', encoding='utf-8-sig')
+    except FileNotFoundError:
+        st.error("File not found. Please check the file path 'uploads/MRF_Datim.csv'.")
+        return pd.DataFrame()
+        
     # Clean column names
     df.columns = df.columns.str.strip()
     
     # Calculate difference between MRF and DATIM
     df['Difference'] = df['TX_CURR _mrf'] - df['TX_CURR _datim']
+    # Calculate % difference
     df['Difference_Percent'] = ((df['TX_CURR _mrf'] - df['TX_CURR _datim']) / df['TX_CURR _datim'] * 100).round(1)
     
-    # Calculate absolute difference percent for concordance
+    # Calculate absolute difference percent for concordance logic
     df['Abs_Difference_Percent'] = abs(df['Difference_Percent'])
     
     # Add concordance category
@@ -82,6 +87,9 @@ def load_data():
     return df
 
 df = load_data()
+
+if df.empty:
+    st.stop()
 
 # Header
 st.title("🇿🇼 TX_CURR Dashboard")
@@ -145,7 +153,6 @@ with tab1:
     
     # 1. Side-by-side bars by Province
     st.markdown("#### TX_CURR by Province")
-    st.markdown("*Comparing DATIM and MRF reporting*")
     
     province_data = filtered_df.groupby('Province')[['TX_CURR _datim', 'TX_CURR _mrf']].sum().reset_index()
     province_data = province_data.sort_values('TX_CURR _datim', ascending=False)
@@ -208,7 +215,15 @@ with tab1:
             },
             hole=0.4
         )
-        fig2.update_traces(textposition='inside', textinfo='percent+label')
+        
+        # --- UPDATE: Show Value and Percent in the chart ---
+        fig2.update_traces(
+            textposition='inside', 
+            textinfo='value+percent',  # Changed to show Number + %
+            hovertemplate = "<b>%{label}</b><br>Facilities: %{value}<br>Percentage: %{percent}"
+        )
+        # ---------------------------------------------------
+        
         fig2.update_layout(height=400, showlegend=True)
         st.plotly_chart(fig2, use_container_width=True)
         
@@ -217,12 +232,11 @@ with tab1:
                 "🟢 **High**: Difference is 5% or less\n\n"
                 "🟠 **Moderate**: Difference is 5-10%\n\n"
                 "🔴 **Low**: Difference is more than 10%\n\n"
-                "⚪ **Not Applicable**: DATIM reported zero (facility does not provide HIV treatment)")
+                "⚪ **Not Applicable**: DATIM reported zero")
     
     
     with col2:
         st.markdown("#### Facilities by Data Source")
-        st.markdown("*Distribution across implementing partners*")
         
         source_counts = filtered_df['Source'].value_counts().reset_index()
         source_counts.columns = ['Source', 'Count']
@@ -240,9 +254,8 @@ with tab1:
     
     st.markdown("---")
     
-    # 3. Top 10 districts with most patients
+    # 3. Top 10 districts
     st.markdown("#### Top 10 Districts by Patient Count")
-    st.markdown("*Districts with largest treatment programs*")
     
     district_data = filtered_df.groupby('District')[['TX_CURR _datim', 'TX_CURR _mrf']].sum().reset_index()
     district_data['Total'] = district_data['TX_CURR _datim'] + district_data['TX_CURR _mrf']
@@ -284,7 +297,7 @@ with tab2:
     # Search box
     col1, col2 = st.columns([3, 1])
     with col1:
-        search_term = st.text_input("🔍 Search for a facility by name", "", key="search")
+        search_term = st.text_input("🔍 Search for a facility by name", "", key="search").strip()
     with col2:
         st.write("")  # Spacer
         show_all = st.checkbox("Show all columns", value=False)
@@ -299,9 +312,10 @@ with tab2:
                                    'TX_CURR _datim', 'TX_CURR _mrf', 'Difference',
                                    'Concordance_Level']].copy()
     
-    # Apply search filter
+    # --- FIXED: Robust Search ---
     if search_term:
-        display_df = display_df[display_df['Facility Name'].str.contains(search_term, case=False, na=False)]
+        mask = display_df['Facility Name'].astype(str).str.contains(search_term, case=False, na=False)
+        display_df = display_df[mask]
     
     # Sort options
     col1, col2 = st.columns([2, 1])
@@ -314,14 +328,17 @@ with tab2:
     with col2:
         sort_order = st.radio("Order", ['Highest first', 'Lowest first'], horizontal=True, key="sort_order")
     
-    display_df = display_df.sort_values(by=sort_by, ascending=(sort_order == 'Lowest first'))
+    # --- FIXED: Sort Logic ---
+    is_ascending = (sort_order == 'Lowest first')
+    display_df = display_df.sort_values(by=sort_by, ascending=is_ascending)
     
-    # Display table with better formatting
+    # --- FIXED: Dynamic Key to prevent Stuck Table ---
     st.dataframe(
         display_df,
         use_container_width=True,
         hide_index=True,
         height=450,
+        key=f"fac_table_{sort_by}_{sort_order}_{len(display_df)}",
         column_config={
             "Facility Name": st.column_config.TextColumn("Facility", width="medium"),
             "Province": st.column_config.TextColumn("Province", width="small"),
@@ -344,60 +361,34 @@ with tab2:
 
 with tab3:
     st.subheader("Performance Analysis")
-    st.markdown("*Identifying facilities with strong concordance and those needing attention*")
     
-    # Not applicable section (facilities with no DATIM data - they don't provide HIV treatment)
+    # Not applicable section
     not_applicable_df = filtered_df[filtered_df['Concordance_Level'] == 'No DATIM Data']
     if len(not_applicable_df) > 0:
         with st.expander(f"ℹ️ Facilities Not Providing HIV Treatment ({len(not_applicable_df)} facilities)", expanded=False):
-            st.markdown("*These facilities reported zero in DATIM (they do not provide HIV treatment services)*")
+            st.markdown("*These facilities reported zero in DATIM*")
+            na_display = not_applicable_df[['Facility Name', 'Province', 'District', 'TX_CURR _datim', 'TX_CURR _mrf']].copy()
+            st.dataframe(na_display, hide_index=True, use_container_width=True, height=300)
             
-            na_display = not_applicable_df[['Facility Name', 'Province', 'District', 
-                                           'TX_CURR _datim', 'TX_CURR _mrf']].copy()
-            
-            st.dataframe(
-                na_display,
-                hide_index=True,
-                use_container_width=True,
-                height=300
-            )
-            
-            # Allow download
             csv_na = na_display.to_csv(index=False).encode('utf-8')
-            st.download_button(
-                label="📥 Download list of non-HIV facilities",
-                data=csv_na,
-                file_name="facilities_non_hiv.csv",
-                mime="text/csv"
-            )
-        
+            st.download_button(label="📥 Download list of non-HIV facilities", data=csv_na, file_name="facilities_non_hiv.csv", mime="text/csv")
         st.markdown("---")
     
-    # Split into two columns for high vs low concordance
     col1, col2 = st.columns(2)
     
     with col1:
         st.markdown("#### 🌟 Top 10 Facilities with High Concordance")
-        st.markdown("*These facilities have excellent alignment between DATIM and MRF*")
-        
-        # Get facilities with data and sort by lowest absolute difference
         high_concordance = filtered_df[filtered_df['Abs_Difference_Percent'].notna()].copy()
         high_concordance = high_concordance.nsmallest(10, 'Abs_Difference_Percent')
         
-        high_display = high_concordance[['Facility Name', 'District', 'TX_CURR _datim', 
-                                         'TX_CURR _mrf', 'Difference_Percent']].copy()
-        high_display.columns = ['Facility', 'District', 'DATIM', 'MRF', 'Difference %']
+        high_display = high_concordance[['Facility Name', 'District', 'TX_CURR _datim', 'TX_CURR _mrf', 'Difference_Percent']].copy()
+        high_display.columns = ['Facility', 'District', 'DATIM', 'MRF', 'Diff %']
         
         st.dataframe(
-            high_display,
-            hide_index=True,
-            use_container_width=True,
-            column_config={
-                "Difference %": st.column_config.NumberColumn("Difference %", format="%.1f%%")
-            }
+            high_display, hide_index=True, use_container_width=True,
+            column_config={"Diff %": st.column_config.NumberColumn("Diff %", format="%.1f%%")}
         )
         
-        # Visualize high concordance
         fig_high = go.Figure()
         fig_high.add_trace(go.Bar(
             x=high_concordance['Facility Name'],
@@ -406,38 +397,22 @@ with tab3:
             text=high_concordance['Abs_Difference_Percent'].apply(lambda x: f'{x:.1f}%'),
             textposition='outside'
         ))
-        fig_high.update_layout(
-            title="Difference Percentage (Lower is Better)",
-            xaxis_title="",
-            yaxis_title="Difference %",
-            height=350,
-            xaxis_tickangle=-45,
-            showlegend=False
-        )
+        fig_high.update_layout(title="Difference Percentage (Lower is Better)", height=350, xaxis_tickangle=-45)
         st.plotly_chart(fig_high, use_container_width=True)
     
     with col2:
         st.markdown("#### ⚠️ Top 10 Facilities with Low Concordance")
-        st.markdown("*These facilities need further review and data validation*")
-        
-        # Get facilities with largest absolute differences
         low_concordance = filtered_df[filtered_df['Abs_Difference_Percent'].notna()].copy()
         low_concordance = low_concordance.nlargest(10, 'Abs_Difference_Percent')
         
-        low_display = low_concordance[['Facility Name', 'District', 'TX_CURR _datim', 
-                                       'TX_CURR _mrf', 'Difference_Percent']].copy()
-        low_display.columns = ['Facility', 'District', 'DATIM', 'MRF', 'Difference %']
+        low_display = low_concordance[['Facility Name', 'District', 'TX_CURR _datim', 'TX_CURR _mrf', 'Difference_Percent']].copy()
+        low_display.columns = ['Facility', 'District', 'DATIM', 'MRF', 'Diff %']
         
         st.dataframe(
-            low_display,
-            hide_index=True,
-            use_container_width=True,
-            column_config={
-                "Difference %": st.column_config.NumberColumn("Difference %", format="%.1f%%")
-            }
+            low_display, hide_index=True, use_container_width=True,
+            column_config={"Diff %": st.column_config.NumberColumn("Diff %", format="%.1f%%")}
         )
         
-        # Visualize low concordance
         fig_low = go.Figure()
         fig_low.add_trace(go.Bar(
             x=low_concordance['Facility Name'],
@@ -446,135 +421,92 @@ with tab3:
             text=low_concordance['Abs_Difference_Percent'].apply(lambda x: f'{x:.1f}%'),
             textposition='outside'
         ))
-        fig_low.update_layout(
-            title="Difference Percentage (Needs Review)",
-            xaxis_title="",
-            yaxis_title="Difference %",
-            height=350,
-            xaxis_tickangle=-45,
-            showlegend=False
-        )
+        fig_low.update_layout(title="Difference Percentage (Needs Review)", height=350, xaxis_tickangle=-45)
         st.plotly_chart(fig_low, use_container_width=True)
     
     st.markdown("---")
     
-    # Concordance by Province
-    st.markdown("#### Concordance Distribution by Province")
-    st.markdown("*Understanding regional patterns in data alignment*")
-    
-    concordance_province = pd.crosstab(
-        filtered_df['Province'], 
-        filtered_df['Concordance_Level']
-    )
-    
+    # Concordance by Province Chart
+    concordance_province = pd.crosstab(filtered_df['Province'], filtered_df['Concordance_Level'])
     concordance_province_pct = concordance_province.div(concordance_province.sum(axis=1), axis=0) * 100
     
     fig5 = go.Figure()
-    
-    for category in ['High Concordance (≤5%)', 'Moderate Concordance (5-10%)', 
-                    'Low Concordance (>10%)', 'No DATIM Data']:
+    for category in ['High Concordance (≤5%)', 'Moderate Concordance (5-10%)', 'Low Concordance (>10%)', 'No DATIM Data']:
         if category in concordance_province_pct.columns:
             fig5.add_trace(go.Bar(
                 name=category,
                 x=concordance_province_pct.index,
                 y=concordance_province_pct[category],
-                marker_color={
-                    'High Concordance (≤5%)': '#2ecc71',
-                    'Moderate Concordance (5-10%)': '#f39c12',
-                    'Low Concordance (>10%)': '#e74c3c',
-                    'No DATIM Data': '#95a5a6'
-                }[category]
+                marker_color={'High Concordance (≤5%)': '#2ecc71', 'Moderate Concordance (5-10%)': '#f39c12',
+                              'Low Concordance (>10%)': '#e74c3c', 'No DATIM Data': '#95a5a6'}[category]
             ))
-    
-    fig5.update_layout(
-        barmode='stack',
-        height=400,
-        xaxis_title="Province",
-        yaxis_title="Percentage of Facilities (%)",
-        legend=dict(orientation="h", yanchor="bottom", y=-0.3, xanchor="center", x=0.5),
-        xaxis_tickangle=-45
-    )
+    fig5.update_layout(barmode='stack', height=400, xaxis_title="Province", yaxis_title="Percentage (%)")
     st.plotly_chart(fig5, use_container_width=True)
     
     st.markdown("---")
     
-    # Scatter plot showing relationship
-    st.markdown("#### DATIM vs MRF: Correlation Analysis")
-    st.markdown("*Points closer to the diagonal line indicate better concordance*")
-    
+    # Scatter plot
     scatter_df = filtered_df.dropna(subset=['TX_CURR _datim', 'TX_CURR _mrf'])
-    
     fig6 = px.scatter(
-        scatter_df,
-        x='TX_CURR _datim',
-        y='TX_CURR _mrf',
-        color='Concordance_Level',
-        hover_data=['Facility Name', 'District', 'Province', 'Difference_Percent'],
-        labels={
-            'TX_CURR _datim': 'DATIM Patient Count',
-            'TX_CURR _mrf': 'MRF Patient Count'
-        },
-        color_discrete_map={
-            'High Concordance (≤5%)': '#2ecc71',
-            'Moderate Concordance (5-10%)': '#f39c12',
-            'Low Concordance (>10%)': '#e74c3c',
-            'No DATIM Data': '#95a5a6'
-        },
+        scatter_df, x='TX_CURR _datim', y='TX_CURR _mrf', color='Concordance_Level',
+        hover_data=['Facility Name', 'District', 'Difference_Percent'],
+        color_discrete_map={'High Concordance (≤5%)': '#2ecc71', 'Moderate Concordance (5-10%)': '#f39c12',
+                            'Low Concordance (>10%)': '#e74c3c', 'No DATIM Data': '#95a5a6'},
         height=500
     )
-    
-    # Add perfect agreement line
     max_val = max(scatter_df['TX_CURR _datim'].max(), scatter_df['TX_CURR _mrf'].max())
-    fig6.add_trace(go.Scatter(
-        x=[0, max_val],
-        y=[0, max_val],
-        mode='lines',
-        name='Perfect Concordance',
-        line=dict(color='gray', dash='dash', width=2),
-        showlegend=True
-    ))
-    
-    fig6.update_layout(
-        legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5)
-    )
+    fig6.add_trace(go.Scatter(x=[0, max_val], y=[0, max_val], mode='lines', name='Perfect', line=dict(color='gray', dash='dash')))
     st.plotly_chart(fig6, use_container_width=True)
     
     st.markdown("---")
     
-    # Summary statistics
+    # Summary Statistics
     st.markdown("#### Summary Statistics")
     col1, col2 = st.columns(2)
     
     with col1:
-        summary_stats = filtered_df[['TX_CURR _datim', 'TX_CURR _mrf', 'Difference']].describe()
-        summary_stats = summary_stats.round(0)
-        summary_stats.columns = ['DATIM', 'MRF', 'Difference']
+        summary_stats = filtered_df[['TX_CURR _datim', 'TX_CURR _mrf', 'Difference']].describe().round(0)
         st.dataframe(summary_stats, use_container_width=True)
     
     with col2:
-        # Concordance metrics
+        # --- UPDATE: Better Metrics Display ---
         st.markdown("**Concordance Summary**")
-        # Only count facilities that have DATIM data (exclude No DATIM Data)
-        total = len(filtered_df[filtered_df['Concordance_Level'] != 'No DATIM Data'])
-        if total > 0:
-            high = len(filtered_df[filtered_df['Concordance_Level'] == 'High Concordance (≤5%)'])
-            moderate = len(filtered_df[filtered_df['Concordance_Level'] == 'Moderate Concordance (5-10%)'])
-            low = len(filtered_df[filtered_df['Concordance_Level'] == 'Low Concordance (>10%)'])
+        
+        # Filter out No DATIM Data for percentage calculation to be meaningful
+        valid_data = filtered_df[filtered_df['Concordance_Level'] != 'No DATIM Data']
+        total_valid = len(valid_data)
+        
+        if total_valid > 0:
+            high = len(valid_data[valid_data['Concordance_Level'] == 'High Concordance (≤5%)'])
+            mod = len(valid_data[valid_data['Concordance_Level'] == 'Moderate Concordance (5-10%)'])
+            low = len(valid_data[valid_data['Concordance_Level'] == 'Low Concordance (>10%)'])
             
-            st.metric("High Concordance", f"{high} facilities ({high/total*100:.1f}%)")
-            st.metric("Moderate Concordance", f"{moderate} facilities ({moderate/total*100:.1f}%)")
-            st.metric("Low Concordance", f"{low} facilities ({low/total*100:.1f}%)")
+            # Using columns for better layout
+            m1, m2, m3 = st.columns(3)
+            
+            with m1:
+                st.metric(
+                    label="High (≤5%)", 
+                    value=f"{high}",
+                    delta=f"{high/total_valid*100:.1f}%",
+                    delta_color="normal" # Green
+                )
+            with m2:
+                st.metric(
+                    label="Moderate (5-10%)", 
+                    value=f"{mod}",
+                    delta=f"{mod/total_valid*100:.1f}%",
+                    delta_color="off" # Grey/Neutral
+                )
+            with m3:
+                st.metric(
+                    label="Low (>10%)", 
+                    value=f"{low}",
+                    delta=f"-{low/total_valid*100:.1f}%", # Negative sign makes it red
+                    delta_color="inverse" # Red
+                )
         else:
-            st.info("No concordance data available with current filters")
+            st.info("No data available")
 
-# Footer
 st.markdown("---")
-st.markdown("""
-    <div style='text-align: center; color: gray; padding: 20px;'>
-        <p><strong>Health Facility TX_CURR Dashboard</strong></p>
-        <p>Comparing DATIM and MRF data sources for treatment current indicators</p>
-        <p style='font-size: 12px; margin-top: 10px;'>
-            💡 <strong>Tip:</strong> Use the filters on the left to focus on specific regions or implementing partners
-        </p>
-    </div>
-    """, unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: gray;'>Health Facility TX_CURR Dashboard</div>", unsafe_allow_html=True)
