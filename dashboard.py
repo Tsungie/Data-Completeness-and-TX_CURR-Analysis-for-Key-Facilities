@@ -294,15 +294,15 @@ with tab2:
     st.subheader("Complete Facility List")
     st.markdown("*Search, sort, and export facility data*")
     
-    # Search box
+    # 1. Search Box
     col1, col2 = st.columns([3, 1])
     with col1:
-        search_term = st.text_input("🔍 Search for a facility by name", "", key="search").strip()
+        search_term = st.text_input("🔍 Search for a facility by name", "").strip()
     with col2:
-        st.write("")  # Spacer
+        st.write("")
         show_all = st.checkbox("Show all columns", value=False)
     
-    # Prepare display dataframe
+    # 2. Select Columns to Display
     if show_all:
         display_df = filtered_df[['Facility Name', 'Province', 'District', 'Source', 
                                    'TX_CURR _datim', 'TX_CURR _mrf', 'Difference', 
@@ -312,33 +312,45 @@ with tab2:
                                    'TX_CURR _datim', 'TX_CURR _mrf', 'Difference',
                                    'Concordance_Level']].copy()
     
-    # --- FIXED: Robust Search ---
+    # 3. Apply Search Filter
     if search_term:
+        # We use astype(str) to ensure it doesn't crash on numbers
         mask = display_df['Facility Name'].astype(str).str.contains(search_term, case=False, na=False)
         display_df = display_df[mask]
     
-    # Sort options
+    # 4. Sorting Controls
     col1, col2 = st.columns([2, 1])
+    
+    # A dictionary to map "Friendly Names" to "Actual Column Names"
+    sort_mapper = {
+        "Facility Name": "Facility Name",
+        "DATIM Count": "TX_CURR _datim",
+        "MRF Count": "TX_CURR _mrf",
+        "Difference": "Difference"
+    }
+    
     with col1:
-        sort_by = st.selectbox(
-            "Sort by", 
-            ['Facility Name', 'TX_CURR _datim', 'TX_CURR _mrf', 'Difference'],
-            key="sort_select"
-        )
+        # User selects the Friendly Name
+        sort_label = st.selectbox("Sort by", list(sort_mapper.keys()), key="sort_select")
+        # We retrieve the Actual Column Name
+        sort_col = sort_mapper[sort_label]
+        
     with col2:
         sort_order = st.radio("Order", ['Highest first', 'Lowest first'], horizontal=True, key="sort_order")
     
-    # --- FIXED: Sort Logic ---
+    # 5. Apply Sorting Logic
+    # Highest first = Descending (False)
+    # Lowest first = Ascending (True)
     is_ascending = (sort_order == 'Lowest first')
-    display_df = display_df.sort_values(by=sort_by, ascending=is_ascending)
     
-    # --- FIXED: Dynamic Key to prevent Stuck Table ---
+    display_df = display_df.sort_values(by=sort_col, ascending=is_ascending)
+    
+    # 6. Display Table
     st.dataframe(
         display_df,
         use_container_width=True,
         hide_index=True,
         height=450,
-        key=f"fac_table_{sort_by}_{sort_order}_{len(display_df)}",
         column_config={
             "Facility Name": st.column_config.TextColumn("Facility", width="medium"),
             "Province": st.column_config.TextColumn("Province", width="small"),
@@ -350,7 +362,7 @@ with tab2:
         }
     )
     
-    # Download button
+    # 7. Download Button
     csv = display_df.to_csv(index=False).encode('utf-8')
     st.download_button(
         label="📥 Download this data as CSV",
@@ -365,7 +377,7 @@ with tab3:
     # Not applicable section
     not_applicable_df = filtered_df[filtered_df['Concordance_Level'] == 'No DATIM Data']
     if len(not_applicable_df) > 0:
-        with st.expander(f"ℹ️ Facilities Not Providing HIV Treatment ({len(not_applicable_df)} facilities)", expanded=False):
+        with st.expander(f"ℹ️ Facilities with no zero ({len(not_applicable_df)} facilities)", expanded=False):
             st.markdown("*These facilities reported zero in DATIM*")
             na_display = not_applicable_df[['Facility Name', 'Province', 'District', 'TX_CURR _datim', 'TX_CURR _mrf']].copy()
             st.dataframe(na_display, hide_index=True, use_container_width=True, height=300)
