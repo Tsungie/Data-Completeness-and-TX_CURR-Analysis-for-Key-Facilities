@@ -1,0 +1,206 @@
+﻿MRF_Province,MRF_District,MRF_Facility,Facility_datim,TX_CURR _datim,TX_CURR _mrf,Province,District,Facility Name,Source
+,,nan,Cowdry Park Health Centre,250.0,332,Bulawayo,Bulawayo,Cowdry Park Health Centre,DPL
+,,,E.F. Watson - 100429 - Clinic,1146,1919,Bulawayo,Bulawayo,E.F. Watson - 100429 - Clinic,DPL
+Bulawayo Metropolitan,Emakhandeni,Emakhandeni,Emakhandeni - 100443 - Clinic,2743.0,4404.0,Bulawayo,Bulawayo,Emakhandeni - 100443 - Clinic,DPL
+Bulawayo Metropolitan,Northern Suburbs,Entumbane,Entumbane - 100449 - Clinic,2097.0,2340.0,Bulawayo,Bulawayo,Entumbane - 100449 - Clinic,DPL
+Bulawayo Metropolitan,Northern Suburbs,Khami Road,Khami - 100733 - Clinic,2215.0,3250.0,Bulawayo,Bulawayo,Khami - 100733 - Clinic,DPL
+Bulawayo Metropolitan,Emakhandeni,Luveve,Luveve - 100786 - Clinic,3859.0,5079.0,Bulawayo,Bulawayo,Luveve - 100786 - Clinic,DPL
+Bulawayo Metropolitan,Emakhandeni,Magwegwe,Magwegwe - 100824 - Clinic,2477.0,3085.0,Bulawayo,Bulawayo,Magwegwe - 100824 - Clinic,DPL
+Bulawayo Metropolitan,Nkulumane,Maqhawe,Maqhawe - 100893 - Clinic,2575.0,3008.0,Bulawayo,Bulawayo,Maqhawe - 100893 - Clinic,DPL
+Bulawayo Metropolitan,Northern Suburbs,Mzilikazi,Mzilikazi - 101202 - Clinic,4047.0,4361.0,Bulawayo,Bulawayo,Mzilikazi - 101202 - Clinic,DPL
+Bulawayo Metropolitan,Nkulumane,Nkulumane,Nkulumane - 101278 - Clinic,3760.0,4249.0,Bulawayo,Bulawayo,Nkulumane - 101278 - Clinic,DPL
+Bulawayo Metropolitan,Northern Suburbs,Northern Suburbs,Northern Suburbs - 101290 - Clinic,3117.0,3408.0,Bulawayo,Bulawayo,Northern Suburbs - 101290 - Clinic,DPL
+Bulawayo Metropolitan,Northern Suburbs,Princess Margaret,Princess Margaret - 101429 - Clinic,2657.0,2582.0,Bulawayo,Bulawayo,Princess Margaret - 101429 - Clinic,DPL
+,,,Pumula - 101432 - Clinic,2688,3046,Bulawayo,Bulawayo,Pumula - 101432 - Clinic,DPL
+Bulawayo Metropolitan,Emakhandeni,Pumula South,Pumula South - 101434 - Clinic,2169.0,2182.0,Bulawayo,Bulawayo,Pumula South - 101434 - Clinic,DPL
+,,,United Bulawayo Hospital - 101723,1470,5457,Bulawayo,Bulawayo,United Bulawayo Hospital - 101723,DPL
+,,,Cesshar,28,,Bulawayo,Bulawayo,Cesshar,Mobile
+Bulawayo Metropolitan,Emakhandeni,Cowdray Park,Cowdray Park - 100348 - Clinic,1854.0,2252.0,Bulawayo,Bulawayo,Cowdray Park - 100348 - Clinic,Mobile
+Bulawayo Metropolitan,Nkulumane,Dr Shennan,Dr. Shennan - 100418 - Clinic,845.0,861.0,Bulawayo,Bulawayo,Dr. Shennan - 100418 - Clinic,Mobile
+,,nan,Emganwini Clinic,17.0,18,Bulawayo,Bulawayo,Emganwini Clinic,Mobile
+,,,Ingutsheni - 100638 - Central Hospital,603,644,Bulawayo,Bulawayo,Ingutsheni - 100638 - Central Hospital,Mobile
+,,nan,Mahatshula Clinic,193.0,181,Bulawayo,Bulawayo,Mahatshula Clinic,Mobile
+,,,Mpilo - 101041 - Central Hospital,5162,10898,Bulawayo,Bulawayo,Mpilo - 101041 - Central Hospital,Mobile
+Bulawayo Metropolitan,Emakhandeni,Njube,Njube - 101273 - Clinic,2357.0,2399.0,Bulawayo,Bulawayo,Njube - 101273 - Clinic,Mobile
+Bulawayo Metropolitan,Nkulumane,Nketa,Nketa - 101276 - Clinic,4049.0,4001.0,Bulawayo,Bulawayo,Nketa - 101276 - Clinic,Mobile
+Bulawayo Metropolitan,Nkulumane,Pelandaba,Pelandaba - 101412 - Clinic,2742.0,3255.0,Bulawayo,Bulawayo,Pelandaba - 101412 - Clinic,Mobile
+,,,Thorngrove,0,0,Bulawayo,Bulawayo,Thorngrove,Mobile
+Bulawayo Metropolitan,Nkulumane,Tshabalala,Tshabalala - 101710 - Clinic,1768.0,2028.0,Bulawayo,Bulawayo,Tshabalala - 101710 - Clinic,Mobile
+,,,Seke North - 101533 - Clinic,5964,6824,Harare,Chitungwiza,Seke North - 101533 - Clinic,DPL
+Harare Metropolitan,Chitungwiza,Zengeza,Zengeza Clinic - 100305 - Council Clinic,6062.0,6252.0,Harare,Chitungwiza,Zengeza Clinic - 100305 - Council Clinic,DPL
+Harare Metropolitan,Chitungwiza,Seke South,Seke South - 101534 - Clinic,5131.0,6432.0,Harare,Chitungwiza,Seke South - 101534 - Clinic,Mobile
+Harare Metropolitan,Chitungwiza,St Mary's,St. Mary's - 101633 - Clinic,6695.0,6925.0,Harare,Chitungwiza,St. Mary's - 101633 - Clinic,Mobile
+,,,Epworth - 100451 - Poly Clinic,10318,11460,Harare,Epworth,Epworth - 100451 - Poly Clinic,DPL
+Harare Metropolitan,Epworth,Epworth Mission,Epworth - 100452 - Mission Clinic,1429.0,2940.0,Harare,Epworth,Epworth - 100452 - Mission Clinic,Mobile
+,,,Overspill - 101399 - Satellite Clinic,6908,8190,Harare,Epworth,Overspill - 101399 - Satellite Clinic,Mobile
+Harare Metropolitan,Harare City,Belvedere Satellite,Belvedere - 100055 - Poly clinic,400.0,1840.0,Harare,Harare,Belvedere - 100055 - Poly clinic,DPL
+Harare Metropolitan,Harare City,Braeside FHS,Braeside - 100091 - Clinic,286.0,509.0,Harare,Harare,Braeside - 100091 - Clinic,DPL
+Harare Metropolitan,Harare City,Budiriro Poly,Budiriro - 100098 - Poly Clinic,40.0,5331.0,Harare,Harare,Budiriro - 100098 - Poly Clinic,DPL
+Harare Metropolitan,Harare City,Glen Norah Satellite,Glen Norah - 100506 - Satellite clinic,316.0,2349.0,Harare,Harare,Glen Norah - 100506 - Satellite clinic,DPL
+,,,Glen View - 100507 - Poly clinic,4929,5625,Harare,Harare,Glen View - 100507 - Poly clinic,DPL
+Harare Metropolitan,Harare City,Hatfield,Hatfield - 100585 - Clinic,323.0,2717.0,Harare,Harare,Hatfield - 100585 - Clinic,DPL
+,,,Highfield - 100593 - Poly Clinic,3864,4862,Harare,Harare,Highfield - 100593 - Poly Clinic,DPL
+Harare Metropolitan,Harare City,Kambuzuma,Kambuzuma - 100695 - Poly clinic,971.0,3065.0,Harare,Harare,Kambuzuma - 100695 - Poly clinic,DPL
+Harare Metropolitan,Harare City,Kuwadzana PolyClinic,Kuwadzana - 100751 - Poly Clinic,4838.0,5353.0,Harare,Harare,Kuwadzana - 100751 - Poly Clinic,DPL
+Harare Metropolitan,Harare City,Kuwadzana Phase 4,Kuwadzana Phase 4 -101851- Clinic,866.0,1962.0,Harare,Harare,Kuwadzana Phase 4 -101851- Clinic,DPL
+Harare Metropolitan,Harare City,Mabelreign Satellite,Mabelreign - 100791 - satellite clinic,879.0,2253.0,Harare,Harare,Mabelreign - 100791 - satellite clinic,DPL
+Harare Metropolitan,Harare City,Mabvuku Poly,Mabvuku - 100797 - Poly Clinic,4811.0,4730.0,Harare,Harare,Mabvuku - 100797 - Poly Clinic,DPL
+Harare Metropolitan,Harare City,Marlborough Satellite,Malborough - 100860 - Council Clinic,1985.0,1979.0,Harare,Harare,Malborough - 100860 - Council Clinic,DPL
+Harare Metropolitan,Harare City,Matapi,Matapi - 100944 - Clinic,818.0,1636.0,Harare,Harare,Matapi - 100944 - Clinic,DPL
+,,,Mbare - 100987 - Poly clinic,4597,6856,Harare,Harare,Mbare - 100987 - Poly clinic,DPL
+Harare Metropolitan,Harare City,Mbare Hostels,Mbare Hostels - 100988 - Clinic,1349.0,2110.0,Harare,Harare,Mbare Hostels - 100988 - Clinic,DPL
+,,,Parirenyatwa Primary Care - 101852,1251,2372,Harare,Harare,Parirenyatwa Primary Care - 101852,DPL
+Harare Metropolitan,Harare City,Rutsanana Poly,Rutsanana - 101491 - Clinic,3900.0,4057.0,Harare,Harare,Rutsanana - 101491 - Clinic,DPL
+Harare Metropolitan,Harare City,Tafara FHS,Tafara - 101669 - Clinic,761.0,1268.0,Harare,Harare,Tafara - 101669 - Clinic,DPL
+Harare Metropolitan,Harare City,Warren Park PolyClinic,Warren Park - 101760 - Poly clinic,3212.0,3448.0,Harare,Harare,Warren Park - 101760 - Poly clinic,DPL
+Harare Metropolitan,Harare City,Arcadia,Arcadia - 100015 - Clinic,603.0,973.0,Harare,Harare,Arcadia - 100015 - Clinic,Mobile
+Harare Metropolitan,Harare City,Avondale,Avondale - 100030 - Clinic,1274.0,1314.0,Harare,Harare,Avondale - 100030 - Clinic,Mobile
+Harare Metropolitan,Harare City,Beatrice Road,Beatrice Infectious - 100050 - Hospital,1233.0,3032.0,Harare,Harare,Beatrice Infectious - 100050 - Hospital,Mobile
+Harare Metropolitan,Harare City,Borrowdale,Borrowdale - 100086 - Clinic,1199.0,1268.0,Harare,Harare,Borrowdale - 100086 - Clinic,Mobile
+Harare Metropolitan,Harare City,Budiriro Satellite,Budiriro - 101889 - Satelite Clinic,107.0,1533.0,Harare,Harare,Budiriro - 101889 - Satelite Clinic,Mobile
+,,,Cesshar Mbare,34,59,Harare,Harare,Cesshar Mbare,Mobile
+,,nan,Eastly - 100433 - Clinic,21.0,,Harare,Harare,Eastly - 100433 - Clinic,Mobile
+,,,Glen View - 100508 - Satellite clinic,823,1322,Harare,Harare,Glen View - 100508 - Satellite clinic,Mobile
+,,nan,Greendale - 100535 - Clinic,223.0,,Harare,Harare,Greendale - 100535 - Clinic,Mobile
+Harare Metropolitan,Harare City,Hatcliffe Poly,Hatcliffe - 100584 - Poly clinic,3494.0,5236.0,Harare,Harare,Hatcliffe - 100584 - Poly clinic,Mobile
+,,nan,Highlands - 100596 - Clinic,6.0,112,Harare,Harare,Highlands - 100596 - Clinic,Mobile
+Harare Metropolitan,Harare City,Highlands Primary Care,Highlands PCC,267.0,2064.0,Harare,Harare,Highlands PCC,Mobile
+,,,Hopley - 100608 - Clinic,,,Harare,Harare,Hopley - 100608 - Clinic,Mobile
+Harare Metropolitan,Harare City,Mabvuku Satellite,Mabvuku - 100796 - Clinic,845.0,1755.0,Harare,Harare,Mabvuku - 100796 - Clinic,Mobile
+Harare Metropolitan,Harare City,Mount Pleasant,Mt. Pleasant - 101062 - Clinic,171.0,1267.0,Harare,Harare,Mt. Pleasant - 101062 - Clinic,Mobile
+Harare Metropolitan,Harare City,Mufakose Poly,Mufakose - 101085 - Poly clinic,3775.0,3805.0,Harare,Harare,Mufakose - 101085 - Poly clinic,Mobile
+,,,Mufakose FHS,,,Harare,Harare,Mufakose FHS,Mobile
+,,,Rujeko - 101469 - Poly clinic,,,Harare,Harare,Rujeko - 101469 - Poly clinic,Mobile
+Harare Metropolitan,Harare City,Southerton,Southerton - 101619 - Clinic,0.0,579.0,Harare,Harare,Southerton - 101619 - Clinic,Mobile
+,,,Stoneridge,,,Harare,Harare,Stoneridge,Mobile
+,,,Wilkins Infectious Disease Hospital,,,Harare,Harare,Wilkins Infectious Disease Hospital,Mobile
+Harare Metropolitan,Ruwa,Ruwa PolyClinic,Ruwa - 101493 - Rural Health Centre,39.0,2128.0,Harare,Ruwa,Ruwa - 101493 - Rural Health Centre,DPL
+,,,Ruwa Rehabilitation - 101495,,,Harare,Ruwa,Ruwa Rehabilitation - 101495,Mobile
+Manicaland,Mutare,Zimunya,Zimunya - 101805 - Clinic,304.0,999.0,Manicaland,Mutare,Zimunya - 101805 - Clinic,DPL
+Mashonaland Central,Guruve,Bakasa,Bakasa - 100035 - Clinic,500.0,479.0,Mash. Central,Guruve,Bakasa - 100035 - Clinic,Mobile
+,,,Bepura - 100058 - Clinic,,,Mash. Central,Guruve,Bepura - 100058 - Clinic,Mobile
+,,,Guruve - 100553 - District Hospital,,,Mash. Central,Guruve,Guruve - 100553 - District Hospital,Mobile
+,,,Guruve - 100554 - Clinic,,,Mash. Central,Guruve,Guruve - 100554 - Clinic,Mobile
+,,,Bare - 100046 - Clinic,,,Mash. Central,Mazowe,Bare - 100046 - Clinic,Mobile
+,,,Concession - 100345 - District Hospital,,,Mash. Central,Mazowe,Concession - 100345 - District Hospital,Mobile
+,,,Dambo - 100361 - Clinic,,,Mash. Central,Mazowe,Dambo - 100361 - Clinic,Mobile
+,,,Donje - 100409 - Clinic,,,Mash. Central,Mazowe,Donje - 100409 - Clinic,Mobile
+,,,Henderson Research - 100590 - Clinic,,,Mash. Central,Mazowe,Henderson Research - 100590 - Clinic,Mobile
+Mashonaland Central,Mazowe,Howard,Howard - 100611 - Mission Hospital,48.0,2153.0,Mash. Central,Mazowe,Howard - 100611 - Mission Hospital,Mobile
+,,,Mvurwi - 101192 - Hospital,,,Mash. Central,Mazowe,Mvurwi - 101192 - Hospital,Mobile
+,,,Nzvimbo - 101391 - Clinic,,,Mash. Central,Mazowe,Nzvimbo - 101391 - Clinic,Mobile
+,,,Rosa - 101459 - Rural Hospital,,,Mash. Central,Mazowe,Rosa - 101459 - Rural Hospital,Mobile
+,,,Suoguru Clinic,,,Mash. Central,Mazowe,Suoguru Clinic,Mobile
+,,,Tsungubvi - 101717 - Clinic,,,Mash. Central,Mazowe,Tsungubvi - 101717 - Clinic,Mobile
+,,,Angwa - 100010 - Clinic,,,Mash. Central,Mbire,Angwa - 100010 - Clinic,Mobile
+,,,Chitsungo - 100303 - District Hospital,,,Mash. Central,Mbire,Chitsungo - 100303 - District Hospital,Mobile
+Mashonaland Central,Mbire,Mahuwe,Mahuwe - 100830 - Clinic,448.0,535.0,Mash. Central,Mbire,Mahuwe - 100830 - Clinic,Mobile
+Mashonaland Central,Mbire,Mushumbi RHC,Mushumbi - 101148 - Clinic,103.0,706.0,Mash. Central,Mbire,Mushumbi - 101148 - Clinic,Mobile
+Mashonaland Central,Mount Darwin,Karanda,Karanda - 100709 - Mission Hospital,813.0,813.0,Mash. Central,Mt Darwin,Karanda - 100709 - Mission Hospital,DPL
+,,,Matope - 100958 - Clinic,,,Mash. Central,Mt Darwin,Matope - 100958 - Clinic,DPL
+,,,Mt. Darwin - 101058 - District Hospital,,,Mash. Central,Mt Darwin,Mt. Darwin - 101058 - District Hospital,Mobile
+,,,Pfunyanguwo - 101414 - Clinic,,,Mash. Central,Mt Darwin,Pfunyanguwo - 101414 - Clinic,Mobile
+,,,Tsakare - 101708 - Clinic,,,Mash. Central,Mt Darwin,Tsakare - 101708 - Clinic,Mobile
+,,,Caledonia - 100115 - Clinic,,,Mash. East,Goromonzi,Caledonia - 100115 - Clinic,DPL
+Mashonaland East,Marondera,Kushinga Phikhelela Rural Health Centre,Kushinga Phikelela - 100749 - Clinic,801.0,971.0,Mash. East,Marondera,Kushinga Phikelela - 100749 - Clinic,DPL
+,,,Murewa - 101129 - District Hospital,,,Mash. East,Murehwa,Murewa - 101129 - District Hospital,DPL
+,,,Mutawatawa - 101170 - District Hosptal,,,Mash. East,UMP,Mutawatawa - 101170 - District Hosptal,DPL
+,,,Bromley - 100093 - Rural Health Centre,,,Mash. East,Goromonzi,Bromley - 100093 - Rural Health Centre,Mobile
+Mashonaland East,Goromonzi,Chinyika,Chinyika - 100242 - Clinic,1297.0,1318.0,Mash. East,Goromonzi,Chinyika - 100242 - Clinic,Mobile
+Mashonaland East,Goromonzi,Henry John Reimer,John Reimer - 100668 - Clinic,443.0,669.0,Mash. East,Goromonzi,John Reimer - 100668 - Clinic,Mobile
+Mashonaland East,Goromonzi,Kowoyo,Kowoyo - 100742 - Clinic,1041.0,1309.0,Mash. East,Goromonzi,Kowoyo - 100742 - Clinic,Mobile
+,,,Kubatsirana - 100744 - Clinic,,,Mash. East,Goromonzi,Kubatsirana - 100744 - Clinic,Mobile
+Mashonaland East,Goromonzi,Makumbe,Makumbe - 100853 - District Hospital,2501.0,3180.0,Mash. East,Goromonzi,Makumbe - 100853 - District Hospital,Mobile
+Mashonaland East,Goromonzi,Mwanza Rural Health Centre,Mwanza - 101195 - Rural Health Centre,1098.0,1097.0,Mash. East,Goromonzi,Mwanza - 101195 - Rural Health Centre,Mobile
+Mashonaland East,Goromonzi,Rusike,Rusike - 101479 - Clinic,199.0,834.0,Mash. East,Goromonzi,Rusike - 101479 - Clinic,Mobile
+,,,St. Joseph's - 101631 - Rural Health,,,Mash. East,Goromonzi,St. Joseph's - 101631 - Rural Health,Mobile
+Mashonaland East,Murewa,Kadzere Rural Health Centre,Kadzere - 100686 - Clinic,842.0,894.0,Mash. East,Murehwa,Kadzere - 100686 - Clinic,Mobile
+,,,St. Paul's Musami - 101638 - Mission,,,Mash. East,Murehwa,St. Paul's Musami - 101638 - Mission,Mobile
+,,,Beatrice - 100049 - Rural Hospital,,,Mash. East,Seke,Beatrice - 100049 - Rural Hospital,Mobile
+,,,Jonasi - 100673 - Clinic,,,Mash. East,Seke,Jonasi - 100673 - Clinic,Mobile
+,,,Kunaka - 100746 - Rural Hospital,,,Mash. East,Seke,Kunaka - 100746 - Rural Hospital,Mobile
+Mashonaland East,Uzumba Maramba Pfungwe,Mashambanhaka,Mashambanhaka - 100924 - Clinic,618.0,597.0,Mash. East,UMP,Mashambanhaka - 100924 - Clinic,Mobile
+,,nan,Tsokodeka clinic,86.0,,Mash. East,UMP,Tsokodeka clinic,Mobile
+Mashonaland West,Chegutu,Padre Pio Poly,Padre Pio Poly Clinic,1282.0,1259.0,Mash. West,Chegutu,Padre Pio Poly Clinic,DPL
+,,,Darwendale - 100368 - Rural Hospital,,,Mash. West,Zvimba,Darwendale - 100368 - Rural Hospital,DPL
+,,,Battlefields,,,Mash. West,Mhondoro,Battlefields,Mobile
+Masvingo,Chiredzi,Chiredzi,Chiredzi - 100264 - Hospital,67.0,4707.0,Masvingo,Chiredzi,Chiredzi - 100264 - Hospital,Mobile
+,,nan,Chizvirizvi - 100329 - Clinic,241.0,,Masvingo,Chiredzi,Chizvirizvi - 100329 - Clinic,Mobile
+Masvingo,Chiredzi,Rupangwana,Rapanguwana - 101442 - Clinic,648.0,690.0,Masvingo,Chiredzi,Rapanguwana - 101442 - Clinic,Mobile
+Masvingo,Chiredzi,Tshovani,Tsovani - 101715 - Clinic,1677.0,2491.0,Masvingo,Chiredzi,Tsovani - 101715 - Clinic,Mobile
+,,nan,Chivi - 100319 - Rural Hospital,185.0,,Masvingo,Chivi,Chivi - 100319 - Rural Hospital,Mobile
+,,,Mhandamabwe - 101011 - RHC,,,Masvingo,Chivi,Mhandamabwe - 101011 - RHC,Mobile
+Masvingo,Chivi,Nyahombe Rural Health Centre,Nyahombe - 101316 - Clinic,1070.0,1321.0,Masvingo,Chivi,Nyahombe - 101316 - Clinic,Mobile
+Masvingo,Chivi,Zivuku,Zivuku - 101812 - Clinic,687.0,751.0,Masvingo,Chivi,Zivuku - 101812 - Clinic,Mobile
+Masvingo,Gutu,Chinyika Rural,Chinyika - 100243 - Rural Health Centre,520.0,719.0,Masvingo,Gutu,Chinyika - 100243 - Rural Health Centre,Mobile
+Masvingo,Gutu,Gutu,Gutu - 100557 - Mission Hospital,412.0,1360.0,Masvingo,Gutu,Gutu - 100557 - Mission Hospital,Mobile
+,,,Majada - 100833 - Rural Health Centre,,,Masvingo,Gutu,Majada - 100833 - Rural Health Centre,Mobile
+,,,Nemashakwe - 101224 - Clinic,,,Masvingo,Gutu,Nemashakwe - 101224 - Clinic,Mobile
+Masvingo,Gutu,Zvavahera Rural Health Centre,Zvavahera - 101824 - Clinic,304.0,489.0,Masvingo,Gutu,Zvavahera - 101824 - Clinic,Mobile
+Masvingo,Masvingo,Bondolfi,Bondolfi - 100082 - Rural Hospital,584.0,586.0,Masvingo,Masvingo,Bondolfi - 100082 - Rural Hospital,Mobile
+,,,Charumbira - 100141 - Clinic,,,Masvingo,Masvingo,Charumbira - 100141 - Clinic,Mobile
+Masvingo,Masvingo,Guwa Rural Health Centre,Guwa - 100559 - Clinic,0.0,510.0,Masvingo,Masvingo,Guwa - 100559 - Clinic,Mobile
+Masvingo,Masvingo,Mapanzure,Mapanzure - 100884 - Clinic,0.0,648.0,Masvingo,Masvingo,Mapanzure - 100884 - Clinic,Mobile
+Masvingo,Masvingo,Mapanzure,Mapanzure - 100884 - Clinic,0.0,854.0,Masvingo,Masvingo,Mapanzure - 100884 - Clinic,Mobile
+Masvingo,Masvingo,Morgenster,Mogenester - 101030 - Mission Hospital,2.0,1351.0,Masvingo,Masvingo,Mogenester - 101030 - Mission Hospital,Mobile
+Masvingo,Masvingo,Mucheke,Mucheke - 101077 - Clinic,490.0,2483.0,Masvingo,Masvingo,Mucheke - 101077 - Clinic,Mobile
+,,,Mushandike - 101142 - Clinic,,,Masvingo,Masvingo,Mushandike - 101142 - Clinic,Mobile
+Masvingo,Masvingo,Musvovi Rural Health Centre,Musvovi - 101158 - Clinic,305.0,820.0,Masvingo,Masvingo,Musvovi - 101158 - Clinic,Mobile
+,,,Nemwanwa - 101228 - Clinic,,,Masvingo,Masvingo,Nemwanwa - 101228 - Clinic,Mobile
+,,,Ngomahuru - 101253 - RHC,,,Masvingo,Masvingo,Ngomahuru - 101253 - RHC,Mobile
+Masvingo,Masvingo,Nyajena Rural,Nyajena - 101321 - Rural Hospital,91.0,764.0,Masvingo,Masvingo,Nyajena - 101321 - Rural Hospital,Mobile
+,,,Nyikavanhu - 101386 - RHC,,,Masvingo,Masvingo,Nyikavanhu - 101386 - RHC,Mobile
+,,nan,Renco - 101449 - Mine Clinic,0.0,,Masvingo,Masvingo,Renco - 101449 - Mine Clinic,Mobile
+,,,Rujeko - 101468 - Clinic,,,Masvingo,Masvingo,Rujeko - 101468 - Clinic,Mobile
+Masvingo,Masvingo,Rukovo,Rukovo - 101470 - Clinic,63.0,515.0,Masvingo,Masvingo,Rukovo - 101470 - Clinic,Mobile
+,,,Runyararo NW Council Clinic,,,Masvingo,Masvingo,Runyararo NW Council Clinic,Mobile
+,,nan,Shonganiso - 101566 - Clinic,389.0,,Masvingo,Masvingo,Shonganiso - 101566 - Clinic,Mobile
+Masvingo,Masvingo,Shumba,Shumba - 101569 - Clinic,1.0,275.0,Masvingo,Masvingo,Shumba - 101569 - Clinic,Mobile
+Masvingo,Masvingo,Shumba,Shumba - 101569 - Clinic,1.0,807.0,Masvingo,Masvingo,Shumba - 101569 - Clinic,Mobile
+,,nan,Zimuto BC-101885-Clinic,42.0,,Masvingo,Masvingo,Zimuto BC-101885-Clinic,Mobile
+,,,Chimbudzi - 100211 - Clinic,,,Masvingo,Mwenezi,Chimbudzi - 100211 - Clinic,Mobile
+,,,Neshuro - 101232 - District Hospital,,,Masvingo,Mwenezi,Neshuro - 101232 - District Hospital,Mobile
+Masvingo,Zaka,Bvukururu,Bvukururu - 100110 - Clinic,780.0,783.0,Masvingo,Zaka,Bvukururu - 100110 - Clinic,Mobile
+Masvingo,Zaka,Jerera Satellite,Jerera - 100659 - Satelite Clinic,2.0,975.0,Masvingo,Zaka,Jerera - 100659 - Satelite Clinic,Mobile
+Masvingo,Zaka,Musiso,Musiso - 101153 - Mission Hospital,8.0,1691.0,Masvingo,Zaka,Musiso - 101153 - Mission Hospital,Mobile
+Masvingo,Zaka,Ndanga,Ndanga - 101210 - Hospital,263.0,2815.0,Masvingo,Zaka,Ndanga - 101210 - Hospital,Mobile
+Masvingo,Zaka,Svuure Rural Health Centre,Svuvure - 101665 - Rural Health Hospital,428.0,529.0,Masvingo,Zaka,Svuvure - 101665 - Rural Health Hospital,Mobile
+,,,Mbembeswana - 100990 - RHC,,,Mat. North,Bubi,Mbembeswana - 100990 - RHC,Mobile
+Matabeleland North,Lupane,Lupane Rural Health Centre,Lupane - 100781 - Rural Health Centre,1937.0,1904.0,Mat. North,Lupane,Lupane - 100781 - Rural Health Centre,Mobile
+Matabeleland North,Nkayi,Dakamela Rural,Dakamela - 100357 - Rural Hospital,512.0,875.0,Mat. North,Nkayi,Dakamela - 100357 - Rural Hospital,Mobile
+,,,Nkayi - 101275 - District Hospital,,,Mat. North,Nkayi,Nkayi - 101275 - District Hospital,Mobile
+,,,Mbembesi - 100989 - Rural Health Centre,,,Mat. North,Umguza,Mbembesi - 100989 - Rural Health Centre,Mobile
+,,,Nyamandlovu - 101332 - Hospital,,,Mat. North,Umguza,Nyamandlovu - 101332 - Hospital,Mobile
+,,,Redwood - 101447 - Clinic,,,Mat. North,Umguza,Redwood - 101447 - Clinic,Mobile
+,,,Dulibadzimu - 100423 - Clinic,,,Mat. South,Beitbridge,Dulibadzimu - 100423 - Clinic,Mobile
+,,,Mtetengwe - 101069 - Clinic,,,Mat. South,Beitbridge,Mtetengwe - 101069 - Clinic,Mobile
+Matabeleland South,Beitbridge,Zezani,Zezane - 101787 - Clinic,981.0,1202.0,Mat. South,Beitbridge,Zezane - 101787 - Clinic,Mobile
+Matabeleland South,Bulilima,Lady Barring Rural,Lady Barring - 100755 - Mission Hospital,757.0,765.0,Mat. South,Bulilima,Lady Barring - 100755 - Mission Hospital,Mobile
+Matabeleland South,Bulilima,Ndiweni,Ndiweni - 101211 - Clinic,797.0,785.0,Mat. South,Bulilima,Ndiweni - 101211 - Clinic,Mobile
+Matabeleland South,Bulilima,Sikhathini,Sikhatini - 101585 - Clinic,793.0,811.0,Mat. South,Bulilima,Sikhatini - 101585 - Clinic,Mobile
+,,,Manama - 100867 - Mission Hospital,,,Mat. South,Gwanda,Manama - 100867 - Mission Hospital,Mobile
+Matabeleland South,Gwanda,Selonga,Selonga - 101536 - Rural Health Centre,815.0,946.0,Mat. South,Gwanda,Selonga - 101536 - Rural Health Centre,Mobile
+Matabeleland South,Insiza,Nkankezi Rural Health Centre,Nkankezi - 101274 - Rural Health Centre,1302.0,1200.0,Mat. South,Insiza,Nkankezi - 101274 - Rural Health Centre,Mobile
+,,,Shangani - 101557 - Rural Hospital,,,Mat. South,Insiza,Shangani - 101557 - Rural Hospital,Mobile
+Matabeleland South,Insiza,Singwango,Singwango - 101603 - Clinic,913.0,953.0,Mat. South,Insiza,Singwango - 101603 - Clinic,Mobile
+Matabeleland South,Insiza,Zhulube,Zhulube - 101793 - Clinic,825.0,1153.0,Mat. South,Insiza,Zhulube - 101793 - Clinic,Mobile
+Matabeleland South,Mangwe,Bango Rural Health Centre,Bango - 100042 - Clinic,595.0,601.0,Mat. South,Mangwe,Bango - 100042 - Clinic,Mobile
+Matabeleland South,Mangwe,Dingumuzi,Dingumuzi - 100394 - Clinic,600.0,677.0,Mat. South,Mangwe,Dingumuzi - 100394 - Clinic,Mobile
+Matabeleland South,Mangwe,Ingwizi Rural Health Centre,Ingwizi - 100639 - Clinic,1145.0,1311.0,Mat. South,Mangwe,Ingwizi - 100639 - Clinic,Mobile
+Matabeleland South,Mangwe,Sanzukwi,SANZUKWI - 101529 - Clinic,644.0,691.0,Mat. South,Mangwe,SANZUKWI - 101529 - Clinic,Mobile
+,,,St. Annes Brunapeg - 101642 - Mission,,,Mat. South,Mangwe,St. Annes Brunapeg - 101642 - Mission,Mobile
+Matabeleland South,Mangwe,Tshitshi,Tshitshi - 101712 - Clinic,875.0,940.0,Mat. South,Mangwe,Tshitshi - 101712 - Clinic,Mobile
+,,,Kezi - 100732 - Rural Hospital,,,Mat. South,Matobo,Kezi - 100732 - Rural Hospital,Mobile
+,,,Matobo Rural - 100957 - Rural Hospital,,,Mat. South,Matobo,Matobo Rural - 100957 - Rural Hospital,Mobile
+Matabeleland South,Matobo,Natisa Rural Health Centre,Natisa - 101208 - Rural Health Centre,757.0,780.0,Mat. South,Matobo,Natisa - 101208 - Rural Health Centre,Mobile
+,,,St. Joseph's - 101644 - Rural Hospital,,,Mat. South,Matobo,St. Joseph's - 101644 - Rural Hospital,Mobile
+,,,Tshelanyemba - 101711 - Mission Hospital,,,Mat. South,Matobo,Tshelanyemba - 101711 - Mission Hospital,Mobile
+,,,Habani - 100578 - Clinic,,,Mat. South,Umzingwane,Habani - 100578 - Clinic,Mobile
+,,,How Mine - 100610 - Mine Clinic,,,Mat. South,Umzingwane,How Mine - 100610 - Mine Clinic,Mobile
+,,,Mawabeni - 100969 - Clinic,,,Mat. South,Umzingwane,Mawabeni - 100969 - Clinic,Mobile
+,,,Nhlangano - 101269 - Clinic,,,Mat. South,Umzingwane,Nhlangano - 101269 - Clinic,Mobile
+,,,Ntshamathe - 101304 - Clinic,,,Mat. South,Umzingwane,Ntshamathe - 101304 - Clinic,Mobile
+,,,Umzingwane - 101725 - Clinic,,,Mat. South,Umzingwane,Umzingwane - 101725 - Clinic,Mobile
+,,,Zimbili - 101911 - Clinic,,,Mat. South,Umzingwane,Zimbili - 101911 - Clinic,Mobile
+,,nan,Somabula - 101613 - Clinic,380.0,,Midlands,Gweru,Somabula - 101613 - Clinic,Mobile
+Midlands,Kwekwe,Sherwood,Sherwood - 101561 - Clinic,531.0,773.0,Midlands,Kwekwe,Sherwood - 101561 - Clinic,Mobile
