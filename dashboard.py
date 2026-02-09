@@ -84,7 +84,7 @@ def load_data():
 df = load_data()
 
 # Header
-st.title("🏥 Health Facility TX_CURR Dashboard")
+st.title("🇿🇼 TX_CURR Dashboard")
 st.markdown("### Comparing DATIM and MRF Treatment Current (TX_CURR) Data")
 st.markdown("---")
 
