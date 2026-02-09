@@ -14,7 +14,7 @@ Bulawayo Metropolitan,Northern Suburbs,Princess Margaret,Princess Margaret - 101
 ,,,Pumula - 101432 - Clinic,2688,3046,Bulawayo,Bulawayo,Pumula - 101432 - Clinic,DPL
 Bulawayo Metropolitan,Emakhandeni,Pumula South,Pumula South - 101434 - Clinic,2169.0,2182.0,Bulawayo,Bulawayo,Pumula South - 101434 - Clinic,DPL
 ,,,United Bulawayo Hospital - 101723,1470,5457,Bulawayo,Bulawayo,United Bulawayo Hospital - 101723,DPL
-,,,Cesshar,28,,Bulawayo,Bulawayo,Cesshar,Mobile
+,,,Cesshar,28,58,Bulawayo,Bulawayo,Cesshar,Mobile
 Bulawayo Metropolitan,Emakhandeni,Cowdray Park,Cowdray Park - 100348 - Clinic,1854.0,2252.0,Bulawayo,Bulawayo,Cowdray Park - 100348 - Clinic,Mobile
 Bulawayo Metropolitan,Nkulumane,Dr Shennan,Dr. Shennan - 100418 - Clinic,845.0,861.0,Bulawayo,Bulawayo,Dr. Shennan - 100418 - Clinic,Mobile
 ,,nan,Emganwini Clinic,17.0,18,Bulawayo,Bulawayo,Emganwini Clinic,Mobile
@@ -59,9 +59,9 @@ Harare Metropolitan,Harare City,Beatrice Road,Beatrice Infectious - 100050 - Hos
 Harare Metropolitan,Harare City,Borrowdale,Borrowdale - 100086 - Clinic,1199.0,1268.0,Harare,Harare,Borrowdale - 100086 - Clinic,Mobile
 Harare Metropolitan,Harare City,Budiriro Satellite,Budiriro - 101889 - Satelite Clinic,107.0,1533.0,Harare,Harare,Budiriro - 101889 - Satelite Clinic,Mobile
 ,,,Cesshar Mbare,34,59,Harare,Harare,Cesshar Mbare,Mobile
-,,nan,Eastly - 100433 - Clinic,21.0,,Harare,Harare,Eastly - 100433 - Clinic,Mobile
+,,nan,Eastly - 100433 - Clinic,21.0,275,Harare,Harare,Eastly - 100433 - Clinic,Mobile
 ,,,Glen View - 100508 - Satellite clinic,823,1322,Harare,Harare,Glen View - 100508 - Satellite clinic,Mobile
-,,nan,Greendale - 100535 - Clinic,223.0,,Harare,Harare,Greendale - 100535 - Clinic,Mobile
+,,nan,Greendale - 100535 - Clinic,223.0,324,Harare,Harare,Greendale - 100535 - Clinic,Mobile
 Harare Metropolitan,Harare City,Hatcliffe Poly,Hatcliffe - 100584 - Poly clinic,3494.0,5236.0,Harare,Harare,Hatcliffe - 100584 - Poly clinic,Mobile
 ,,nan,Highlands - 100596 - Clinic,6.0,112,Harare,Harare,Highlands - 100596 - Clinic,Mobile
 Harare Metropolitan,Harare City,Highlands Primary Care,Highlands PCC,267.0,2064.0,Harare,Harare,Highlands PCC,Mobile
