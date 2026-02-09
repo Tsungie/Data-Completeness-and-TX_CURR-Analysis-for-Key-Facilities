@@ -67,9 +67,9 @@ def load_data():
     def categorize_concordance(row):
         # If DATIM is 0 or null, can't calculate concordance
         if pd.isna(row['TX_CURR _datim']) or row['TX_CURR _datim'] == 0:
-            return 'Not Applicable (No DATIM Data)'
+            return 'No DATIM Data'
         elif pd.isna(row['Difference_Percent']):
-            return 'Not Applicable (No DATIM Data)'
+            return 'No DATIM Data'
         elif abs(row['Difference_Percent']) <= 5:
             return 'High Concordance (≤5%)'
         elif abs(row['Difference_Percent']) <= 10:
@@ -86,7 +86,6 @@ df = load_data()
 # Header
 st.title("🏥 Health Facility TX_CURR Dashboard")
 st.markdown("### Comparing DATIM and MRF Treatment Current (TX_CURR) Data")
-st.markdown("*Analyzing alignment between two data sources*")
 st.markdown("---")
 
 # Sidebar filters
@@ -192,7 +191,7 @@ with tab1:
         concordance_counts.columns = ['Category', 'Number of Facilities']
         
         # Define order for consistency
-        order = ['High Concordance (≤5%)', 'Moderate Concordance (5-10%)', 'Low Concordance (>10%)', 'Not Applicable (No DATIM Data)']
+        order = ['High Concordance (≤5%)', 'Moderate Concordance (5-10%)', 'Low Concordance (>10%)', 'No DATIM Data']
         concordance_counts['Category'] = pd.Categorical(concordance_counts['Category'], categories=order, ordered=True)
         concordance_counts = concordance_counts.sort_values('Category')
         
@@ -205,7 +204,7 @@ with tab1:
                 'High Concordance (≤5%)': '#2ecc71',
                 'Moderate Concordance (5-10%)': '#f39c12',
                 'Low Concordance (>10%)': '#e74c3c',
-                'Not Applicable (No DATIM Data)': '#95a5a6'
+                'No DATIM Data': '#95a5a6'
             },
             hole=0.4
         )
@@ -348,7 +347,7 @@ with tab3:
     st.markdown("*Identifying facilities with strong concordance and those needing attention*")
     
     # Not applicable section (facilities with no DATIM data - they don't provide HIV treatment)
-    not_applicable_df = filtered_df[filtered_df['Concordance_Level'] == 'Not Applicable (No DATIM Data)']
+    not_applicable_df = filtered_df[filtered_df['Concordance_Level'] == 'No DATIM Data']
     if len(not_applicable_df) > 0:
         with st.expander(f"ℹ️ Facilities Not Providing HIV Treatment ({len(not_applicable_df)} facilities)", expanded=False):
             st.markdown("*These facilities reported zero in DATIM (they do not provide HIV treatment services)*")
@@ -473,7 +472,7 @@ with tab3:
     fig5 = go.Figure()
     
     for category in ['High Concordance (≤5%)', 'Moderate Concordance (5-10%)', 
-                    'Low Concordance (>10%)', 'Not Applicable (No DATIM Data)']:
+                    'Low Concordance (>10%)', 'No DATIM Data']:
         if category in concordance_province_pct.columns:
             fig5.add_trace(go.Bar(
                 name=category,
@@ -483,7 +482,7 @@ with tab3:
                     'High Concordance (≤5%)': '#2ecc71',
                     'Moderate Concordance (5-10%)': '#f39c12',
                     'Low Concordance (>10%)': '#e74c3c',
-                    'Not Applicable (No DATIM Data)': '#95a5a6'
+                    'No DATIM Data': '#95a5a6'
                 }[category]
             ))
     
@@ -519,7 +518,7 @@ with tab3:
             'High Concordance (≤5%)': '#2ecc71',
             'Moderate Concordance (5-10%)': '#f39c12',
             'Low Concordance (>10%)': '#e74c3c',
-            'Not Applicable (No DATIM Data)': '#95a5a6'
+            'No DATIM Data': '#95a5a6'
         },
         height=500
     )
@@ -555,8 +554,8 @@ with tab3:
     with col2:
         # Concordance metrics
         st.markdown("**Concordance Summary**")
-        # Only count facilities that have DATIM data (exclude Not Applicable)
-        total = len(filtered_df[filtered_df['Concordance_Level'] != 'Not Applicable (No DATIM Data)'])
+        # Only count facilities that have DATIM data (exclude No DATIM Data)
+        total = len(filtered_df[filtered_df['Concordance_Level'] != 'No DATIM Data'])
         if total > 0:
             high = len(filtered_df[filtered_df['Concordance_Level'] == 'High Concordance (≤5%)'])
             moderate = len(filtered_df[filtered_df['Concordance_Level'] == 'Moderate Concordance (5-10%)'])
