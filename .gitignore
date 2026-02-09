@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+env/
+venv/
+*.env
+.venv/
+.direnv/
+.project
+.vscode/
+.idea/
+*.egg-info/
+build/
+dist/
+.DS_Store
+
+# Streamlit specific
+.streamlit/
+
+# Data files (based on context, assuming 'uploads' contains data not to be committed)
+uploads/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
