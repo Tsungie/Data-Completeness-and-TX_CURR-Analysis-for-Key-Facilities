@@ -22,8 +22,6 @@ dist/
 # Streamlit specific
 .streamlit/
 
-# Data files (based on context, assuming 'uploads' contains data not to be committed)
-uploads/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
