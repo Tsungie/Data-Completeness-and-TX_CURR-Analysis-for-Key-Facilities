@@ -31,7 +31,7 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('uploads/MRF_-_DATIM_for_complete_sites.csv')
+    df = pd.read_csv('uploads/MRF_Datim.csv')
     
     # Clean column names (remove extra spaces)
     df.columns = df.columns.str.strip()
