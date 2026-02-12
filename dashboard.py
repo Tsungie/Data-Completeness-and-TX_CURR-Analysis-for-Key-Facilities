@@ -377,7 +377,7 @@ with tab3:
     # Not applicable section
     not_applicable_df = filtered_df[filtered_df['Concordance_Level'] == 'No DATIM Data']
     if len(not_applicable_df) > 0:
-        with st.expander(f"ℹ️ Facilities with no zero ({len(not_applicable_df)} facilities)", expanded=False):
+        with st.expander(f"ℹ️ Facilities with no datim data ({len(not_applicable_df)} facilities)", expanded=False):
             st.markdown("*These facilities reported zero in DATIM*")
             na_display = not_applicable_df[['Facility Name', 'Province', 'District', 'TX_CURR _datim', 'TX_CURR _mrf']].copy()
             st.dataframe(na_display, hide_index=True, use_container_width=True, height=300)
