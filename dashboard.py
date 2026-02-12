@@ -52,9 +52,9 @@ st.markdown("""
 def load_data():
     # Ensure this path matches your actual file location
     try:
-        df = pd.read_csv('uploads/MRF_Datim.csv', encoding='utf-8-sig')
+        df = pd.read_csv('uploads/MERGED/Additional_Facilities_Mapped.csv', encoding='utf-8-sig')
     except FileNotFoundError:
-        st.error("File not found. Please check the file path 'uploads/MRF_Datim.csv'.")
+        st.error("File not found. Please check the file path 'uploads/MERGED/Additional_Facilities_Mapped.csv'.")
         return pd.DataFrame()
         
     # Clean column names
